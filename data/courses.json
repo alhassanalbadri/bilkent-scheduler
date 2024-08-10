@@ -5251,19 +5251,19 @@
               "schedule": [
                 {
                   "slot": 1,
-                  "classroom": "(S)"
+                  "classroom": "EE-412(S)"
                 },
                 {
                   "slot": 8,
-                  "classroom": ""
+                  "classroom": "EE-412"
                 },
                 {
                   "slot": 38,
-                  "classroom": ""
+                  "classroom": "EE-412"
                 },
                 {
                   "slot": 45,
-                  "classroom": ""
+                  "classroom": "EE-412"
                 }
               ]
             },
@@ -9252,6 +9252,10 @@
                   "classroom": ""
                 },
                 {
+                  "slot": 14,
+                  "classroom": ""
+                },
+                {
                   "slot": 39,
                   "classroom": ""
                 },
@@ -9271,6 +9275,10 @@
                 },
                 {
                   "slot": 9,
+                  "classroom": ""
+                },
+                {
+                  "slot": 14,
                   "classroom": ""
                 },
                 {
@@ -9296,6 +9304,10 @@
                   "classroom": ""
                 },
                 {
+                  "slot": 22,
+                  "classroom": ""
+                },
+                {
                   "slot": 39,
                   "classroom": ""
                 },
@@ -9315,6 +9327,10 @@
                 },
                 {
                   "slot": 9,
+                  "classroom": ""
+                },
+                {
+                  "slot": 35,
                   "classroom": ""
                 },
                 {
@@ -9340,6 +9356,10 @@
                   "classroom": ""
                 },
                 {
+                  "slot": 35,
+                  "classroom": ""
+                },
+                {
                   "slot": 39,
                   "classroom": ""
                 },
@@ -9353,6 +9373,10 @@
               "number": "6",
               "instructor": "Mustafa Eray Yücel",
               "schedule": [
+                {
+                  "slot": 7,
+                  "classroom": ""
+                },
                 {
                   "slot": 15,
                   "classroom": "(S)"
@@ -9376,6 +9400,10 @@
               "instructor": "Mustafa Eray Yücel",
               "schedule": [
                 {
+                  "slot": 7,
+                  "classroom": ""
+                },
+                {
                   "slot": 15,
                   "classroom": "(S)"
                 },
@@ -9398,6 +9426,10 @@
               "instructor": "Mustafa Eray Yücel",
               "schedule": [
                 {
+                  "slot": 11,
+                  "classroom": ""
+                },
+                {
                   "slot": 15,
                   "classroom": "(S)"
                 },
@@ -9419,6 +9451,10 @@
               "number": "9",
               "instructor": "Mustafa Eray Yücel",
               "schedule": [
+                {
+                  "slot": 11,
+                  "classroom": ""
+                },
                 {
                   "slot": 15,
                   "classroom": "(S)"
@@ -9444,6 +9480,10 @@
                 {
                   "slot": 15,
                   "classroom": "(S)"
+                },
+                {
+                  "slot": 16,
+                  "classroom": ""
                 },
                 {
                   "slot": 22,
@@ -9478,6 +9518,10 @@
                   "classroom": ""
                 },
                 {
+                  "slot": 14,
+                  "classroom": ""
+                },
+                {
                   "slot": 36,
                   "classroom": ""
                 },
@@ -9497,6 +9541,10 @@
                 },
                 {
                   "slot": 11,
+                  "classroom": ""
+                },
+                {
+                  "slot": 14,
                   "classroom": ""
                 },
                 {
@@ -9522,6 +9570,10 @@
                   "classroom": ""
                 },
                 {
+                  "slot": 21,
+                  "classroom": ""
+                },
+                {
                   "slot": 36,
                   "classroom": ""
                 },
@@ -9538,6 +9590,10 @@
                 {
                   "slot": 4,
                   "classroom": "(S)"
+                },
+                {
+                  "slot": 9,
+                  "classroom": ""
                 },
                 {
                   "slot": 11,
@@ -9570,6 +9626,10 @@
                   "classroom": ""
                 },
                 {
+                  "slot": 39,
+                  "classroom": ""
+                },
+                {
                   "slot": 43,
                   "classroom": ""
                 }
@@ -9593,6 +9653,10 @@
                 },
                 {
                   "slot": 43,
+                  "classroom": ""
+                },
+                {
+                  "slot": 46,
                   "classroom": ""
                 }
               ]
@@ -16058,6 +16122,14 @@
                 {
                   "slot": 23,
                   "classroom": ""
+                },
+                {
+                  "slot": 53,
+                  "classroom": "FF-207"
+                },
+                {
+                  "slot": 60,
+                  "classroom": "FF-207"
                 }
               ]
             }
@@ -22893,19 +22965,19 @@
               "instructor": "Emre Nadar",
               "schedule": [
                 {
-                  "slot": 16,
+                  "slot": 1,
                   "classroom": "(S)"
                 },
                 {
-                  "slot": 23,
+                  "slot": 8,
                   "classroom": ""
                 },
                 {
-                  "slot": 53,
+                  "slot": 38,
                   "classroom": ""
                 },
                 {
-                  "slot": 60,
+                  "slot": 45,
                   "classroom": ""
                 }
               ]

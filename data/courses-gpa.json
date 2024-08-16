@@ -4448,7 +4448,7 @@
         },
         {
           "code": "ELIT 459",
-          "name": "Thinking with Poety",
+          "name": "Thinking with Poetry",
           "sections": [
             {
               "number": "1",
@@ -8754,6 +8754,17 @@
           "gpa": "3.28"
         },
         {
+          "code": "LAW 389",
+          "name": "The Right to Data Protection (in Turkish)",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Staff",
+              "schedule": []
+            }
+          ]
+        },
+        {
           "code": "LAW 401",
           "name": "Law of Negotiable Instruments (in Turkish)",
           "sections": [
@@ -8868,6 +8879,17 @@
             }
           ],
           "gpa": "3.38"
+        },
+        {
+          "code": "LAW 422",
+          "name": "Maritime Law",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Staff",
+              "schedule": []
+            }
+          ]
         },
         {
           "code": "LAW 447",
@@ -10577,6 +10599,18 @@
           "gpa": "2.82"
         },
         {
+          "code": "MATH 521",
+          "name": "Introduction to Quantum Computation",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Staff",
+              "schedule": []
+            }
+          ],
+          "gpa": "3.06"
+        },
+        {
           "code": "MATH 523",
           "name": "Algebra I",
           "sections": [
@@ -10596,14 +10630,33 @@
               "number": "1",
               "instructor": "Staff",
               "schedule": []
-            },
+            }
+          ],
+          "gpa": "3.35"
+        },
+        {
+          "code": "MATH 599",
+          "name": "Master's Thesis",
+          "sections": [
             {
-              "number": "2",
+              "number": "1",
               "instructor": "Staff",
               "schedule": []
             }
           ],
-          "gpa": "3.35"
+          "gpa": "0.00"
+        },
+        {
+          "code": "MATH 699",
+          "name": "Ph.D. Dissertation",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Staff",
+              "schedule": []
+            }
+          ],
+          "gpa": "0.00"
         }
       ]
     }
@@ -10858,6 +10911,17 @@
             }
           ],
           "gpa": "3.24"
+        },
+        {
+          "code": "MBG 466",
+          "name": "Introduction to Cellular and Molecular Biology of the Brain",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Turgay Dalkara",
+              "schedule": []
+            }
+          ]
         },
         {
           "code": "MBG 483",
@@ -11469,6 +11533,11 @@
             },
             {
               "number": "2",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "3",
               "instructor": "Staff",
               "schedule": []
             }
@@ -13988,6 +14057,17 @@
             }
           ],
           "gpa": "3.80"
+        },
+        {
+          "code": "PSYC 560",
+          "name": "Developmental Intergroup Processes",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Seçil Gönültaş",
+              "schedule": []
+            }
+          ]
         },
         {
           "code": "PSYC 575",

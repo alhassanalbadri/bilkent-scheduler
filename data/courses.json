@@ -13036,7 +13036,7 @@
         },
         {
           "code": "ELIT 459",
-          "name": "Thinking with Poety",
+          "name": "Thinking with Poetry",
           "sections": [
             {
               "number": "1",
@@ -26409,6 +26409,34 @@
           ]
         },
         {
+          "code": "LAW 389",
+          "name": "The Right to Data Protection (in Turkish)",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Staff",
+              "schedule": [
+                {
+                  "slot": 18,
+                  "classroom": "(S)"
+                },
+                {
+                  "slot": 25,
+                  "classroom": ""
+                },
+                {
+                  "slot": 50,
+                  "classroom": ""
+                },
+                {
+                  "slot": 57,
+                  "classroom": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
           "code": "LAW 401",
           "name": "Law of Negotiable Instruments (in Turkish)",
           "sections": [
@@ -26714,6 +26742,34 @@
                 },
                 {
                   "slot": 42,
+                  "classroom": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "LAW 422",
+          "name": "Maritime Law",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Staff",
+              "schedule": [
+                {
+                  "slot": 2,
+                  "classroom": "(S)"
+                },
+                {
+                  "slot": 9,
+                  "classroom": ""
+                },
+                {
+                  "slot": 39,
+                  "classroom": ""
+                },
+                {
+                  "slot": 46,
                   "classroom": ""
                 }
               ]
@@ -31390,6 +31446,34 @@
           ]
         },
         {
+          "code": "MATH 521",
+          "name": "Introduction to Quantum Computation",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Staff",
+              "schedule": [
+                {
+                  "slot": 15,
+                  "classroom": "(S)"
+                },
+                {
+                  "slot": 22,
+                  "classroom": ""
+                },
+                {
+                  "slot": 52,
+                  "classroom": ""
+                },
+                {
+                  "slot": 59,
+                  "classroom": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
           "code": "MATH 523",
           "name": "Algebra I",
           "sections": [
@@ -31425,9 +31509,26 @@
                   "classroom": ""
                 }
               ]
-            },
+            }
+          ]
+        },
+        {
+          "code": "MATH 599",
+          "name": "Master's Thesis",
+          "sections": [
             {
-              "number": "2",
+              "number": "1",
+              "instructor": "Staff",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "MATH 699",
+          "name": "Ph.D. Dissertation",
+          "sections": [
+            {
+              "number": "1",
               "instructor": "Staff",
               "schedule": []
             }
@@ -32035,6 +32136,34 @@
                 },
                 {
                   "slot": 56,
+                  "classroom": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "MBG 466",
+          "name": "Introduction to Cellular and Molecular Biology of the Brain",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Turgay Dalkara",
+              "schedule": [
+                {
+                  "slot": 1,
+                  "classroom": "(S)"
+                },
+                {
+                  "slot": 8,
+                  "classroom": ""
+                },
+                {
+                  "slot": 38,
+                  "classroom": ""
+                },
+                {
+                  "slot": 45,
                   "classroom": ""
                 }
               ]
@@ -33293,6 +33422,20 @@
             },
             {
               "number": "2",
+              "instructor": "Staff",
+              "schedule": [
+                {
+                  "slot": 53,
+                  "classroom": ""
+                },
+                {
+                  "slot": 60,
+                  "classroom": ""
+                }
+              ]
+            },
+            {
+              "number": "3",
               "instructor": "Staff",
               "schedule": [
                 {
@@ -38328,6 +38471,17 @@
             {
               "number": "1",
               "instructor": "Burcu Ayşen Ürgen",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "PSYC 560",
+          "name": "Developmental Intergroup Processes",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Seçil Gönültaş",
               "schedule": []
             }
           ]

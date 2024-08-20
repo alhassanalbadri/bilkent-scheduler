@@ -494,11 +494,11 @@
               "schedule": [
                 {
                   "slot": 14,
-                  "classroom": "(S)"
+                  "classroom": ""
                 },
                 {
                   "slot": 21,
-                  "classroom": ""
+                  "classroom": "(S)"
                 },
                 {
                   "slot": 51,
@@ -900,7 +900,7 @@
               "schedule": [
                 {
                   "slot": 15,
-                  "classroom": "(S)"
+                  "classroom": ""
                 },
                 {
                   "slot": 22,
@@ -912,7 +912,7 @@
                 },
                 {
                   "slot": 59,
-                  "classroom": ""
+                  "classroom": "(S)"
                 }
               ]
             }
@@ -11029,19 +11029,19 @@
               "schedule": [
                 {
                   "slot": 0,
-                  "classroom": "(S)"
+                  "classroom": "G-254(S)"
                 },
                 {
                   "slot": 7,
-                  "classroom": ""
+                  "classroom": "G-254"
                 },
                 {
                   "slot": 37,
-                  "classroom": ""
+                  "classroom": "G-254"
                 },
                 {
                   "slot": 44,
-                  "classroom": ""
+                  "classroom": "G-254"
                 }
               ]
             }
@@ -11057,19 +11057,19 @@
               "schedule": [
                 {
                   "slot": 15,
-                  "classroom": ""
+                  "classroom": "G-254"
                 },
                 {
                   "slot": 22,
-                  "classroom": ""
+                  "classroom": "G-254"
                 },
                 {
                   "slot": 52,
-                  "classroom": ""
+                  "classroom": "G-254"
                 },
                 {
                   "slot": 59,
-                  "classroom": ""
+                  "classroom": "G-254"
                 }
               ]
             }
@@ -28291,19 +28291,19 @@
               "instructor": "Staff",
               "schedule": [
                 {
-                  "slot": 4,
+                  "slot": 3,
                   "classroom": ""
                 },
                 {
-                  "slot": 11,
+                  "slot": 10,
                   "classroom": ""
                 },
                 {
-                  "slot": 36,
+                  "slot": 35,
                   "classroom": ""
                 },
                 {
-                  "slot": 43,
+                  "slot": 42,
                   "classroom": ""
                 }
               ]
@@ -37511,7 +37511,7 @@
               "schedule": [
                 {
                   "slot": 16,
-                  "classroom": "(S)"
+                  "classroom": ""
                 },
                 {
                   "slot": 23,
@@ -37523,7 +37523,7 @@
                 },
                 {
                   "slot": 60,
-                  "classroom": ""
+                  "classroom": "(S)"
                 }
               ]
             }
@@ -38014,7 +38014,7 @@
               "schedule": [
                 {
                   "slot": 16,
-                  "classroom": "(S)"
+                  "classroom": ""
                 },
                 {
                   "slot": 23,
@@ -38026,7 +38026,7 @@
                 },
                 {
                   "slot": 60,
-                  "classroom": ""
+                  "classroom": "(S)"
                 }
               ]
             }
@@ -38557,7 +38557,7 @@
               "schedule": [
                 {
                   "slot": 17,
-                  "classroom": "(S)"
+                  "classroom": ""
                 },
                 {
                   "slot": 24,
@@ -38569,7 +38569,7 @@
                 },
                 {
                   "slot": 56,
-                  "classroom": ""
+                  "classroom": "(S)"
                 }
               ]
             },

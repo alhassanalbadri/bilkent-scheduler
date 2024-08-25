@@ -1249,6 +1249,16 @@
               "number": "12",
               "instructor": "Staff",
               "schedule": []
+            },
+            {
+              "number": "13",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "14",
+              "instructor": "Staff",
+              "schedule": []
             }
           ]
         },
@@ -1408,23 +1418,23 @@
           ]
         },
         {
-          "code": "COMD 513",
-          "name": "Film and Genre",
-          "sections": [
-            {
-              "number": "1",
-              "instructor": "Colleen Bevin Kennedy Karpat",
-              "schedule": []
-            }
-          ]
-        },
-        {
           "code": "COMD 517",
           "name": "Topics in Media Studies",
           "sections": [
             {
               "number": "1",
               "instructor": "Staff",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "COMD 538",
+          "name": "Adaptation in Media",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Colleen Bevin Kennedy Karpat",
               "schedule": []
             }
           ]
@@ -5153,6 +5163,17 @@
           ]
         },
         {
+          "code": "GE 420",
+          "name": "Applied Sustainable Business Development",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Ayşe Keens",
+              "schedule": []
+            }
+          ]
+        },
+        {
           "code": "GE 510",
           "name": "Fundamentals of Social Research Design",
           "sections": [
@@ -6222,6 +6243,17 @@
           ]
         },
         {
+          "code": "HIST 533",
+          "name": "Religion: East and West (1350-1850)",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Staff",
+              "schedule": []
+            }
+          ]
+        },
+        {
           "code": "HIST 534",
           "name": "Themes in the History of American Radicalism",
           "sections": [
@@ -6323,6 +6355,28 @@
         {
           "code": "HIST 5511",
           "name": "Picturing the Ottoman History and Ottomans",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Staff",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "HIST 5512",
+          "name": "The History and Cultural Heritage of Non-Muslim Populations(1839-1923)",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Staff",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "HIST 5520",
+          "name": "History of Emotions",
           "sections": [
             {
               "number": "1",
@@ -6798,6 +6852,11 @@
             },
             {
               "number": "4",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "5",
               "instructor": "Staff",
               "schedule": []
             }
@@ -9144,6 +9203,17 @@
           ]
         },
         {
+          "code": "MAN 333",
+          "name": "Marketing Principles",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Staff",
+              "schedule": []
+            }
+          ]
+        },
+        {
           "code": "MAN 335",
           "name": "Fundamentals of Marketing",
           "sections": [
@@ -9804,17 +9874,17 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "Dilek Köksal",
               "schedule": []
             },
             {
               "number": "2",
-              "instructor": "Staff",
+              "instructor": "Dilek Köksal",
               "schedule": []
             },
             {
               "number": "3",
-              "instructor": "Staff",
+              "instructor": "Dilek Köksal",
               "schedule": []
             }
           ]
@@ -9921,17 +9991,17 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "İnci Apaydın",
               "schedule": []
             },
             {
               "number": "2",
-              "instructor": "Staff",
+              "instructor": "İnci Apaydın",
               "schedule": []
             },
             {
               "number": "3",
-              "instructor": "Staff",
+              "instructor": "İnci Apaydın",
               "schedule": []
             }
           ]
@@ -10645,6 +10715,17 @@
           ]
         },
         {
+          "code": "ME 471",
+          "name": "Advanced System Modeling",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Yıldıray Yıldız",
+              "schedule": []
+            }
+          ]
+        },
+        {
           "code": "ME 481",
           "name": "Mechanical Engineering Design I",
           "sections": [
@@ -10858,6 +10939,11 @@
             },
             {
               "number": "3",
+              "instructor": "Aylin Yılmaz",
+              "schedule": []
+            },
+            {
+              "number": "4",
               "instructor": "Aylin Yılmaz",
               "schedule": []
             }
@@ -11294,12 +11380,7 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Juliana Katherine Snapper",
-              "schedule": []
-            },
-            {
-              "number": "2",
-              "instructor": "Staff",
+              "instructor": "Jennifer Leigh Tipton",
               "schedule": []
             }
           ]
@@ -11360,23 +11441,23 @@
           ]
         },
         {
+          "code": "MSC 315",
+          "name": "Score Reading I",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Işın Metin",
+              "schedule": []
+            }
+          ]
+        },
+        {
           "code": "MSC 321",
           "name": "Tonal Counterpoint",
           "sections": [
             {
               "number": "1",
               "instructor": "Yiğit Aydın",
-              "schedule": []
-            }
-          ]
-        },
-        {
-          "code": "MSC 322",
-          "name": "Post - Tonal Theory",
-          "sections": [
-            {
-              "number": "1",
-              "instructor": "Tahsin Tolga Yayalar",
               "schedule": []
             }
           ]
@@ -11455,8 +11536,8 @@
           "name": "Pedagogy I : Anatomy of the Voice",
           "sections": [
             {
-              "number": "1",
-              "instructor": "Staff",
+              "number": "2",
+              "instructor": "Jennifer Leigh Tipton",
               "schedule": []
             }
           ]
@@ -11548,6 +11629,28 @@
             {
               "number": "1",
               "instructor": "Staff",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "MSC 453",
+          "name": "Bilkent Chorale VII ",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Juliana Katherine Snapper",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "MSC 487",
+          "name": "Introduction to Electroacoustic Music",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Tahsin Tolga Yayalar",
               "schedule": []
             }
           ]
@@ -12813,22 +12916,22 @@
             },
             {
               "number": "2",
-              "instructor": "Selin Salman Engin",
+              "instructor": "Staff",
               "schedule": []
             },
             {
               "number": "3",
-              "instructor": "Kaan Kerman",
+              "instructor": "Staff",
               "schedule": []
             },
             {
               "number": "4",
-              "instructor": "Kaan Kerman",
+              "instructor": "Staff",
               "schedule": []
             },
             {
               "number": "5",
-              "instructor": "Kaan Kerman",
+              "instructor": "Staff",
               "schedule": []
             },
             {
@@ -12918,12 +13021,12 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "Kaan Kerman",
               "schedule": []
             },
             {
               "number": "2",
-              "instructor": "Staff",
+              "instructor": "Kaan Kerman",
               "schedule": []
             }
           ]
@@ -12934,7 +13037,7 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Miri Besken",
+              "instructor": "Selin Salman Engin",
               "schedule": []
             },
             {
@@ -12972,7 +13075,7 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Timothea Toulopoulou",
+              "instructor": "Kaan Kerman",
               "schedule": []
             }
           ]
@@ -13026,6 +13129,11 @@
           "sections": [
             {
               "number": "1",
+              "instructor": "Miri Besken",
+              "schedule": []
+            },
+            {
+              "number": "2",
               "instructor": "Miri Besken",
               "schedule": []
             }
@@ -13141,6 +13249,11 @@
           "sections": [
             {
               "number": "1",
+              "instructor": "Timothea Toulopoulou",
+              "schedule": []
+            },
+            {
+              "number": "2",
               "instructor": "Timothea Toulopoulou",
               "schedule": []
             }
@@ -13441,7 +13554,7 @@
         },
         {
           "code": "TEFL 556",
-          "name": "Seminar in TEFL",
+          "name": "Trends and Developments İn Applied Linguistics",
           "sections": [
             {
               "number": "1",
@@ -14126,7 +14239,7 @@
         },
         {
           "code": "TRIN 468",
-          "name": "Conference Interpreting ",
+          "name": "Advanced Consecutive Interpreting ",
           "sections": [
             {
               "number": "1",

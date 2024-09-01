@@ -2393,6 +2393,56 @@
     }
   },
   {
+    "CINT": {
+      "courses": [
+        {
+          "code": "CINT 501",
+          "name": "Theory of Interpreting",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Duygu Duman",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "CINT 503",
+          "name": "Introduction to the Practice of Interpreting",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Staff",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "CINT 509",
+          "name": "Advanced Consecutive Interpretation I",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Staff",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "CINT 513",
+          "name": "Advanced Simultaneous Interpreting I",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Staff",
+              "schedule": []
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
     "COMD": {
       "courses": [
         {
@@ -24105,7 +24155,7 @@
               "schedule": [
                 {
                   "slot": 17,
-                  "classroom": "EA-Z03(S)"
+                  "classroom": "EA-Z03"
                 },
                 {
                   "slot": 24,
@@ -24117,7 +24167,7 @@
                 },
                 {
                   "slot": 56,
-                  "classroom": "EA-Z03"
+                  "classroom": "EA-Z03(S)"
                 }
               ]
             }
@@ -27545,7 +27595,7 @@
               "schedule": [
                 {
                   "slot": 15,
-                  "classroom": "(S)"
+                  "classroom": ""
                 },
                 {
                   "slot": 22,
@@ -27557,7 +27607,7 @@
                 },
                 {
                   "slot": 59,
-                  "classroom": ""
+                  "classroom": "(S)"
                 }
               ]
             }

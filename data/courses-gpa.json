@@ -1039,6 +1039,60 @@
     }
   },
   {
+    "CINT": {
+      "courses": [
+        {
+          "code": "CINT 501",
+          "name": "Theory of Interpreting",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Duygu Duman",
+              "schedule": []
+            }
+          ],
+          "gpa": "2.80"
+        },
+        {
+          "code": "CINT 503",
+          "name": "Introduction to the Practice of Interpreting",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Staff",
+              "schedule": []
+            }
+          ],
+          "gpa": "2.47"
+        },
+        {
+          "code": "CINT 509",
+          "name": "Advanced Consecutive Interpretation I",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Staff",
+              "schedule": []
+            }
+          ],
+          "gpa": "2.10"
+        },
+        {
+          "code": "CINT 513",
+          "name": "Advanced Simultaneous Interpreting I",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Staff",
+              "schedule": []
+            }
+          ],
+          "gpa": "1.05"
+        }
+      ]
+    }
+  },
+  {
     "COMD": {
       "courses": [
         {

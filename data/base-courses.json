@@ -968,6 +968,56 @@
     }
   },
   {
+    "CINT": {
+      "courses": [
+        {
+          "code": "CINT 501",
+          "name": "Theory of Interpreting",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Duygu Duman",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "CINT 503",
+          "name": "Introduction to the Practice of Interpreting",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Staff",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "CINT 509",
+          "name": "Advanced Consecutive Interpretation I",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Staff",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "CINT 513",
+          "name": "Advanced Simultaneous Interpreting I",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Staff",
+              "schedule": []
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
     "COMD": {
       "courses": [
         {

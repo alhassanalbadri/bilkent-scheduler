@@ -13653,19 +13653,19 @@
               "schedule": [
                 {
                   "slot": 4,
-                  "classroom": "G-Z10"
+                  "classroom": "G-252"
                 },
                 {
                   "slot": 11,
-                  "classroom": "G-Z10(S)"
+                  "classroom": "G-252(S)"
                 },
                 {
                   "slot": 36,
-                  "classroom": "G-Z10"
+                  "classroom": "G-252"
                 },
                 {
                   "slot": 43,
-                  "classroom": "G-Z10"
+                  "classroom": "G-252"
                 }
               ]
             }

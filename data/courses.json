@@ -4592,7 +4592,7 @@
                 },
                 {
                   "slot": 25,
-                  "classroom": "FF-110(S)"
+                  "classroom": "FF-110"
                 },
                 {
                   "slot": 50,
@@ -4600,7 +4600,7 @@
                 },
                 {
                   "slot": 57,
-                  "classroom": "FF-110"
+                  "classroom": "FF-110(S)"
                 }
               ]
             }

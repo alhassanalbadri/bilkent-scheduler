@@ -752,6 +752,18 @@
           "gpa": "2.58"
         },
         {
+          "code": "CHEM 493",
+          "name": "Capstone Project",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Emrah Özensoy",
+              "schedule": []
+            }
+          ],
+          "gpa": "2.34"
+        },
+        {
           "code": "CHEM 503",
           "name": "Chemical Kinetics",
           "sections": [
@@ -3553,6 +3565,17 @@
             }
           ],
           "gpa": "2.67"
+        },
+        {
+          "code": "ECON 465",
+          "name": "Economic Regulation and Competition in Digital Markets",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Staff",
+              "schedule": []
+            }
+          ]
         },
         {
           "code": "ECON 467",
@@ -7308,6 +7331,11 @@
               "number": "3",
               "instructor": "Staff",
               "schedule": []
+            },
+            {
+              "number": "4",
+              "instructor": "Andrea Pizzuti",
+              "schedule": []
             }
           ],
           "gpa": "2.41"
@@ -7359,12 +7387,12 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Amine Gizem Tiniç",
+              "instructor": "Özlem Karsu",
               "schedule": []
             },
             {
               "number": "2",
-              "instructor": "Andrea Pizzuti",
+              "instructor": "Amine Gizem Tiniç",
               "schedule": []
             }
           ],
@@ -7417,6 +7445,17 @@
           "gpa": "2.73"
         },
         {
+          "code": "IE 434",
+          "name": "Stochastic Models in Operations Research",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Nesim Kohen Erkip",
+              "schedule": []
+            }
+          ]
+        },
+        {
           "code": "IE 440",
           "name": "Introduction to Financial Engineering",
           "sections": [
@@ -7427,6 +7466,18 @@
             }
           ],
           "gpa": "2.86"
+        },
+        {
+          "code": "IE 443",
+          "name": "Multi-Objective Decision Analysis",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Özlem Karsu",
+              "schedule": []
+            }
+          ],
+          "gpa": "2.81"
         },
         {
           "code": "IE 448",
@@ -7911,7 +7962,7 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "Can Öztaş",
               "schedule": []
             }
           ]
@@ -10022,12 +10073,12 @@
             },
             {
               "number": "3",
-              "instructor": "Nurdan Kar",
+              "instructor": "Kamer Rodoplu",
               "schedule": []
             },
             {
               "number": "4",
-              "instructor": "Kamer Rodoplu",
+              "instructor": "Nurdan Kar",
               "schedule": []
             },
             {
@@ -10805,7 +10856,7 @@
         },
         {
           "code": "MBG 492",
-          "name": "Senior Project II",
+          "name": "Senior Project with Thesis",
           "sections": [
             {
               "number": "1",
@@ -11369,18 +11420,6 @@
           "gpa": "3.73"
         },
         {
-          "code": "MSC 121",
-          "name": "Fundamentals of Musicianship I",
-          "sections": [
-            {
-              "number": "1",
-              "instructor": "Ülkemin Akbaş",
-              "schedule": []
-            }
-          ],
-          "gpa": "0.00"
-        },
-        {
           "code": "MSC 122",
           "name": "Fundamentals of Musicianship II",
           "sections": [
@@ -11440,17 +11479,17 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Juliana Katherine Snapper",
+              "instructor": "Jennifer Leigh Tipton & Juliana Katherine Snapper",
               "schedule": []
             },
             {
               "number": "2",
-              "instructor": "Juliana Katherine Snapper",
+              "instructor": "Jennifer Leigh Tipton & Juliana Katherine Snapper",
               "schedule": []
             },
             {
               "number": "3",
-              "instructor": "Juliana Katherine Snapper",
+              "instructor": "Jennifer Leigh Tipton & Juliana Katherine Snapper",
               "schedule": []
             }
           ],
@@ -11606,30 +11645,6 @@
             }
           ],
           "gpa": "3.46"
-        },
-        {
-          "code": "MSC 213",
-          "name": "Orchestration",
-          "sections": [
-            {
-              "number": "1",
-              "instructor": "Onur Yıldırım",
-              "schedule": []
-            }
-          ],
-          "gpa": "2.63"
-        },
-        {
-          "code": "MSC 214",
-          "name": "Advanced Orchestration II",
-          "sections": [
-            {
-              "number": "1",
-              "instructor": "Onur Yıldırım",
-              "schedule": []
-            }
-          ],
-          "gpa": "2.99"
         },
         {
           "code": "MSC 231",
@@ -12156,6 +12171,18 @@
           "gpa": "3.76"
         },
         {
+          "code": "MSN 524",
+          "name": "Introduction to Nano- and Micro-Scale Quantum Devices",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Talip Serkan Kasırga",
+              "schedule": []
+            }
+          ],
+          "gpa": "3.61"
+        },
+        {
           "code": "MSN 529",
           "name": "Introduction to Adaptive Optics and Optical Imaging",
           "sections": [
@@ -12599,6 +12626,17 @@
             }
           ],
           "gpa": "3.70"
+        },
+        {
+          "code": "PHIL 518",
+          "name": "Nineteenth Century Philosophy",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "James Kinkaid III",
+              "schedule": []
+            }
+          ]
         },
         {
           "code": "PHIL 534",
@@ -13091,18 +13129,6 @@
           "gpa": "3.16"
         },
         {
-          "code": "POLS 399",
-          "name": "Summer Training",
-          "sections": [
-            {
-              "number": "1",
-              "instructor": "Staff",
-              "schedule": []
-            }
-          ],
-          "gpa": "0.00"
-        },
-        {
           "code": "POLS 411",
           "name": "Gender and Politics",
           "sections": [
@@ -13224,6 +13250,17 @@
             }
           ],
           "gpa": "3.65"
+        },
+        {
+          "code": "POLS 4508",
+          "name": "Women in Politics and Policy",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Esra İşsever Ekinci",
+              "schedule": []
+            }
+          ]
         },
         {
           "code": "POLS 4637",
@@ -13864,6 +13901,18 @@
           "gpa": "3.62"
         },
         {
+          "code": "TEFL 524",
+          "name": "EFL Methodology II",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Staff",
+              "schedule": []
+            }
+          ],
+          "gpa": "3.56"
+        },
+        {
           "code": "TEFL 530",
           "name": "Materials Development",
           "sections": [
@@ -14265,11 +14314,6 @@
               "number": "6",
               "instructor": "Staff",
               "schedule": []
-            },
-            {
-              "number": "7",
-              "instructor": "Staff",
-              "schedule": []
             }
           ],
           "gpa": "3.30"
@@ -14364,7 +14408,7 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "Jason Edward Hale",
               "schedule": []
             }
           ],
@@ -14376,7 +14420,7 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "Hande Vural Johnson",
               "schedule": []
             }
           ],

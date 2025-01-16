@@ -562,7 +562,7 @@
             },
             {
               "number": "2",
-              "instructor": "Staff",
+              "instructor": "Thomas Wayne Howard",
               "schedule": [
                 {
                   "slot": 0,
@@ -590,7 +590,7 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "Müzeyyen Karabağ",
               "schedule": [
                 {
                   "slot": 4,
@@ -612,7 +612,7 @@
             },
             {
               "number": "2",
-              "instructor": "Staff",
+              "instructor": "Müzeyyen Karabağ",
               "schedule": [
                 {
                   "slot": 18,
@@ -640,7 +640,7 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "Can Kutay",
               "schedule": [
                 {
                   "slot": 17,
@@ -662,7 +662,7 @@
             },
             {
               "number": "2",
-              "instructor": "Staff",
+              "instructor": "Can Kutay",
               "schedule": [
                 {
                   "slot": 3,
@@ -790,7 +790,7 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "Ada Özduran",
               "schedule": [
                 {
                   "slot": 3,
@@ -812,7 +812,7 @@
             },
             {
               "number": "2",
-              "instructor": "Staff",
+              "instructor": "Ada Özduran",
               "schedule": [
                 {
                   "slot": 17,
@@ -957,7 +957,7 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "Aylin Pekanık",
               "schedule": [
                 {
                   "slot": 0,
@@ -979,7 +979,7 @@
             },
             {
               "number": "2",
-              "instructor": "Staff",
+              "instructor": "Aylin Pekanık",
               "schedule": [
                 {
                   "slot": 14,
@@ -1196,6 +1196,17 @@
           ]
         },
         {
+          "code": "ARCH 290",
+          "name": "Summer Practice I",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Özge Selen Duran",
+              "schedule": []
+            }
+          ]
+        },
+        {
           "code": "ARCH 302",
           "name": "Architectural Design Studio IV",
           "sections": [
@@ -1352,6 +1363,17 @@
                   "classroom": ""
                 }
               ]
+            }
+          ]
+        },
+        {
+          "code": "ARCH 390",
+          "name": "Summer Practice II",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Özge Selen Duran",
+              "schedule": []
             }
           ]
         },
@@ -6891,6 +6913,78 @@
           ]
         },
         {
+          "code": "CS 573",
+          "name": "Algorithms I",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Uğur Doğrusöz",
+              "schedule": [
+                {
+                  "slot": 4,
+                  "classroom": "(S)"
+                },
+                {
+                  "slot": 11,
+                  "classroom": ""
+                },
+                {
+                  "slot": 36,
+                  "classroom": ""
+                },
+                {
+                  "slot": 43,
+                  "classroom": ""
+                }
+              ]
+            },
+            {
+              "number": "2",
+              "instructor": "Uğur Doğrusöz",
+              "schedule": [
+                {
+                  "slot": 18,
+                  "classroom": "(S)"
+                },
+                {
+                  "slot": 25,
+                  "classroom": ""
+                },
+                {
+                  "slot": 50,
+                  "classroom": ""
+                },
+                {
+                  "slot": 57,
+                  "classroom": ""
+                }
+              ]
+            },
+            {
+              "number": "3",
+              "instructor": "Özgür Salih Öğüz",
+              "schedule": [
+                {
+                  "slot": 0,
+                  "classroom": "(S)"
+                },
+                {
+                  "slot": 7,
+                  "classroom": ""
+                },
+                {
+                  "slot": 37,
+                  "classroom": ""
+                },
+                {
+                  "slot": 44,
+                  "classroom": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
           "code": "CS 577",
           "name": "Data Privacy",
           "sections": [
@@ -7095,6 +7189,44 @@
                 {
                   "slot": 57,
                   "classroom": "C-216"
+                }
+              ]
+            },
+            {
+              "number": "4",
+              "instructor": "Burcu Liman",
+              "schedule": [
+                {
+                  "slot": 3,
+                  "classroom": "C-216(S)"
+                },
+                {
+                  "slot": 10,
+                  "classroom": "C-216"
+                },
+                {
+                  "slot": 17,
+                  "classroom": "C-CTISL4"
+                },
+                {
+                  "slot": 24,
+                  "classroom": "C-CTISL4"
+                },
+                {
+                  "slot": 35,
+                  "classroom": "C-216"
+                },
+                {
+                  "slot": 42,
+                  "classroom": "C-216"
+                },
+                {
+                  "slot": 49,
+                  "classroom": "C-CTISL4"
+                },
+                {
+                  "slot": 56,
+                  "classroom": "C-CTISL4"
                 }
               ]
             }
@@ -7580,7 +7712,7 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Burcu Liman",
+              "instructor": "Leyla Sezer",
               "schedule": [
                 {
                   "slot": 14,
@@ -7653,11 +7785,6 @@
                   "classroom": "CE-Z04"
                 }
               ]
-            },
-            {
-              "number": "3",
-              "instructor": "Leyla Sezer",
-              "schedule": []
             }
           ]
         },
@@ -8090,12 +8217,42 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "Seyid Amjad Ali",
               "schedule": []
             },
             {
               "number": "2",
-              "instructor": "Staff",
+              "instructor": "Serkan Genç",
+              "schedule": []
+            },
+            {
+              "number": "3",
+              "instructor": "Burcu Liman",
+              "schedule": []
+            },
+            {
+              "number": "4",
+              "instructor": "Neşe Şahin Özçelik",
+              "schedule": []
+            },
+            {
+              "number": "5",
+              "instructor": "Nimet Ceren Serim",
+              "schedule": []
+            },
+            {
+              "number": "6",
+              "instructor": "Cüneyt Sevgi",
+              "schedule": []
+            },
+            {
+              "number": "7",
+              "instructor": "Leyla Sezer",
+              "schedule": []
+            },
+            {
+              "number": "8",
+              "instructor": "Satılmış Topçu",
               "schedule": []
             }
           ]
@@ -13516,7 +13673,7 @@
             },
             {
               "number": "68",
-              "instructor": "Staff",
+              "instructor": "Tuğçe Hamamcıoğlu",
               "schedule": [
                 {
                   "slot": 2,
@@ -13546,7 +13703,7 @@
             },
             {
               "number": "72",
-              "instructor": "Staff",
+              "instructor": "Tuğçe Hamamcıoğlu",
               "schedule": [
                 {
                   "slot": 3,
@@ -13948,7 +14105,7 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "Ayça Üner",
               "schedule": [
                 {
                   "slot": 1,
@@ -13970,7 +14127,7 @@
             },
             {
               "number": "2",
-              "instructor": "Staff",
+              "instructor": "John Paul Alff",
               "schedule": [
                 {
                   "slot": 4,
@@ -13992,7 +14149,7 @@
             },
             {
               "number": "3",
-              "instructor": "Staff",
+              "instructor": "Ayça Üner",
               "schedule": [
                 {
                   "slot": 4,
@@ -14014,7 +14171,7 @@
             },
             {
               "number": "4",
-              "instructor": "Staff",
+              "instructor": "Elif Kantarcıoğlu",
               "schedule": [
                 {
                   "slot": 4,
@@ -14036,7 +14193,7 @@
             },
             {
               "number": "5",
-              "instructor": "Staff",
+              "instructor": "John Paul Alff",
               "schedule": [
                 {
                   "slot": 17,
@@ -14058,7 +14215,7 @@
             },
             {
               "number": "6",
-              "instructor": "Staff",
+              "instructor": "Lorna Yeşilkaya",
               "schedule": [
                 {
                   "slot": 17,
@@ -14086,7 +14243,7 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "Türküm Azmiye Cankatan",
               "schedule": [
                 {
                   "slot": 1,
@@ -14108,7 +14265,7 @@
             },
             {
               "number": "2",
-              "instructor": "Staff",
+              "instructor": "Hümeyra Başol Çetin",
               "schedule": [
                 {
                   "slot": 1,
@@ -14130,7 +14287,7 @@
             },
             {
               "number": "3",
-              "instructor": "Staff",
+              "instructor": "Zeynep Özek",
               "schedule": [
                 {
                   "slot": 1,
@@ -14152,7 +14309,7 @@
             },
             {
               "number": "4",
-              "instructor": "Staff",
+              "instructor": "Türküm Azmiye Cankatan",
               "schedule": [
                 {
                   "slot": 3,
@@ -14174,7 +14331,7 @@
             },
             {
               "number": "5",
-              "instructor": "Staff",
+              "instructor": "Hümeyra Başol Çetin",
               "schedule": [
                 {
                   "slot": 4,
@@ -14196,7 +14353,7 @@
             },
             {
               "number": "6",
-              "instructor": "Staff",
+              "instructor": "Zeynep Özek",
               "schedule": [
                 {
                   "slot": 16,
@@ -14218,7 +14375,7 @@
             },
             {
               "number": "7",
-              "instructor": "Staff",
+              "instructor": "Hümeyra Başol Çetin",
               "schedule": [
                 {
                   "slot": 16,
@@ -14246,7 +14403,7 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "Emily Kathleen Hipps",
               "schedule": [
                 {
                   "slot": 1,
@@ -14268,7 +14425,7 @@
             },
             {
               "number": "2",
-              "instructor": "Staff",
+              "instructor": "Robert McNamara Loomis",
               "schedule": [
                 {
                   "slot": 1,
@@ -14290,7 +14447,7 @@
             },
             {
               "number": "3",
-              "instructor": "Staff",
+              "instructor": "Yan Trefor Overfield Shaw",
               "schedule": [
                 {
                   "slot": 15,
@@ -14312,7 +14469,7 @@
             },
             {
               "number": "4",
-              "instructor": "Staff",
+              "instructor": "Emily Kathleen Hipps",
               "schedule": [
                 {
                   "slot": 15,
@@ -14328,6 +14485,50 @@
                 },
                 {
                   "slot": 59,
+                  "classroom": ""
+                }
+              ]
+            },
+            {
+              "number": "5",
+              "instructor": "Robert McNamara Loomis",
+              "schedule": [
+                {
+                  "slot": 16,
+                  "classroom": "(S)"
+                },
+                {
+                  "slot": 23,
+                  "classroom": ""
+                },
+                {
+                  "slot": 53,
+                  "classroom": ""
+                },
+                {
+                  "slot": 60,
+                  "classroom": ""
+                }
+              ]
+            },
+            {
+              "number": "6",
+              "instructor": "Emily Kathleen Hipps",
+              "schedule": [
+                {
+                  "slot": 16,
+                  "classroom": "(S)"
+                },
+                {
+                  "slot": 23,
+                  "classroom": ""
+                },
+                {
+                  "slot": 53,
+                  "classroom": ""
+                },
+                {
+                  "slot": 60,
                   "classroom": ""
                 }
               ]
@@ -14340,7 +14541,7 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "Jason Lee William Mosier",
               "schedule": [
                 {
                   "slot": 0,
@@ -14362,7 +14563,7 @@
             },
             {
               "number": "2",
-              "instructor": "Staff",
+              "instructor": "Özge Ezici Çetin",
               "schedule": [
                 {
                   "slot": 0,
@@ -14384,7 +14585,7 @@
             },
             {
               "number": "3",
-              "instructor": "Staff",
+              "instructor": "Semra Akbaş",
               "schedule": [
                 {
                   "slot": 1,
@@ -14406,7 +14607,7 @@
             },
             {
               "number": "4",
-              "instructor": "Staff",
+              "instructor": "Jason Lee William Mosier",
               "schedule": [
                 {
                   "slot": 1,
@@ -14428,7 +14629,7 @@
             },
             {
               "number": "5",
-              "instructor": "Staff",
+              "instructor": "Jason Lee William Mosier",
               "schedule": [
                 {
                   "slot": 2,
@@ -14450,7 +14651,7 @@
             },
             {
               "number": "6",
-              "instructor": "Staff",
+              "instructor": "Özge Ezici Çetin",
               "schedule": [
                 {
                   "slot": 2,
@@ -14472,7 +14673,7 @@
             },
             {
               "number": "7",
-              "instructor": "Staff",
+              "instructor": "Andrew Bonar",
               "schedule": [
                 {
                   "slot": 3,
@@ -14494,7 +14695,7 @@
             },
             {
               "number": "8",
-              "instructor": "Staff",
+              "instructor": "Bengü Yurtseven",
               "schedule": [
                 {
                   "slot": 3,
@@ -14516,7 +14717,7 @@
             },
             {
               "number": "9",
-              "instructor": "Staff",
+              "instructor": "Pınar Demir",
               "schedule": [
                 {
                   "slot": 4,
@@ -14538,7 +14739,7 @@
             },
             {
               "number": "10",
-              "instructor": "Staff",
+              "instructor": "Melanie Ann Kincl",
               "schedule": [
                 {
                   "slot": 4,
@@ -14560,7 +14761,7 @@
             },
             {
               "number": "11",
-              "instructor": "Staff",
+              "instructor": "Semra Akbaş",
               "schedule": [
                 {
                   "slot": 14,
@@ -14582,7 +14783,7 @@
             },
             {
               "number": "12",
-              "instructor": "Staff",
+              "instructor": "Jason Lee William Mosier",
               "schedule": [
                 {
                   "slot": 14,
@@ -14604,7 +14805,7 @@
             },
             {
               "number": "13",
-              "instructor": "Staff",
+              "instructor": "Özge Ezici Çetin",
               "schedule": [
                 {
                   "slot": 15,
@@ -14626,7 +14827,7 @@
             },
             {
               "number": "14",
-              "instructor": "Staff",
+              "instructor": "Melanie Ann Kincl",
               "schedule": [
                 {
                   "slot": 15,
@@ -14648,7 +14849,7 @@
             },
             {
               "number": "15",
-              "instructor": "Staff",
+              "instructor": "Pınar Demir",
               "schedule": [
                 {
                   "slot": 16,
@@ -14670,7 +14871,7 @@
             },
             {
               "number": "16",
-              "instructor": "Staff",
+              "instructor": "Andrew Bonar",
               "schedule": [
                 {
                   "slot": 16,
@@ -14692,7 +14893,7 @@
             },
             {
               "number": "17",
-              "instructor": "Staff",
+              "instructor": "Özge Ezici Çetin",
               "schedule": [
                 {
                   "slot": 17,
@@ -18610,7 +18811,7 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Rachel Bruzzone",
+              "instructor": "Scott Allen Kennedy",
               "schedule": [
                 {
                   "slot": 4,
@@ -18722,7 +18923,7 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "Rachel Bruzzone",
               "schedule": [
                 {
                   "slot": 15,
@@ -18940,7 +19141,7 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Rachel Bruzzone",
+              "instructor": "Scott Allen Kennedy",
               "schedule": []
             }
           ]
@@ -19663,7 +19864,7 @@
             },
             {
               "number": "9",
-              "instructor": "Efe Can Zeybek",
+              "instructor": "Abdürrahim Özer",
               "schedule": [
                 {
                   "slot": 4,
@@ -19707,7 +19908,7 @@
             },
             {
               "number": "11",
-              "instructor": "Abdürrahim Özer",
+              "instructor": "Efe Can Zeybek",
               "schedule": [
                 {
                   "slot": 14,
@@ -24887,6 +25088,32 @@
                   "classroom": "V-03"
                 }
               ]
+            },
+            {
+              "number": "9",
+              "instructor": "Rodica Eliza Gheorghe",
+              "schedule": [
+                {
+                  "slot": 2,
+                  "classroom": "(S)"
+                },
+                {
+                  "slot": 9,
+                  "classroom": ""
+                },
+                {
+                  "slot": 17,
+                  "classroom": ""
+                },
+                {
+                  "slot": 39,
+                  "classroom": ""
+                },
+                {
+                  "slot": 46,
+                  "classroom": ""
+                }
+              ]
             }
           ]
         },
@@ -24943,17 +25170,6 @@
                   "classroom": ""
                 }
               ]
-            }
-          ]
-        },
-        {
-          "code": "IR 215",
-          "name": "Introduction to Middle Eastern Politics",
-          "sections": [
-            {
-              "number": "1",
-              "instructor": "Tuğba Bayar",
-              "schedule": []
             }
           ]
         },
@@ -25085,6 +25301,28 @@
                 },
                 {
                   "slot": 60,
+                  "classroom": ""
+                }
+              ]
+            },
+            {
+              "number": "2",
+              "instructor": "Tuğba Bayar",
+              "schedule": [
+                {
+                  "slot": 17,
+                  "classroom": "(S)"
+                },
+                {
+                  "slot": 24,
+                  "classroom": ""
+                },
+                {
+                  "slot": 49,
+                  "classroom": ""
+                },
+                {
+                  "slot": 56,
                   "classroom": ""
                 }
               ]
@@ -25477,6 +25715,17 @@
           ]
         },
         {
+          "code": "IR 509",
+          "name": "Pre-thesis Seminar",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Staff",
+              "schedule": []
+            }
+          ]
+        },
+        {
           "code": "IR 599",
           "name": "Master's Thesis",
           "sections": [
@@ -25646,17 +25895,6 @@
                   "classroom": ""
                 }
               ]
-            }
-          ]
-        },
-        {
-          "code": "IR 4198",
-          "name": "Nuclear Proliferation and International Politics",
-          "sections": [
-            {
-              "number": "1",
-              "instructor": "Rodica Eliza Gheorghe",
-              "schedule": []
             }
           ]
         },
@@ -35351,6 +35589,28 @@
               "number": "1",
               "instructor": "Kağan Korad & Onur Türkmen & Tahsin Tolga Yayalar & Oliver Folger Jia & Jennifer Leigh Tipton & Onur Yıldırım",
               "schedule": []
+            },
+            {
+              "number": "2",
+              "instructor": "Kağan Korad & Onur Türkmen & Tahsin Tolga Yayalar & Oliver Folger Jia & Jennifer Leigh Tipton & Onur Yıldırım",
+              "schedule": [
+                {
+                  "slot": 0,
+                  "classroom": "(S)"
+                },
+                {
+                  "slot": 7,
+                  "classroom": ""
+                },
+                {
+                  "slot": 37,
+                  "classroom": ""
+                },
+                {
+                  "slot": 44,
+                  "classroom": ""
+                }
+              ]
             }
           ]
         },
@@ -35755,6 +36015,34 @@
                 },
                 {
                   "slot": 45,
+                  "classroom": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "NSC 518",
+          "name": "Basic Mechanism of Nervous System Disorders",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Turgay Dalkara",
+              "schedule": [
+                {
+                  "slot": 14,
+                  "classroom": "(S)"
+                },
+                {
+                  "slot": 21,
+                  "classroom": ""
+                },
+                {
+                  "slot": 51,
+                  "classroom": ""
+                },
+                {
+                  "slot": 58,
                   "classroom": ""
                 }
               ]
@@ -36319,7 +36607,7 @@
             },
             {
               "number": "3",
-              "instructor": "Yehezkel S. Berkovski & Matthew Llyod Gorman",
+              "instructor": "Yehezkel S. Berkovski & Matthew Lloyd Gorman",
               "schedule": [
                 {
                   "slot": 4,
@@ -36509,7 +36797,7 @@
             },
             {
               "number": "8",
-              "instructor": "Yehezkel S. Berkovski & Matthew Llyod Gorman",
+              "instructor": "Yehezkel S. Berkovski & Matthew Lloyd Gorman",
               "schedule": [
                 {
                   "slot": 1,
@@ -37263,7 +37551,7 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "Talip Serkan Kasırga",
               "schedule": [
                 {
                   "slot": 3,
@@ -37301,7 +37589,7 @@
             },
             {
               "number": "2",
-              "instructor": "Staff",
+              "instructor": "Deniz Aybaş",
               "schedule": [
                 {
                   "slot": 4,
@@ -37339,7 +37627,7 @@
             },
             {
               "number": "3",
-              "instructor": "Staff",
+              "instructor": "Talip Serkan Kasırga",
               "schedule": [
                 {
                   "slot": 2,
@@ -37377,7 +37665,7 @@
             },
             {
               "number": "4",
-              "instructor": "Staff",
+              "instructor": "Ahmet Züfer Eriş",
               "schedule": [
                 {
                   "slot": 1,
@@ -37415,7 +37703,7 @@
             },
             {
               "number": "5",
-              "instructor": "Staff",
+              "instructor": "Şahin Büyükdağlı",
               "schedule": [
                 {
                   "slot": 3,
@@ -37453,7 +37741,7 @@
             },
             {
               "number": "6",
-              "instructor": "Staff",
+              "instructor": "Ali Ulvi Yılmazer",
               "schedule": [
                 {
                   "slot": 16,
@@ -37497,7 +37785,7 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "Haldun Sevinçli",
               "schedule": [
                 {
                   "slot": 2,
@@ -37573,7 +37861,7 @@
             },
             {
               "number": "3",
-              "instructor": "Staff",
+              "instructor": "Ekmel Özbay",
               "schedule": [
                 {
                   "slot": 0,
@@ -37611,7 +37899,7 @@
             },
             {
               "number": "4",
-              "instructor": "Staff",
+              "instructor": "Emre Ozan Polat",
               "schedule": [
                 {
                   "slot": 3,
@@ -37649,7 +37937,7 @@
             },
             {
               "number": "5",
-              "instructor": "Staff",
+              "instructor": "Oğuz Gülseren",
               "schedule": [
                 {
                   "slot": 18,
@@ -37687,7 +37975,7 @@
             },
             {
               "number": "6",
-              "instructor": "Staff",
+              "instructor": "Ali Ulvi Yılmazer",
               "schedule": [
                 {
                   "slot": 4,
@@ -37725,7 +38013,7 @@
             },
             {
               "number": "7",
-              "instructor": "Staff",
+              "instructor": "Ali Ulvi Yılmazer",
               "schedule": [
                 {
                   "slot": 4,
@@ -37763,7 +38051,7 @@
             },
             {
               "number": "8",
-              "instructor": "Staff",
+              "instructor": "İbrahim Sarpkaya",
               "schedule": [
                 {
                   "slot": 2,
@@ -37801,7 +38089,7 @@
             },
             {
               "number": "9",
-              "instructor": "Staff",
+              "instructor": "Ali Ulvi Yılmazer",
               "schedule": [
                 {
                   "slot": 1,
@@ -37839,7 +38127,7 @@
             },
             {
               "number": "10",
-              "instructor": "Staff",
+              "instructor": "Abdullah Demir",
               "schedule": [
                 {
                   "slot": 3,
@@ -37877,7 +38165,7 @@
             },
             {
               "number": "11",
-              "instructor": "Staff",
+              "instructor": "Mehmet Özgür Oktel",
               "schedule": [
                 {
                   "slot": 17,
@@ -37915,7 +38203,7 @@
             },
             {
               "number": "12",
-              "instructor": "Staff",
+              "instructor": "Mehmet Özgür Oktel",
               "schedule": [
                 {
                   "slot": 2,
@@ -37953,7 +38241,7 @@
             },
             {
               "number": "13",
-              "instructor": "Staff",
+              "instructor": "Ahmet Züfer Eriş",
               "schedule": [
                 {
                   "slot": 0,
@@ -37991,7 +38279,7 @@
             },
             {
               "number": "14",
-              "instructor": "Staff",
+              "instructor": "Mustafa Ordu",
               "schedule": [
                 {
                   "slot": 0,
@@ -38324,6 +38612,34 @@
           ]
         },
         {
+          "code": "PHYS 434",
+          "name": "Quantum Measurements and Sensing",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Ceyhun Bulutay",
+              "schedule": [
+                {
+                  "slot": 17,
+                  "classroom": "(S)"
+                },
+                {
+                  "slot": 24,
+                  "classroom": ""
+                },
+                {
+                  "slot": 49,
+                  "classroom": ""
+                },
+                {
+                  "slot": 56,
+                  "classroom": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
           "code": "PHYS 446",
           "name": "Condensed Matter Physics II",
           "sections": [
@@ -38345,6 +38661,34 @@
                 },
                 {
                   "slot": 60,
+                  "classroom": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "PHYS 534",
+          "name": "Quantum Measurements and Sensing",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Ceyhun Bulutay",
+              "schedule": [
+                {
+                  "slot": 17,
+                  "classroom": "(S)"
+                },
+                {
+                  "slot": 24,
+                  "classroom": ""
+                },
+                {
+                  "slot": 49,
+                  "classroom": ""
+                },
+                {
+                  "slot": 56,
                   "classroom": ""
                 }
               ]
@@ -38814,6 +39158,17 @@
           ]
         },
         {
+          "code": "POLS 399",
+          "name": "Summer Training",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Zeki Sarıgil",
+              "schedule": []
+            }
+          ]
+        },
+        {
           "code": "POLS 411",
           "name": "Gender and Politics",
           "sections": [
@@ -38925,7 +39280,7 @@
             },
             {
               "number": "2",
-              "instructor": "Onur Özgöde",
+              "instructor": "Staff",
               "schedule": [
                 {
                   "slot": 3,
@@ -39032,6 +39387,17 @@
           ]
         },
         {
+          "code": "POLS 599",
+          "name": "Master's Thesis",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Staff",
+              "schedule": []
+            }
+          ]
+        },
+        {
           "code": "POLS 602",
           "name": "Seminar in Comparative Politics",
           "sections": [
@@ -39088,12 +39454,12 @@
           ]
         },
         {
-          "code": "POLS 637",
-          "name": "State and Power ",
+          "code": "POLS 699",
+          "name": "Ph.D. Dissertation",
           "sections": [
             {
               "number": "1",
-              "instructor": "Onur Özgöde",
+              "instructor": "Staff",
               "schedule": []
             }
           ]
@@ -39123,17 +39489,6 @@
                   "classroom": ""
                 }
               ]
-            }
-          ]
-        },
-        {
-          "code": "POLS 4637",
-          "name": "State and  Power",
-          "sections": [
-            {
-              "number": "1",
-              "instructor": "Onur Özgöde",
-              "schedule": []
             }
           ]
         },
@@ -39221,7 +39576,7 @@
             },
             {
               "number": "3",
-              "instructor": "Selin Salman Engin",
+              "instructor": "Sultan Rengin Dalkıran",
               "schedule": [
                 {
                   "slot": 14,
@@ -39243,7 +39598,7 @@
             },
             {
               "number": "4",
-              "instructor": "Selin Salman Engin",
+              "instructor": "Sultan Rengin Dalkıran",
               "schedule": [
                 {
                   "slot": 1,
@@ -39309,7 +39664,7 @@
             },
             {
               "number": "7",
-              "instructor": "Staff",
+              "instructor": "Sultan Rengin Dalkıran",
               "schedule": [
                 {
                   "slot": 0,
@@ -39331,7 +39686,7 @@
             },
             {
               "number": "8",
-              "instructor": "Staff",
+              "instructor": "Süeda Eker",
               "schedule": [
                 {
                   "slot": 4,
@@ -39353,7 +39708,29 @@
             },
             {
               "number": "9",
-              "instructor": "Staff",
+              "instructor": "Narin Ilgım Ardıç Avcı",
+              "schedule": [
+                {
+                  "slot": 15,
+                  "classroom": "(S)"
+                },
+                {
+                  "slot": 22,
+                  "classroom": ""
+                },
+                {
+                  "slot": 52,
+                  "classroom": ""
+                },
+                {
+                  "slot": 59,
+                  "classroom": ""
+                }
+              ]
+            },
+            {
+              "number": "10",
+              "instructor": "Süeda Eker",
               "schedule": [
                 {
                   "slot": 15,
@@ -39513,6 +39890,50 @@
                 },
                 {
                   "slot": 43,
+                  "classroom": ""
+                }
+              ]
+            },
+            {
+              "number": "6",
+              "instructor": "Selin Salman Engin",
+              "schedule": [
+                {
+                  "slot": 4,
+                  "classroom": "(S)"
+                },
+                {
+                  "slot": 11,
+                  "classroom": ""
+                },
+                {
+                  "slot": 36,
+                  "classroom": ""
+                },
+                {
+                  "slot": 43,
+                  "classroom": ""
+                }
+              ]
+            },
+            {
+              "number": "7",
+              "instructor": "Selin Salman Engin",
+              "schedule": [
+                {
+                  "slot": 17,
+                  "classroom": "(S)"
+                },
+                {
+                  "slot": 24,
+                  "classroom": ""
+                },
+                {
+                  "slot": 49,
+                  "classroom": ""
+                },
+                {
+                  "slot": 56,
                   "classroom": ""
                 }
               ]
@@ -40099,7 +40520,7 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "Ezgi Tunçel",
               "schedule": [
                 {
                   "slot": 1,
@@ -40127,7 +40548,7 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "Süeda Eker",
               "schedule": [
                 {
                   "slot": 18,
@@ -40211,7 +40632,7 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "Tan Arda Gedik",
               "schedule": [
                 {
                   "slot": 14,
@@ -41610,7 +42031,7 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "Emine Banu Paksoy",
               "schedule": [
                 {
                   "slot": 17,
@@ -41632,7 +42053,7 @@
             },
             {
               "number": "2",
-              "instructor": "Staff",
+              "instructor": "Emine Banu Paksoy",
               "schedule": [
                 {
                   "slot": 14,
@@ -41654,7 +42075,7 @@
             },
             {
               "number": "3",
-              "instructor": "Staff",
+              "instructor": "Gizem Gürer",
               "schedule": [
                 {
                   "slot": 17,
@@ -41676,7 +42097,7 @@
             },
             {
               "number": "4",
-              "instructor": "Staff",
+              "instructor": "Faysal Can Dakni",
               "schedule": [
                 {
                   "slot": 15,
@@ -41698,7 +42119,7 @@
             },
             {
               "number": "5",
-              "instructor": "Staff",
+              "instructor": "Berkay Şekerci",
               "schedule": [
                 {
                   "slot": 15,
@@ -41895,7 +42316,7 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Jason Edward Hale",
+              "instructor": "Jason Edward Hale & Gizem Gürer",
               "schedule": [
                 {
                   "slot": 3,

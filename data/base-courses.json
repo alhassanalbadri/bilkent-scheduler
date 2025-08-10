@@ -2026,6 +2026,17 @@
           ]
         },
         {
+          "code": "CS 470",
+          "name": "Introduction to Applied Cryptography",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Staff",
+              "schedule": []
+            }
+          ]
+        },
+        {
           "code": "CS 473",
           "name": "Algorithms I",
           "sections": [
@@ -2109,6 +2120,17 @@
         {
           "code": "CS 491",
           "name": "Senior Design Project I",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Staff",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "CS 519",
+          "name": "Introduction to Applied Cryptography",
           "sections": [
             {
               "number": "1",
@@ -2755,7 +2777,7 @@
       "courses": [
         {
           "code": "ECON 101",
-          "name": "Introduction to Economics I",
+          "name": "Introduction to Microeconomics",
           "sections": [
             {
               "number": "1",
@@ -2831,7 +2853,7 @@
         },
         {
           "code": "ECON 102",
-          "name": "Introduction to Economics II",
+          "name": "Introduction to Macroeconomics",
           "sections": [
             {
               "number": "1",
@@ -2970,7 +2992,7 @@
         },
         {
           "code": "ECON 203",
-          "name": "Microeconomic Theory I",
+          "name": "Microeconomics: Competitive Markets",
           "sections": [
             {
               "number": "1",
@@ -2986,7 +3008,7 @@
         },
         {
           "code": "ECON 204",
-          "name": "Microeconomic Theory II",
+          "name": "Microeconomics: Strategic Interactions",
           "sections": [
             {
               "number": "1",
@@ -3002,7 +3024,7 @@
         },
         {
           "code": "ECON 205",
-          "name": "Macroeconomic Theory I",
+          "name": "Macroeconomics: Business Cycles",
           "sections": [
             {
               "number": "1",
@@ -3028,7 +3050,7 @@
         },
         {
           "code": "ECON 206",
-          "name": "Macroeconomic Theory II",
+          "name": "Macroeconomics: Growth",
           "sections": [
             {
               "number": "1",
@@ -3065,7 +3087,7 @@
         },
         {
           "code": "ECON 221",
-          "name": "Introduction to Probability and Statistics I",
+          "name": "Probability and Statistical Distributions",
           "sections": [
             {
               "number": "1",
@@ -3121,7 +3143,7 @@
         },
         {
           "code": "ECON 222",
-          "name": "Introduction to Probability and Statistics II",
+          "name": "Statistical Estimation and Inference",
           "sections": [
             {
               "number": "1",
@@ -3168,7 +3190,7 @@
         },
         {
           "code": "ECON 301",
-          "name": "Econometrics I",
+          "name": "Econometrics ",
           "sections": [
             {
               "number": "1",
@@ -3211,7 +3233,7 @@
         },
         {
           "code": "ECON 363",
-          "name": "History of Economic Thought",
+          "name": "Development of Economic Thought",
           "sections": [
             {
               "number": "1",
@@ -3227,7 +3249,7 @@
         },
         {
           "code": "ECON 409",
-          "name": "Contemporary Issues in Turkish Economy I",
+          "name": "Contemporary Issues in Turkish Economy ",
           "sections": [
             {
               "number": "1",
@@ -3238,7 +3260,7 @@
         },
         {
           "code": "ECON 432",
-          "name": "Turkish and World Economy in the 20th Century",
+          "name": "Turkish and World Economy Between Industrial Revolution and 1950",
           "sections": [
             {
               "number": "1",
@@ -3249,7 +3271,7 @@
         },
         {
           "code": "ECON 433",
-          "name": "Industrial Economics I",
+          "name": "Industrial Organization",
           "sections": [
             {
               "number": "1",
@@ -3271,7 +3293,7 @@
         },
         {
           "code": "ECON 439",
-          "name": "Game Theory I",
+          "name": "Game Theory ",
           "sections": [
             {
               "number": "1",
@@ -3523,7 +3545,7 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "İlker Kalender",
               "schedule": []
             }
           ]
@@ -3540,7 +3562,7 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Mustafa Sanlı",
+              "instructor": "Staff",
               "schedule": []
             },
             {
@@ -5906,7 +5928,7 @@
             },
             {
               "number": "7",
-              "instructor": "Staff",
+              "instructor": "İbrahim Mert Öztürk",
               "schedule": []
             },
             {
@@ -5921,12 +5943,12 @@
             },
             {
               "number": "10",
-              "instructor": "Staff",
+              "instructor": "İbrahim Mert Öztürk",
               "schedule": []
             },
             {
               "number": "11",
-              "instructor": "Staff",
+              "instructor": "Abdürrahim Özer",
               "schedule": []
             },
             {
@@ -5936,12 +5958,12 @@
             },
             {
               "number": "13",
-              "instructor": "Staff",
+              "instructor": "İbrahim Mert Öztürk",
               "schedule": []
             },
             {
               "number": "14",
-              "instructor": "Staff",
+              "instructor": "Abdürrahim Özer",
               "schedule": []
             },
             {
@@ -5951,7 +5973,7 @@
             },
             {
               "number": "16",
-              "instructor": "Staff",
+              "instructor": "Abdürrahim Özer",
               "schedule": []
             },
             {
@@ -5976,12 +5998,12 @@
             },
             {
               "number": "21",
-              "instructor": "Staff",
+              "instructor": "Abdürrahim Özer",
               "schedule": []
             },
             {
               "number": "22",
-              "instructor": "Staff",
+              "instructor": "İbrahim Mert Öztürk",
               "schedule": []
             }
           ]
@@ -6272,82 +6294,82 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "Andrew Jonathan Ploeg",
               "schedule": []
             },
             {
               "number": "2",
-              "instructor": "Staff",
+              "instructor": "Kory Spencer Sorrell",
               "schedule": []
             },
             {
               "number": "3",
-              "instructor": "Staff",
+              "instructor": "Matthew Thomas Stoltz",
               "schedule": []
             },
             {
               "number": "4",
-              "instructor": "Staff",
+              "instructor": "Andrew Jonathan Ploeg",
               "schedule": []
             },
             {
               "number": "5",
-              "instructor": "Staff",
+              "instructor": "Victor Andersen Lenthe",
               "schedule": []
             },
             {
               "number": "6",
-              "instructor": "Staff",
+              "instructor": "Rachel Bruzzone",
               "schedule": []
             },
             {
               "number": "7",
-              "instructor": "Staff",
+              "instructor": "Aurelia Cojocaru",
               "schedule": []
             },
             {
               "number": "8",
-              "instructor": "Staff",
+              "instructor": "Mustafa Nakeeb",
               "schedule": []
             },
             {
               "number": "9",
-              "instructor": "Staff",
+              "instructor": "Victor Andersen Lenthe",
               "schedule": []
             },
             {
               "number": "10",
-              "instructor": "Staff",
+              "instructor": "Marjan Mohammadi",
               "schedule": []
             },
             {
               "number": "11",
-              "instructor": "Staff",
+              "instructor": "Thomas Wayne Howard",
               "schedule": []
             },
             {
               "number": "12",
-              "instructor": "Staff",
+              "instructor": "Aurelia Cojocaru",
               "schedule": []
             },
             {
               "number": "13",
-              "instructor": "Staff",
+              "instructor": "Thomas Wayne Howard",
               "schedule": []
             },
             {
               "number": "14",
-              "instructor": "Staff",
+              "instructor": "Victor Andersen Lenthe",
               "schedule": []
             },
             {
               "number": "15",
-              "instructor": "Staff",
+              "instructor": "Matthew Thomas Stoltz",
               "schedule": []
             },
             {
               "number": "16",
-              "instructor": "Staff",
+              "instructor": "Kory Spencer Sorrell",
               "schedule": []
             },
             {
@@ -6357,37 +6379,37 @@
             },
             {
               "number": "18",
-              "instructor": "Staff",
+              "instructor": "Paul Elliot Kimball",
               "schedule": []
             },
             {
               "number": "19",
-              "instructor": "Staff",
+              "instructor": "Marjan Mohammadi",
               "schedule": []
             },
             {
               "number": "20",
-              "instructor": "Staff",
+              "instructor": "Aslı Menevşe",
               "schedule": []
             },
             {
               "number": "21",
-              "instructor": "Staff",
+              "instructor": "Marjan Mohammadi",
               "schedule": []
             },
             {
               "number": "22",
-              "instructor": "Staff",
+              "instructor": "Aurelia Cojocaru",
               "schedule": []
             },
             {
               "number": "23",
-              "instructor": "Staff",
+              "instructor": "Aslı Menevşe",
               "schedule": []
             },
             {
               "number": "24",
-              "instructor": "Staff",
+              "instructor": "Rachel Bruzzone",
               "schedule": []
             },
             {
@@ -6397,72 +6419,72 @@
             },
             {
               "number": "26",
-              "instructor": "Staff",
+              "instructor": "Aslı Menevşe",
               "schedule": []
             },
             {
               "number": "27",
-              "instructor": "Staff",
+              "instructor": "Paul Elliot Kimball",
               "schedule": []
             },
             {
               "number": "28",
-              "instructor": "Staff",
+              "instructor": "Mustafa Nakeeb",
               "schedule": []
             },
             {
               "number": "29",
-              "instructor": "Staff",
+              "instructor": "William Norman Coker",
               "schedule": []
             },
             {
               "number": "30",
-              "instructor": "Staff",
+              "instructor": "Matthew Thomas Stoltz",
               "schedule": []
             },
             {
               "number": "31",
-              "instructor": "Staff",
+              "instructor": "Paul Elliot Kimball",
               "schedule": []
             },
             {
               "number": "32",
-              "instructor": "Staff",
+              "instructor": "William Norman Coker",
               "schedule": []
             },
             {
               "number": "33",
-              "instructor": "Staff",
+              "instructor": "Costantino Costantini",
               "schedule": []
             },
             {
               "number": "34",
-              "instructor": "Staff",
+              "instructor": "Kory Spencer Sorrell",
               "schedule": []
             },
             {
               "number": "35",
-              "instructor": "Staff",
+              "instructor": "Nathan Paul Leidholm",
               "schedule": []
             },
             {
               "number": "36",
-              "instructor": "Staff",
+              "instructor": "Scott Allen Kennedy",
               "schedule": []
             },
             {
               "number": "37",
-              "instructor": "Staff",
+              "instructor": "Brian David McPhee",
               "schedule": []
             },
             {
               "number": "38",
-              "instructor": "Staff",
+              "instructor": "Andrew Jonathan Ploeg",
               "schedule": []
             },
             {
               "number": "39",
-              "instructor": "Staff",
+              "instructor": "Dragan Ilic",
               "schedule": []
             },
             {
@@ -6472,22 +6494,22 @@
             },
             {
               "number": "41",
-              "instructor": "Staff",
+              "instructor": "Scott Allen Kennedy",
               "schedule": []
             },
             {
               "number": "42",
-              "instructor": "Staff",
+              "instructor": "William Norman Coker",
               "schedule": []
             },
             {
               "number": "43",
-              "instructor": "Staff",
+              "instructor": "Nathan Paul Leidholm",
               "schedule": []
             },
             {
               "number": "44",
-              "instructor": "Staff",
+              "instructor": "Costantino Costantini",
               "schedule": []
             },
             {
@@ -6497,17 +6519,17 @@
             },
             {
               "number": "46",
-              "instructor": "Staff",
+              "instructor": "Brian David McPhee",
               "schedule": []
             },
             {
               "number": "47",
-              "instructor": "Staff",
+              "instructor": "Dragan Ilic",
               "schedule": []
             },
             {
               "number": "48",
-              "instructor": "Staff",
+              "instructor": "Paul Elliot Kimball",
               "schedule": []
             },
             {
@@ -6522,12 +6544,12 @@
             },
             {
               "number": "51",
-              "instructor": "Staff",
+              "instructor": "Brian David McPhee",
               "schedule": []
             },
             {
               "number": "52",
-              "instructor": "Staff",
+              "instructor": "Mustafa Nakeeb",
               "schedule": []
             }
           ]
@@ -6538,32 +6560,32 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "Mihaela P. Harper",
               "schedule": []
             },
             {
               "number": "2",
-              "instructor": "Staff",
+              "instructor": "Mihaela P. Harper",
               "schedule": []
             },
             {
               "number": "3",
-              "instructor": "Staff",
+              "instructor": "Dragan Ilic",
               "schedule": []
             },
             {
               "number": "4",
-              "instructor": "Staff",
+              "instructor": "Mihaela P. Harper",
               "schedule": []
             },
             {
               "number": "5",
-              "instructor": "Staff",
+              "instructor": "Costantino Costantini",
               "schedule": []
             },
             {
               "number": "6",
-              "instructor": "Staff",
+              "instructor": "Buffy Ann Turner",
               "schedule": []
             },
             {
@@ -6573,17 +6595,17 @@
             },
             {
               "number": "8",
-              "instructor": "Staff",
+              "instructor": "Buffy Ann Turner",
               "schedule": []
             },
             {
               "number": "9",
-              "instructor": "Staff",
+              "instructor": "Costantino Costantini",
               "schedule": []
             },
             {
               "number": "10",
-              "instructor": "Staff",
+              "instructor": "Dragan Ilic",
               "schedule": []
             },
             {
@@ -6593,12 +6615,12 @@
             },
             {
               "number": "12",
-              "instructor": "Staff",
+              "instructor": "Buffy Ann Turner",
               "schedule": []
             },
             {
               "number": "13",
-              "instructor": "Staff",
+              "instructor": "Buffy Ann Turner",
               "schedule": []
             }
           ]
@@ -9193,7 +9215,7 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "Selcen Erdem",
               "schedule": []
             }
           ]
@@ -9282,6 +9304,17 @@
             {
               "number": "1",
               "instructor": "Fehmi Tanrısever",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "MAN 478",
+          "name": "Decentralized Finance",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Staff",
               "schedule": []
             }
           ]
@@ -9933,6 +9966,17 @@
             {
               "number": "1",
               "instructor": "Cihan Okay",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "MATH 429",
+          "name": "Finite Group Theory",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Muhammet Yasir Kızmaz",
               "schedule": []
             }
           ]
@@ -11594,6 +11638,17 @@
           ]
         },
         {
+          "code": "MSN 511",
+          "name": "Surface Science and Spectroscopy",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Sezin Galioğlu Özaltuğ",
+              "schedule": []
+            }
+          ]
+        },
+        {
           "code": "MSN 517",
           "name": "Nanoscience and Nanotechnology I",
           "sections": [
@@ -11633,17 +11688,6 @@
             {
               "number": "1",
               "instructor": "Cüneyt Şahin",
-              "schedule": []
-            }
-          ]
-        },
-        {
-          "code": "MSN 533",
-          "name": "Nanomaterials for Energy Conversion and Storage",
-          "sections": [
-            {
-              "number": "1",
-              "instructor": "Sezin Galioğlu Özaltuğ",
               "schedule": []
             }
           ]
@@ -13127,7 +13171,7 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Selin Salman Engin & Miri Besken & Kaan Kerman",
+              "instructor": "Selin Salman Engin & Kaan Kerman & Demet Özer",
               "schedule": []
             }
           ]
@@ -13138,7 +13182,7 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Selin Salman Engin & Miri Besken & Kaan Kerman",
+              "instructor": "Selin Salman Engin & Kaan Kerman & Demet Özer",
               "schedule": []
             }
           ]
@@ -13161,6 +13205,17 @@
             {
               "number": "1",
               "instructor": "Hüseyin Boyacı",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "PSYC 542",
+          "name": "Psychology of Language",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Demet Özer",
               "schedule": []
             }
           ]

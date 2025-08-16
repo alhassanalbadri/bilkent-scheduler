@@ -1542,6 +1542,18 @@
           "gpa": "3.44"
         },
         {
+          "code": "COMD 513",
+          "name": "Film and Genre",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Colleen Bevin Kennedy Karpat",
+              "schedule": []
+            }
+          ],
+          "gpa": "3.55"
+        },
+        {
           "code": "COMD 514",
           "name": "Identity Space and Image",
           "sections": [
@@ -1575,18 +1587,6 @@
             }
           ],
           "gpa": "3.74"
-        },
-        {
-          "code": "COMD 538",
-          "name": "Adaptation in Media",
-          "sections": [
-            {
-              "number": "1",
-              "instructor": "Colleen Bevin Kennedy Karpat",
-              "schedule": []
-            }
-          ],
-          "gpa": "3.71"
         },
         {
           "code": "COMD 590",
@@ -1838,17 +1838,17 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Selim Aksoy",
-              "schedule": []
-            },
-            {
-              "number": "2",
               "instructor": "Abdullah Ercüment Çiçek",
               "schedule": []
             },
             {
-              "number": "3",
+              "number": "2",
               "instructor": "Selim Aksoy",
+              "schedule": []
+            },
+            {
+              "number": "3",
+              "instructor": "Abdullah Ercüment Çiçek",
               "schedule": []
             }
           ],
@@ -2141,14 +2141,21 @@
               "number": "2",
               "instructor": "Ayşegül Dündar Boral",
               "schedule": []
-            },
-            {
-              "number": "3",
-              "instructor": "Abdullah Ercüment Çiçek",
-              "schedule": []
             }
           ],
           "gpa": "2.50"
+        },
+        {
+          "code": "CS 465",
+          "name": "Computer Graphics I",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Uğur Güdükbay",
+              "schedule": []
+            }
+          ],
+          "gpa": "2.49"
         },
         {
           "code": "CS 470",
@@ -2359,6 +2366,18 @@
           "gpa": "2.26"
         },
         {
+          "code": "CS 575",
+          "name": "Computer Graphics I",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Uğur Güdükbay",
+              "schedule": []
+            }
+          ],
+          "gpa": "3.38"
+        },
+        {
           "code": "CS 585",
           "name": "Deep Generative Networks",
           "sections": [
@@ -2388,7 +2407,7 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Özgür Ulusoy & Selim Aksoy",
+              "instructor": "Özgür Ulusoy & Uğur Güdükbay",
               "schedule": []
             }
           ],
@@ -2412,7 +2431,7 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Özgür Ulusoy & Selim Aksoy",
+              "instructor": "Özgür Ulusoy & Uğur Güdükbay",
               "schedule": []
             }
           ],
@@ -3097,12 +3116,12 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Çağla Ökten",
+              "instructor": "Hakan Berument",
               "schedule": []
             },
             {
               "number": "2",
-              "instructor": "Hakan Berument",
+              "instructor": "Çağla Ökten",
               "schedule": []
             },
             {
@@ -3198,33 +3217,6 @@
             }
           ],
           "gpa": "2.34"
-        },
-        {
-          "code": "ECON 205",
-          "name": "Macroeconomics: Business Cycles",
-          "sections": [
-            {
-              "number": "1",
-              "instructor": "Burçin Kısacıkoğlu",
-              "schedule": []
-            },
-            {
-              "number": "2",
-              "instructor": "Burçin Kısacıkoğlu",
-              "schedule": []
-            },
-            {
-              "number": "3",
-              "instructor": "Burçin Kısacıkoğlu",
-              "schedule": []
-            },
-            {
-              "number": "4",
-              "instructor": "Burçin Kısacıkoğlu",
-              "schedule": []
-            }
-          ],
-          "gpa": "2.04"
         },
         {
           "code": "ECON 206",
@@ -3350,6 +3342,11 @@
               "number": "5",
               "instructor": "Mustafa Eray Yücel",
               "schedule": []
+            },
+            {
+              "number": "6",
+              "instructor": "Mustafa Eray Yücel",
+              "schedule": []
             }
           ],
           "gpa": "2.13"
@@ -3394,6 +3391,18 @@
           "gpa": "1.79"
         },
         {
+          "code": "ECON 321",
+          "name": "Financial Institutions and Markets",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Burçin Kısacıkoğlu",
+              "schedule": []
+            }
+          ],
+          "gpa": "2.43"
+        },
+        {
           "code": "ECON 322",
           "name": "Monetary Economics",
           "sections": [
@@ -3433,6 +3442,18 @@
             }
           ],
           "gpa": "2.22"
+        },
+        {
+          "code": "ECON 399",
+          "name": "Summer Training ",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Staff",
+              "schedule": []
+            }
+          ],
+          "gpa": "0.00"
         },
         {
           "code": "ECON 409",
@@ -3770,7 +3791,7 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "Süleyman Serdar Kozat",
               "schedule": []
             },
             {
@@ -3993,11 +4014,6 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Sinan Gezici",
-              "schedule": []
-            },
-            {
-              "number": "2",
               "instructor": "Tolga Mete Duman",
               "schedule": []
             }
@@ -4027,6 +4043,18 @@
             }
           ],
           "gpa": "2.09"
+        },
+        {
+          "code": "EEE 452",
+          "name": "Antenna Engineering",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Vakur Behçet Ertürk",
+              "schedule": []
+            }
+          ],
+          "gpa": "3.05"
         },
         {
           "code": "EEE 474",
@@ -4212,6 +4240,18 @@
             }
           ],
           "gpa": "3.54"
+        },
+        {
+          "code": "EEE 552",
+          "name": "Antenna Engineering",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Vakur Behçet Ertürk",
+              "schedule": []
+            }
+          ],
+          "gpa": "2.35"
         },
         {
           "code": "EEE 574",
@@ -5874,7 +5914,7 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "Luca Zavagno",
               "schedule": []
             }
           ],
@@ -8281,6 +8321,17 @@
           "gpa": "0.00"
         },
         {
+          "code": "IR 4101",
+          "name": "Global Authoritarianism",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Staff",
+              "schedule": []
+            }
+          ]
+        },
+        {
           "code": "IR 4127",
           "name": "Citizenship and Identity in the European Union",
           "sections": [
@@ -8291,6 +8342,17 @@
             }
           ],
           "gpa": "2.74"
+        },
+        {
+          "code": "IR 4135",
+          "name": "China in the Global Politics",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Çağla Demir",
+              "schedule": []
+            }
+          ]
         },
         {
           "code": "IR 4142",
@@ -9112,11 +9174,6 @@
               "number": "1",
               "instructor": "Betül Bostan",
               "schedule": []
-            },
-            {
-              "number": "2",
-              "instructor": "Staff",
-              "schedule": []
             }
           ],
           "gpa": "2.61"
@@ -9304,6 +9361,11 @@
               "number": "3",
               "instructor": "Staff",
               "schedule": []
+            },
+            {
+              "number": "4",
+              "instructor": "Staff",
+              "schedule": []
             }
           ],
           "gpa": "2.76"
@@ -9379,11 +9441,6 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Derya Çelik Işık",
-              "schedule": []
-            },
-            {
-              "number": "2",
               "instructor": "Derya Çelik Işık",
               "schedule": []
             }
@@ -9631,6 +9688,18 @@
           "gpa": "2.24"
         },
         {
+          "code": "MAN 333",
+          "name": "Marketing Principles",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Ceren Aydoğmuş",
+              "schedule": []
+            }
+          ],
+          "gpa": "2.71"
+        },
+        {
           "code": "MAN 335",
           "name": "Fundamentals of Marketing",
           "sections": [
@@ -9776,7 +9845,7 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "Özgür Kıbrıs",
               "schedule": []
             }
           ]
@@ -12211,6 +12280,18 @@
           "gpa": "1.45"
         },
         {
+          "code": "MSC 433",
+          "name": "Chamber Music VII",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Staff",
+              "schedule": []
+            }
+          ],
+          "gpa": "2.99"
+        },
+        {
           "code": "MSC 453",
           "name": "Bilkent Chorale VII ",
           "sections": [
@@ -12870,7 +12951,7 @@
             },
             {
               "number": "2",
-              "instructor": "Staff",
+              "instructor": "Onur Tokel",
               "schedule": []
             },
             {
@@ -12880,7 +12961,7 @@
             },
             {
               "number": "4",
-              "instructor": "Staff",
+              "instructor": "Haldun Sevinçli",
               "schedule": []
             },
             {
@@ -12895,12 +12976,12 @@
             },
             {
               "number": "7",
-              "instructor": "Staff",
+              "instructor": "Emre Ozan Polat",
               "schedule": []
             },
             {
               "number": "8",
-              "instructor": "Staff",
+              "instructor": "Bilal Tanatar",
               "schedule": []
             },
             {
@@ -12910,12 +12991,12 @@
             },
             {
               "number": "10",
-              "instructor": "Staff",
+              "instructor": "Emre Ozan Polat",
               "schedule": []
             },
             {
               "number": "11",
-              "instructor": "Staff",
+              "instructor": "Ekmel Özbay",
               "schedule": []
             },
             {
@@ -12930,7 +13011,7 @@
             },
             {
               "number": "14",
-              "instructor": "Staff",
+              "instructor": "Oğuz Gülseren",
               "schedule": []
             }
           ],
@@ -12942,7 +13023,7 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "Şahin Büyükdağlı",
               "schedule": []
             },
             {
@@ -12952,7 +13033,7 @@
             },
             {
               "number": "3",
-              "instructor": "Staff",
+              "instructor": "Şahin Büyükdağlı",
               "schedule": []
             },
             {
@@ -12962,7 +13043,7 @@
             },
             {
               "number": "5",
-              "instructor": "Staff",
+              "instructor": "Aydın Cem Keser",
               "schedule": []
             }
           ],
@@ -12974,7 +13055,7 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "Cemal Yalabık",
               "schedule": []
             }
           ],
@@ -12986,17 +13067,17 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "Deniz Aybaş",
               "schedule": []
             },
             {
               "number": "2",
-              "instructor": "Staff",
+              "instructor": "Ceyhun Bulutay",
               "schedule": []
             },
             {
               "number": "3",
-              "instructor": "Staff",
+              "instructor": "Deniz Aybaş",
               "schedule": []
             }
           ],
@@ -13008,7 +13089,7 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "Onur Tokel",
               "schedule": []
             }
           ],
@@ -13032,7 +13113,7 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "Onur Tokel",
               "schedule": []
             }
           ],
@@ -13044,7 +13125,7 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "Cemal Yalabık",
               "schedule": []
             }
           ],
@@ -13056,11 +13137,23 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "Cemal Yalabık",
               "schedule": []
             }
           ],
           "gpa": "2.65"
+        },
+        {
+          "code": "PHYS 333",
+          "name": "Classical Thermodynamics",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Staff",
+              "schedule": []
+            }
+          ],
+          "gpa": "2.80"
         },
         {
           "code": "PHYS 371",
@@ -13068,7 +13161,7 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "Mehmet Özgür Oktel",
               "schedule": []
             }
           ],
@@ -13092,11 +13185,35 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "Oğuz Gülseren",
               "schedule": []
             }
           ],
           "gpa": "3.23"
+        },
+        {
+          "code": "PHYS 491",
+          "name": "Senior Project I",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Şahin Büyükdağlı",
+              "schedule": []
+            }
+          ],
+          "gpa": "3.44"
+        },
+        {
+          "code": "PHYS 492",
+          "name": "Senior Project II",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Şahin Büyükdağlı",
+              "schedule": []
+            }
+          ],
+          "gpa": "3.34"
         },
         {
           "code": "PHYS 541",
@@ -13104,7 +13221,7 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "Bilal Tanatar",
               "schedule": []
             }
           ],
@@ -13116,7 +13233,7 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "Mehmet Özgür Oktel",
               "schedule": []
             }
           ],
@@ -13128,7 +13245,7 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "Haldun Sevinçli",
               "schedule": []
             }
           ]

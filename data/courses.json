@@ -10428,6 +10428,10 @@
                   "classroom": ""
                 },
                 {
+                  "slot": 11,
+                  "classroom": ""
+                },
+                {
                   "slot": 35,
                   "classroom": ""
                 },
@@ -10447,6 +10451,10 @@
                 },
                 {
                   "slot": 24,
+                  "classroom": ""
+                },
+                {
+                  "slot": 37,
                   "classroom": ""
                 },
                 {
@@ -10473,6 +10481,10 @@
                 },
                 {
                   "slot": 50,
+                  "classroom": ""
+                },
+                {
+                  "slot": 52,
                   "classroom": ""
                 },
                 {
@@ -10997,11 +11009,11 @@
                   "classroom": ""
                 },
                 {
-                  "slot": 57,
+                  "slot": 56,
                   "classroom": ""
                 },
                 {
-                  "slot": 59,
+                  "slot": 57,
                   "classroom": ""
                 }
               ]
@@ -34205,19 +34217,19 @@
               "instructor": "Staff",
               "schedule": [
                 {
-                  "slot": 18,
+                  "slot": 2,
                   "classroom": "(S)"
                 },
                 {
-                  "slot": 25,
+                  "slot": 9,
                   "classroom": ""
                 },
                 {
-                  "slot": 50,
+                  "slot": 39,
                   "classroom": ""
                 },
                 {
-                  "slot": 57,
+                  "slot": 46,
                   "classroom": ""
                 }
               ]
@@ -34289,19 +34301,19 @@
               "instructor": "Ülkemin Akbaş",
               "schedule": [
                 {
-                  "slot": 15,
+                  "slot": 4,
                   "classroom": ""
                 },
                 {
-                  "slot": 22,
+                  "slot": 11,
                   "classroom": ""
                 },
                 {
-                  "slot": 52,
+                  "slot": 36,
                   "classroom": ""
                 },
                 {
-                  "slot": 59,
+                  "slot": 43,
                   "classroom": ""
                 }
               ]
@@ -34317,11 +34329,11 @@
               "instructor": "Işın Metin & Kağan Korad & Onur Türkmen & Tahsin Tolga Yayalar & Onur Yıldırım",
               "schedule": [
                 {
-                  "slot": 36,
+                  "slot": 17,
                   "classroom": ""
                 },
                 {
-                  "slot": 43,
+                  "slot": 24,
                   "classroom": ""
                 }
               ]
@@ -35033,19 +35045,19 @@
               "instructor": "Tahsin Tolga Yayalar",
               "schedule": [
                 {
-                  "slot": 17,
+                  "slot": 15,
                   "classroom": ""
                 },
                 {
-                  "slot": 24,
+                  "slot": 22,
                   "classroom": ""
                 },
                 {
-                  "slot": 49,
+                  "slot": 52,
                   "classroom": ""
                 },
                 {
-                  "slot": 56,
+                  "slot": 59,
                   "classroom": ""
                 }
               ]

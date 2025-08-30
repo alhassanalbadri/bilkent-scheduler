@@ -11154,7 +11154,7 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "Seda Uyanık Tanrıverdi",
               "schedule": [
                 {
                   "slot": 2,
@@ -11176,7 +11176,7 @@
             },
             {
               "number": "2",
-              "instructor": "Staff",
+              "instructor": "Adem Gergöy",
               "schedule": [
                 {
                   "slot": 18,
@@ -11204,7 +11204,7 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "Mehmet Kalpaklı",
               "schedule": []
             }
           ]
@@ -13464,6 +13464,405 @@
     }
   },
   {
+    "EMBA": {
+      "courses": [
+        {
+          "code": "EMBA 514",
+          "name": "Foundations of Organizational Management I",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Aydın Örsan Örge",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "EMBA 515",
+          "name": "Foundations of Organizational Management II",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Aydın Örsan Örge",
+              "schedule": [
+                {
+                  "slot": 5,
+                  "classroom": "MA-302"
+                },
+                {
+                  "slot": 12,
+                  "classroom": "MA-302"
+                },
+                {
+                  "slot": 18,
+                  "classroom": "MA-302"
+                },
+                {
+                  "slot": 19,
+                  "classroom": "MA-302"
+                },
+                {
+                  "slot": 25,
+                  "classroom": "MA-302"
+                },
+                {
+                  "slot": 26,
+                  "classroom": "MA-302"
+                },
+                {
+                  "slot": 32,
+                  "classroom": "MA-302"
+                },
+                {
+                  "slot": 33,
+                  "classroom": "MA-302"
+                },
+                {
+                  "slot": 39,
+                  "classroom": "MA-302"
+                },
+                {
+                  "slot": 40,
+                  "classroom": "MA-302"
+                },
+                {
+                  "slot": 46,
+                  "classroom": "MA-302"
+                },
+                {
+                  "slot": 47,
+                  "classroom": "MA-302"
+                },
+                {
+                  "slot": 53,
+                  "classroom": "MA-302"
+                },
+                {
+                  "slot": 54,
+                  "classroom": "MA-302"
+                },
+                {
+                  "slot": 60,
+                  "classroom": "MA-302"
+                },
+                {
+                  "slot": 61,
+                  "classroom": "MA-302"
+                },
+                {
+                  "slot": 67,
+                  "classroom": "MA-302"
+                },
+                {
+                  "slot": 68,
+                  "classroom": "MA-302"
+                },
+                {
+                  "slot": 74,
+                  "classroom": "MA-302"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "EMBA 525",
+          "name": "Managing Systems Effectively",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Fehmi Tanrısever",
+              "schedule": [
+                {
+                  "slot": 4,
+                  "classroom": ""
+                },
+                {
+                  "slot": 5,
+                  "classroom": ""
+                },
+                {
+                  "slot": 11,
+                  "classroom": ""
+                },
+                {
+                  "slot": 12,
+                  "classroom": ""
+                },
+                {
+                  "slot": 18,
+                  "classroom": ""
+                },
+                {
+                  "slot": 19,
+                  "classroom": ""
+                },
+                {
+                  "slot": 25,
+                  "classroom": ""
+                },
+                {
+                  "slot": 26,
+                  "classroom": ""
+                },
+                {
+                  "slot": 32,
+                  "classroom": ""
+                },
+                {
+                  "slot": 33,
+                  "classroom": ""
+                },
+                {
+                  "slot": 39,
+                  "classroom": ""
+                },
+                {
+                  "slot": 40,
+                  "classroom": ""
+                },
+                {
+                  "slot": 46,
+                  "classroom": ""
+                },
+                {
+                  "slot": 47,
+                  "classroom": ""
+                },
+                {
+                  "slot": 53,
+                  "classroom": ""
+                },
+                {
+                  "slot": 54,
+                  "classroom": ""
+                },
+                {
+                  "slot": 60,
+                  "classroom": ""
+                },
+                {
+                  "slot": 61,
+                  "classroom": ""
+                },
+                {
+                  "slot": 67,
+                  "classroom": ""
+                },
+                {
+                  "slot": 68,
+                  "classroom": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "EMBA 534",
+          "name": "Quantitative Methods",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Banu Sultanoğlu",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "EMBA 535",
+          "name": "Financial Reporting",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Banu Sultanoğlu",
+              "schedule": [
+                {
+                  "slot": 5,
+                  "classroom": ""
+                },
+                {
+                  "slot": 12,
+                  "classroom": ""
+                },
+                {
+                  "slot": 18,
+                  "classroom": ""
+                },
+                {
+                  "slot": 19,
+                  "classroom": ""
+                },
+                {
+                  "slot": 25,
+                  "classroom": ""
+                },
+                {
+                  "slot": 26,
+                  "classroom": ""
+                },
+                {
+                  "slot": 32,
+                  "classroom": ""
+                },
+                {
+                  "slot": 33,
+                  "classroom": ""
+                },
+                {
+                  "slot": 39,
+                  "classroom": ""
+                },
+                {
+                  "slot": 40,
+                  "classroom": ""
+                },
+                {
+                  "slot": 46,
+                  "classroom": ""
+                },
+                {
+                  "slot": 47,
+                  "classroom": ""
+                },
+                {
+                  "slot": 53,
+                  "classroom": ""
+                },
+                {
+                  "slot": 54,
+                  "classroom": ""
+                },
+                {
+                  "slot": 60,
+                  "classroom": ""
+                },
+                {
+                  "slot": 61,
+                  "classroom": ""
+                },
+                {
+                  "slot": 67,
+                  "classroom": ""
+                },
+                {
+                  "slot": 68,
+                  "classroom": ""
+                },
+                {
+                  "slot": 74,
+                  "classroom": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "EMBA 546",
+          "name": "Strategic Financial Management ",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Ayşe Başak Tanyeri Günsür",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "EMBA 547",
+          "name": "Decision Analysis",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Fehmi Tanrısever",
+              "schedule": [
+                {
+                  "slot": 4,
+                  "classroom": ""
+                },
+                {
+                  "slot": 5,
+                  "classroom": ""
+                },
+                {
+                  "slot": 11,
+                  "classroom": ""
+                },
+                {
+                  "slot": 12,
+                  "classroom": ""
+                },
+                {
+                  "slot": 18,
+                  "classroom": ""
+                },
+                {
+                  "slot": 19,
+                  "classroom": ""
+                },
+                {
+                  "slot": 25,
+                  "classroom": ""
+                },
+                {
+                  "slot": 26,
+                  "classroom": ""
+                },
+                {
+                  "slot": 32,
+                  "classroom": ""
+                },
+                {
+                  "slot": 33,
+                  "classroom": ""
+                },
+                {
+                  "slot": 39,
+                  "classroom": ""
+                },
+                {
+                  "slot": 40,
+                  "classroom": ""
+                },
+                {
+                  "slot": 46,
+                  "classroom": ""
+                },
+                {
+                  "slot": 47,
+                  "classroom": ""
+                },
+                {
+                  "slot": 53,
+                  "classroom": ""
+                },
+                {
+                  "slot": 54,
+                  "classroom": ""
+                },
+                {
+                  "slot": 60,
+                  "classroom": ""
+                },
+                {
+                  "slot": 61,
+                  "classroom": ""
+                },
+                {
+                  "slot": 67,
+                  "classroom": ""
+                },
+                {
+                  "slot": 68,
+                  "classroom": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
     "ENG": {
       "courses": [
         {
@@ -14158,7 +14557,7 @@
             },
             {
               "number": "3",
-              "instructor": "Matthew Lloyd Gorman",
+              "instructor": "Lorna Yeşilkaya",
               "schedule": [
                 {
                   "slot": 2,
@@ -14224,7 +14623,7 @@
             },
             {
               "number": "6",
-              "instructor": "Lorna Yeşilkaya",
+              "instructor": "John Paul Alff",
               "schedule": [
                 {
                   "slot": 18,
@@ -14434,7 +14833,7 @@
             },
             {
               "number": "7",
-              "instructor": "Jason Lee William Mosier",
+              "instructor": "Bengü Yurtseven",
               "schedule": [
                 {
                   "slot": 3,
@@ -14544,7 +14943,7 @@
             },
             {
               "number": "12",
-              "instructor": "Melanie Ann Kincl",
+              "instructor": "Jason Lee William Mosier",
               "schedule": [
                 {
                   "slot": 16,
@@ -14610,7 +15009,7 @@
             },
             {
               "number": "15",
-              "instructor": "Semra Akbaş",
+              "instructor": "Melanie Ann Kincl",
               "schedule": [
                 {
                   "slot": 18,
@@ -16083,6 +16482,16 @@
                   "classroom": "FE-101"
                 }
               ]
+            },
+            {
+              "number": "2",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "3",
+              "instructor": "Staff",
+              "schedule": []
             }
           ]
         },
@@ -16694,7 +17103,7 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Ioannis N. Grigoriadis",
+              "instructor": "Ioannis N. Grigoriadis & Katherine Halley Willcox Özsarı",
               "schedule": [
                 {
                   "slot": 18,
@@ -16724,7 +17133,7 @@
             },
             {
               "number": "2",
-              "instructor": "Rodica Eliza Gheorghe",
+              "instructor": "Bengü Yurtseven & Rodica Eliza Gheorghe",
               "schedule": [
                 {
                   "slot": 18,
@@ -16754,7 +17163,7 @@
             },
             {
               "number": "3",
-              "instructor": "Mustafa Eray Yücel",
+              "instructor": "Mustafa Eray Yücel & Katherine Halley Willcox Özsarı",
               "schedule": [
                 {
                   "slot": 18,
@@ -16784,7 +17193,7 @@
             },
             {
               "number": "4",
-              "instructor": "Esra İşsever Ekinci",
+              "instructor": "Bengü Yurtseven & Esra İşsever Ekinci",
               "schedule": [
                 {
                   "slot": 18,
@@ -16814,7 +17223,7 @@
             },
             {
               "number": "5",
-              "instructor": "Çağla Demir",
+              "instructor": "Bengü Yurtseven & Çağla Demir",
               "schedule": [
                 {
                   "slot": 18,
@@ -16844,7 +17253,7 @@
             },
             {
               "number": "6",
-              "instructor": "Türkan Mine Kara",
+              "instructor": "Türkan Mine Kara & Katherine Halley Willcox Özsarı",
               "schedule": [
                 {
                   "slot": 14,
@@ -17230,7 +17639,7 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Can İzzet Birand",
+              "instructor": "Çavlan Başarır",
               "schedule": [
                 {
                   "slot": 1,
@@ -17252,7 +17661,7 @@
             },
             {
               "number": "2",
-              "instructor": "Çavlan Başarır",
+              "instructor": "Can İzzet Birand",
               "schedule": [
                 {
                   "slot": 36,
@@ -19905,6 +20314,34 @@
                 },
                 {
                   "slot": 44,
+                  "classroom": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "HIST 447",
+          "name": "Renaissance Studies",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Filip Malesevic",
+              "schedule": [
+                {
+                  "slot": 15,
+                  "classroom": "(S)"
+                },
+                {
+                  "slot": 22,
+                  "classroom": ""
+                },
+                {
+                  "slot": 52,
+                  "classroom": ""
+                },
+                {
+                  "slot": 59,
                   "classroom": ""
                 }
               ]
@@ -28358,6 +28795,28 @@
                   "classroom": "G-Z53"
                 }
               ]
+            },
+            {
+              "number": "3",
+              "instructor": "Gülnara Tanrıkulu",
+              "schedule": [
+                {
+                  "slot": 16,
+                  "classroom": "G-Z54"
+                },
+                {
+                  "slot": 23,
+                  "classroom": "G-Z54"
+                },
+                {
+                  "slot": 53,
+                  "classroom": "G-Z54"
+                },
+                {
+                  "slot": 60,
+                  "classroom": "G-Z54"
+                }
+              ]
             }
           ]
         },
@@ -31513,7 +31972,7 @@
             },
             {
               "number": "3",
-              "instructor": "Staff",
+              "instructor": "Vakur Behçet Ertürk",
               "schedule": [
                 {
                   "slot": 1,
@@ -31707,7 +32166,7 @@
             },
             {
               "number": "3",
-              "instructor": "Süleyman Serdar Kozat",
+              "instructor": "Staff",
               "schedule": [
                 {
                   "slot": 4,
@@ -32106,7 +32565,7 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "Fehmi Tanrısever",
               "schedule": [
                 {
                   "slot": 71,
@@ -35690,6 +36149,34 @@
           ]
         },
         {
+          "code": "NSC 612",
+          "name": "Selected Topics in Neuroscience I",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Timothea Toulopoulou",
+              "schedule": [
+                {
+                  "slot": 4,
+                  "classroom": "(S)"
+                },
+                {
+                  "slot": 11,
+                  "classroom": ""
+                },
+                {
+                  "slot": 36,
+                  "classroom": ""
+                },
+                {
+                  "slot": 43,
+                  "classroom": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
           "code": "NSC 691",
           "name": "Pro-thesis Seminar II",
           "sections": [
@@ -35945,7 +36432,7 @@
             },
             {
               "number": "2",
-              "instructor": "Matthew Lloyd Gorman & Jonathan Payton",
+              "instructor": "Iain Board & Jonathan Payton",
               "schedule": [
                 {
                   "slot": 2,
@@ -35983,7 +36470,7 @@
             },
             {
               "number": "3",
-              "instructor": "Jennifer Lyn Schroeder",
+              "instructor": "Elif Hande Özer",
               "schedule": [
                 {
                   "slot": 16,
@@ -36135,7 +36622,7 @@
             },
             {
               "number": "7",
-              "instructor": "Matthew Lloyd Gorman",
+              "instructor": "Iain Board",
               "schedule": [
                 {
                   "slot": 2,
@@ -36173,7 +36660,7 @@
             },
             {
               "number": "8",
-              "instructor": "Jennifer Lyn Schroeder",
+              "instructor": "Elif Hande Özer",
               "schedule": [
                 {
                   "slot": 0,
@@ -36287,7 +36774,7 @@
             },
             {
               "number": "11",
-              "instructor": "Matthew Lloyd Gorman",
+              "instructor": "Iain Board",
               "schedule": [
                 {
                   "slot": 14,
@@ -36363,7 +36850,7 @@
             },
             {
               "number": "13",
-              "instructor": "Matthew Lloyd Gorman & Jonathan Payton",
+              "instructor": "Iain Board & Jonathan Payton",
               "schedule": [
                 {
                   "slot": 1,
@@ -36477,7 +36964,7 @@
             },
             {
               "number": "16",
-              "instructor": "Elif Hande Özer",
+              "instructor": "Iain Board",
               "schedule": [
                 {
                   "slot": 14,
@@ -38798,9 +39285,54 @@
           "name": "Contemporary Turkish Politics",
           "sections": [
             {
-              "number": "2",
+              "number": "1",
               "instructor": "Zeki Sarıgil",
-              "schedule": []
+              "schedule": [
+                {
+                  "slot": 4,
+                  "classroom": "(S)"
+                },
+                {
+                  "slot": 11,
+                  "classroom": ""
+                },
+                {
+                  "slot": 36,
+                  "classroom": ""
+                },
+                {
+                  "slot": 43,
+                  "classroom": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "POLS 312",
+          "name": "Health, Society and Politics",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Emine Öncüler Yayalar",
+              "schedule": [
+                {
+                  "slot": 1,
+                  "classroom": "(S)"
+                },
+                {
+                  "slot": 8,
+                  "classroom": ""
+                },
+                {
+                  "slot": 38,
+                  "classroom": ""
+                },
+                {
+                  "slot": 45,
+                  "classroom": ""
+                }
+              ]
             }
           ]
         },
@@ -38820,9 +39352,26 @@
           "name": "Governance and Public Policy ",
           "sections": [
             {
-              "number": "2",
+              "number": "1",
               "instructor": "Onur Özgöde",
-              "schedule": []
+              "schedule": [
+                {
+                  "slot": 15,
+                  "classroom": "(S)"
+                },
+                {
+                  "slot": 22,
+                  "classroom": ""
+                },
+                {
+                  "slot": 52,
+                  "classroom": ""
+                },
+                {
+                  "slot": 59,
+                  "classroom": ""
+                }
+              ]
             }
           ]
         },
@@ -40371,11 +40920,6 @@
                   "classroom": ""
                 }
               ]
-            },
-            {
-              "number": "2",
-              "instructor": "Staff",
-              "schedule": []
             }
           ]
         },
@@ -41730,7 +42274,7 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "Faysal Can Dakni",
               "schedule": [
                 {
                   "slot": 35,
@@ -41758,7 +42302,7 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "Ayşegül Deniz Ertürk",
               "schedule": [
                 {
                   "slot": 15,
@@ -41863,6 +42407,65 @@
                   "classroom": ""
                 }
               ]
+            },
+            {
+              "number": "5",
+              "instructor": "Gizem Gürer",
+              "schedule": [
+                {
+                  "slot": 15,
+                  "classroom": "(S)"
+                },
+                {
+                  "slot": 22,
+                  "classroom": ""
+                },
+                {
+                  "slot": 52,
+                  "classroom": ""
+                },
+                {
+                  "slot": 59,
+                  "classroom": ""
+                }
+              ]
+            },
+            {
+              "number": "6",
+              "instructor": "Gizem Gürer",
+              "schedule": [
+                {
+                  "slot": 17,
+                  "classroom": "(S)"
+                },
+                {
+                  "slot": 24,
+                  "classroom": ""
+                },
+                {
+                  "slot": 49,
+                  "classroom": ""
+                },
+                {
+                  "slot": 56,
+                  "classroom": ""
+                }
+              ]
+            },
+            {
+              "number": "7",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "8",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "9",
+              "instructor": "Staff",
+              "schedule": []
             }
           ]
         },
@@ -41881,6 +42484,66 @@
                 {
                   "slot": 22,
                   "classroom": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "THR 201",
+          "name": "Acting I",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Staff",
+              "schedule": [
+                {
+                  "slot": 1,
+                  "classroom": ""
+                },
+                {
+                  "slot": 4,
+                  "classroom": "(S)"
+                },
+                {
+                  "slot": 8,
+                  "classroom": ""
+                },
+                {
+                  "slot": 11,
+                  "classroom": ""
+                },
+                {
+                  "slot": 15,
+                  "classroom": ""
+                },
+                {
+                  "slot": 18,
+                  "classroom": ""
+                },
+                {
+                  "slot": 22,
+                  "classroom": ""
+                },
+                {
+                  "slot": 25,
+                  "classroom": ""
+                },
+                {
+                  "slot": 36,
+                  "classroom": ""
+                },
+                {
+                  "slot": 43,
+                  "classroom": ""
+                },
+                {
+                  "slot": 50,
+                  "classroom": ""
+                },
+                {
+                  "slot": 57,
+                  "classroom": "(S)"
                 }
               ]
             }
@@ -41920,7 +42583,7 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "Faysal Can Dakni",
               "schedule": [
                 {
                   "slot": 35,
@@ -41976,7 +42639,7 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "Jason Edward Hale",
               "schedule": [
                 {
                   "slot": 2,
@@ -42086,7 +42749,7 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "Jason Edward Hale & Faysal Can Dakni",
               "schedule": [
                 {
                   "slot": 36,

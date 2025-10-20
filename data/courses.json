@@ -3701,19 +3701,19 @@
               "schedule": [
                 {
                   "slot": 2,
-                  "classroom": "FF-114"
+                  "classroom": "FF-217"
                 },
                 {
                   "slot": 9,
-                  "classroom": "FF-114"
+                  "classroom": "FF-217"
                 },
                 {
                   "slot": 39,
-                  "classroom": "FF-114"
+                  "classroom": "FF-217"
                 },
                 {
                   "slot": 46,
-                  "classroom": "FF-114(S)"
+                  "classroom": "FF-217(S)"
                 }
               ]
             },
@@ -3723,19 +3723,19 @@
               "schedule": [
                 {
                   "slot": 16,
-                  "classroom": "FF-114"
+                  "classroom": "FF-217"
                 },
                 {
                   "slot": 23,
-                  "classroom": "FF-114"
+                  "classroom": "FF-217"
                 },
                 {
                   "slot": 53,
-                  "classroom": "FF-114"
+                  "classroom": "FF-217"
                 },
                 {
                   "slot": 60,
-                  "classroom": "FF-114(S)"
+                  "classroom": "FF-217(S)"
                 }
               ]
             }
@@ -29853,7 +29853,7 @@
               "schedule": [
                 {
                   "slot": 16,
-                  "classroom": "H-132(S)"
+                  "classroom": "H-132"
                 },
                 {
                   "slot": 23,
@@ -29865,7 +29865,7 @@
                 },
                 {
                   "slot": 60,
-                  "classroom": "H-132"
+                  "classroom": "H-132(S)"
                 }
               ]
             }
@@ -38019,19 +38019,19 @@
               "schedule": [
                 {
                   "slot": 2,
-                  "classroom": "(S)"
+                  "classroom": "P-336(S)"
                 },
                 {
                   "slot": 9,
-                  "classroom": ""
+                  "classroom": "P-336"
                 },
                 {
                   "slot": 39,
-                  "classroom": ""
+                  "classroom": "P-336"
                 },
                 {
                   "slot": 46,
-                  "classroom": ""
+                  "classroom": "P-336"
                 }
               ]
             }
@@ -38270,19 +38270,19 @@
               "schedule": [
                 {
                   "slot": 4,
-                  "classroom": ""
+                  "classroom": "P-251"
                 },
                 {
                   "slot": 11,
-                  "classroom": ""
+                  "classroom": "P-251"
                 },
                 {
                   "slot": 36,
-                  "classroom": ""
+                  "classroom": "P-251"
                 },
                 {
                   "slot": 43,
-                  "classroom": ""
+                  "classroom": "P-251"
                 }
               ]
             }
@@ -38432,19 +38432,19 @@
               "schedule": [
                 {
                   "slot": 18,
-                  "classroom": "(S)"
+                  "classroom": "P-336(S)"
                 },
                 {
                   "slot": 25,
-                  "classroom": ""
+                  "classroom": "P-336"
                 },
                 {
                   "slot": 50,
-                  "classroom": ""
+                  "classroom": "P-336"
                 },
                 {
                   "slot": 57,
-                  "classroom": ""
+                  "classroom": "P-336"
                 }
               ]
             }
@@ -38713,19 +38713,19 @@
               "schedule": [
                 {
                   "slot": 3,
-                  "classroom": "(S)"
+                  "classroom": "P-241(S)"
                 },
                 {
                   "slot": 10,
-                  "classroom": ""
+                  "classroom": "P-241"
                 },
                 {
                   "slot": 35,
-                  "classroom": ""
+                  "classroom": "P-241"
                 },
                 {
                   "slot": 42,
-                  "classroom": ""
+                  "classroom": "P-241"
                 }
               ]
             }
@@ -38752,19 +38752,19 @@
               "schedule": [
                 {
                   "slot": 17,
-                  "classroom": ""
+                  "classroom": "P-336"
                 },
                 {
                   "slot": 24,
-                  "classroom": ""
+                  "classroom": "P-336"
                 },
                 {
                   "slot": 49,
-                  "classroom": ""
+                  "classroom": "P-336"
                 },
                 {
                   "slot": 56,
-                  "classroom": ""
+                  "classroom": "P-336"
                 }
               ]
             }
@@ -38975,19 +38975,19 @@
               "schedule": [
                 {
                   "slot": 14,
-                  "classroom": "(S)"
+                  "classroom": "P-241(S)"
                 },
                 {
                   "slot": 21,
-                  "classroom": ""
+                  "classroom": "P-241"
                 },
                 {
                   "slot": 51,
-                  "classroom": ""
+                  "classroom": "P-241"
                 },
                 {
                   "slot": 58,
-                  "classroom": ""
+                  "classroom": "P-241"
                 }
               ]
             }

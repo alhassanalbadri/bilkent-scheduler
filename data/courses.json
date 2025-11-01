@@ -15086,7 +15086,7 @@
               "schedule": [
                 {
                   "slot": 2,
-                  "classroom": "SB-Z04"
+                  "classroom": "SB-Z04(S)"
                 },
                 {
                   "slot": 9,
@@ -15106,7 +15106,7 @@
                 },
                 {
                   "slot": 56,
-                  "classroom": "SB-Z04(S)"
+                  "classroom": "SB-Z04"
                 }
               ]
             },

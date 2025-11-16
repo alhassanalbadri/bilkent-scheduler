@@ -4538,11 +4538,11 @@
               "schedule": [
                 {
                   "slot": 15,
-                  "classroom": "(S)"
+                  "classroom": "FF-114(S)"
                 },
                 {
                   "slot": 22,
-                  "classroom": ""
+                  "classroom": "FF-114"
                 },
                 {
                   "slot": 52,
@@ -6431,11 +6431,11 @@
                 },
                 {
                   "slot": 50,
-                  "classroom": "EE-214(S)"
+                  "classroom": "EE-214"
                 },
                 {
                   "slot": 57,
-                  "classroom": "EE-214"
+                  "classroom": "EE-214(S)"
                 }
               ]
             }
@@ -15382,7 +15382,7 @@
             },
             {
               "number": "58",
-              "instructor": "Setenay Tuncer",
+              "instructor": "Ayça Üner & Melanie Ann Kincl & Setenay Tuncer",
               "schedule": [
                 {
                   "slot": 3,
@@ -35545,15 +35545,15 @@
               "schedule": [
                 {
                   "slot": 71,
-                  "classroom": "MA-302"
+                  "classroom": "MA-301"
                 },
                 {
                   "slot": 78,
-                  "classroom": "MA-302"
+                  "classroom": "MA-301"
                 },
                 {
                   "slot": 85,
-                  "classroom": "MA-302"
+                  "classroom": "MA-301"
                 }
               ]
             }
@@ -35593,15 +35593,15 @@
               "schedule": [
                 {
                   "slot": 73,
-                  "classroom": "MA-302"
+                  "classroom": "MA-301"
                 },
                 {
                   "slot": 80,
-                  "classroom": "MA-302"
+                  "classroom": "MA-301"
                 },
                 {
                   "slot": 87,
-                  "classroom": "MA-302"
+                  "classroom": "MA-301"
                 }
               ]
             }
@@ -40492,7 +40492,7 @@
             },
             {
               "number": "16",
-              "instructor": "Iain Board & Alexander Paul Moran",
+              "instructor": "Iain Board & John Woods III & Alexander Paul Moran",
               "schedule": [
                 {
                   "slot": 14,
@@ -40931,7 +40931,7 @@
             },
             {
               "number": "3",
-              "instructor": "Alexander Paul Moran",
+              "instructor": "John Woods III & Alexander Paul Moran",
               "schedule": [
                 {
                   "slot": 1,

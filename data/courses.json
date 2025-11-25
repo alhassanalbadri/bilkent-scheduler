@@ -1238,6 +1238,42 @@
           ]
         },
         {
+          "code": "ARCH 252",
+          "name": "Construction and Materials",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Staff",
+              "schedule": [
+                {
+                  "slot": 2,
+                  "classroom": "(S)"
+                },
+                {
+                  "slot": 9,
+                  "classroom": ""
+                },
+                {
+                  "slot": 16,
+                  "classroom": ""
+                },
+                {
+                  "slot": 23,
+                  "classroom": ""
+                },
+                {
+                  "slot": 39,
+                  "classroom": ""
+                },
+                {
+                  "slot": 46,
+                  "classroom": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
           "code": "ARCH 290",
           "name": "Summer Practice I",
           "sections": [
@@ -1465,6 +1501,50 @@
                 {
                   "slot": 60,
                   "classroom": "FF-Z10"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "ARCH 302",
+          "name": "Architectural Design Studio IV",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Staff",
+              "schedule": [
+                {
+                  "slot": 4,
+                  "classroom": ""
+                },
+                {
+                  "slot": 11,
+                  "classroom": ""
+                },
+                {
+                  "slot": 18,
+                  "classroom": ""
+                },
+                {
+                  "slot": 25,
+                  "classroom": ""
+                },
+                {
+                  "slot": 35,
+                  "classroom": ""
+                },
+                {
+                  "slot": 42,
+                  "classroom": ""
+                },
+                {
+                  "slot": 49,
+                  "classroom": ""
+                },
+                {
+                  "slot": 56,
+                  "classroom": ""
                 }
               ]
             }
@@ -15382,7 +15462,7 @@
             },
             {
               "number": "58",
-              "instructor": "Ayça Üner & Melanie Ann Kincl & Setenay Tuncer",
+              "instructor": "Setenay Tuncer",
               "schedule": [
                 {
                   "slot": 3,

@@ -1244,32 +1244,7 @@
             {
               "number": "1",
               "instructor": "Staff",
-              "schedule": [
-                {
-                  "slot": 2,
-                  "classroom": "(S)"
-                },
-                {
-                  "slot": 9,
-                  "classroom": ""
-                },
-                {
-                  "slot": 16,
-                  "classroom": ""
-                },
-                {
-                  "slot": 23,
-                  "classroom": ""
-                },
-                {
-                  "slot": 39,
-                  "classroom": ""
-                },
-                {
-                  "slot": 46,
-                  "classroom": ""
-                }
-              ]
+              "schedule": []
             }
           ]
         },
@@ -1513,40 +1488,7 @@
             {
               "number": "1",
               "instructor": "Staff",
-              "schedule": [
-                {
-                  "slot": 4,
-                  "classroom": ""
-                },
-                {
-                  "slot": 11,
-                  "classroom": ""
-                },
-                {
-                  "slot": 18,
-                  "classroom": ""
-                },
-                {
-                  "slot": 25,
-                  "classroom": ""
-                },
-                {
-                  "slot": 35,
-                  "classroom": ""
-                },
-                {
-                  "slot": 42,
-                  "classroom": ""
-                },
-                {
-                  "slot": 49,
-                  "classroom": ""
-                },
-                {
-                  "slot": 56,
-                  "classroom": ""
-                }
-              ]
+              "schedule": []
             }
           ]
         },
@@ -19056,19 +18998,19 @@
               "schedule": [
                 {
                   "slot": 18,
-                  "classroom": "FC-Z13(S)"
+                  "classroom": "FC-Z23B(S)"
                 },
                 {
                   "slot": 25,
-                  "classroom": "FC-Z13"
+                  "classroom": "FC-Z23B"
                 },
                 {
                   "slot": 50,
-                  "classroom": "FC-Z13"
+                  "classroom": "FC-Z23B"
                 },
                 {
                   "slot": 57,
-                  "classroom": "FC-Z13"
+                  "classroom": "FC-Z23B"
                 }
               ]
             },

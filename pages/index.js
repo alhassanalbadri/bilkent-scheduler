@@ -152,7 +152,7 @@ export default function Home() {
                         label: department.label,
                         options: displayCourses(courses, department).map((course) => ({
                           value: course,
-                          label: course.code,
+                          label: `${course.code} - ${course.name}`,
                         })),
                       }))}
                       styles={{

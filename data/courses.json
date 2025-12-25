@@ -791,6 +791,17 @@
           ]
         },
         {
+          "code": "AMER 406",
+          "name": "Senior Project",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Daniel Peter Johnson",
+              "schedule": []
+            }
+          ]
+        },
+        {
           "code": "AMER 426",
           "name": "American Studies in a Global Context",
           "sections": [
@@ -3046,6 +3057,17 @@
           ]
         },
         {
+          "code": "COMD 290",
+          "name": "Summer Practice I",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Ufuk Önen",
+              "schedule": []
+            }
+          ]
+        },
+        {
           "code": "COMD 302",
           "name": "Political Communication",
           "sections": [
@@ -3912,6 +3934,17 @@
                   "classroom": "FFB-008"
                 }
               ]
+            }
+          ]
+        },
+        {
+          "code": "COMD 390",
+          "name": "Summer Practice II",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Hasan Yusuf Akçura",
+              "schedule": []
             }
           ]
         },
@@ -8265,6 +8298,34 @@
           ]
         },
         {
+          "code": "CTIS 363",
+          "name": "Ethical and Social Issues in Information Systems ",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Staff",
+              "schedule": [
+                {
+                  "slot": 16,
+                  "classroom": "CE-106(S)"
+                },
+                {
+                  "slot": 23,
+                  "classroom": "CE-106"
+                },
+                {
+                  "slot": 53,
+                  "classroom": "CE-106"
+                },
+                {
+                  "slot": 60,
+                  "classroom": "CE-106"
+                }
+              ]
+            }
+          ]
+        },
+        {
           "code": "CTIS 365",
           "name": "Applied Data Analysis",
           "sections": [
@@ -8932,7 +8993,7 @@
             },
             {
               "number": "5",
-              "instructor": "Ali Hakan Kara & Refet Soykan Gürkaynak",
+              "instructor": "Ali Hakan Kara",
               "schedule": [
                 {
                   "slot": 1,
@@ -11786,11 +11847,6 @@
                   "classroom": ""
                 }
               ]
-            },
-            {
-              "number": "3",
-              "instructor": "Ömer Morgül",
-              "schedule": []
             }
           ]
         },
@@ -12056,6 +12112,34 @@
                 },
                 {
                   "slot": 57,
+                  "classroom": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "EEE 442",
+          "name": "Nonlinear Systems",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Ömer Morgül",
+              "schedule": [
+                {
+                  "slot": 2,
+                  "classroom": "(S)"
+                },
+                {
+                  "slot": 9,
+                  "classroom": ""
+                },
+                {
+                  "slot": 39,
+                  "classroom": ""
+                },
+                {
+                  "slot": 46,
                   "classroom": ""
                 }
               ]
@@ -12441,6 +12525,34 @@
                 },
                 {
                   "slot": 57,
+                  "classroom": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "EEE 542",
+          "name": "Nonlinear Systems",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Ömer Morgül",
+              "schedule": [
+                {
+                  "slot": 2,
+                  "classroom": "(S)"
+                },
+                {
+                  "slot": 9,
+                  "classroom": ""
+                },
+                {
+                  "slot": 39,
+                  "classroom": ""
+                },
+                {
+                  "slot": 46,
                   "classroom": ""
                 }
               ]
@@ -17372,11 +17484,6 @@
                   "classroom": ""
                 }
               ]
-            },
-            {
-              "number": "6",
-              "instructor": "Staff",
-              "schedule": []
             }
           ]
         },
@@ -21749,6 +21856,50 @@
                   "classroom": ""
                 }
               ]
+            },
+            {
+              "number": "16",
+              "instructor": "Staff",
+              "schedule": [
+                {
+                  "slot": 18,
+                  "classroom": "(S)"
+                },
+                {
+                  "slot": 25,
+                  "classroom": ""
+                },
+                {
+                  "slot": 50,
+                  "classroom": ""
+                },
+                {
+                  "slot": 57,
+                  "classroom": ""
+                }
+              ]
+            },
+            {
+              "number": "17",
+              "instructor": "Staff",
+              "schedule": [
+                {
+                  "slot": 18,
+                  "classroom": "(S)"
+                },
+                {
+                  "slot": 25,
+                  "classroom": ""
+                },
+                {
+                  "slot": 50,
+                  "classroom": ""
+                },
+                {
+                  "slot": 57,
+                  "classroom": ""
+                }
+              ]
             }
           ]
         }
@@ -21918,7 +22069,7 @@
             },
             {
               "number": "8",
-              "instructor": "Staff",
+              "instructor": "İbrahim Mert Öztürk",
               "schedule": [
                 {
                   "slot": 3,
@@ -22006,7 +22157,7 @@
             },
             {
               "number": "12",
-              "instructor": "Staff",
+              "instructor": "İbrahim Mert Öztürk",
               "schedule": [
                 {
                   "slot": 14,
@@ -22028,7 +22179,7 @@
             },
             {
               "number": "13",
-              "instructor": "Staff",
+              "instructor": "İbrahim Mert Öztürk",
               "schedule": [
                 {
                   "slot": 15,
@@ -22050,7 +22201,7 @@
             },
             {
               "number": "14",
-              "instructor": "Staff",
+              "instructor": "Abdürrahim Özer",
               "schedule": [
                 {
                   "slot": 15,
@@ -22072,7 +22223,7 @@
             },
             {
               "number": "15",
-              "instructor": "Staff",
+              "instructor": "Abdürrahim Özer",
               "schedule": [
                 {
                   "slot": 16,
@@ -22138,7 +22289,7 @@
             },
             {
               "number": "18",
-              "instructor": "Staff",
+              "instructor": "Abdürrahim Özer",
               "schedule": [
                 {
                   "slot": 17,
@@ -22160,7 +22311,7 @@
             },
             {
               "number": "19",
-              "instructor": "Staff",
+              "instructor": "İbrahim Mert Öztürk",
               "schedule": [
                 {
                   "slot": 18,
@@ -22182,7 +22333,7 @@
             },
             {
               "number": "20",
-              "instructor": "Staff",
+              "instructor": "Abdürrahim Özer",
               "schedule": [
                 {
                   "slot": 18,
@@ -22539,7 +22690,7 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "Nil Tekgül",
               "schedule": [
                 {
                   "slot": 15,
@@ -26627,6 +26778,17 @@
           ]
         },
         {
+          "code": "IR 493",
+          "name": "European Union",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Staff",
+              "schedule": []
+            }
+          ]
+        },
+        {
           "code": "IR 509",
           "name": "Pre-thesis Seminar",
           "sections": [
@@ -27264,7 +27426,7 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "Jakub Urbanik & Marzena Ewa Wojtczak",
               "schedule": []
             }
           ]
@@ -27493,7 +27655,7 @@
             },
             {
               "number": "2",
-              "instructor": "Staff",
+              "instructor": "Pınar Başak Coşkun",
               "schedule": []
             }
           ]
@@ -27740,6 +27902,17 @@
             {
               "number": "1",
               "instructor": "Ece Göztepe Çelebi",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "LAW 644",
+          "name": "Private Law Remedies in Competition Law (in Turkish)",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Osman B. Gürzumar",
               "schedule": []
             }
           ]
@@ -28010,7 +28183,7 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "Yağmur Cevger Zorlu",
               "schedule": [
                 {
                   "slot": 15,
@@ -28099,6 +28272,17 @@
         {
           "code": "LNG 123",
           "name": "French III",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Betül Bostan",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "LNG 124",
+          "name": "Intermediate French I",
           "sections": [
             {
               "number": "1",
@@ -35943,12 +36127,34 @@
           ]
         },
         {
+          "code": "PHIL 409",
+          "name": "Phenomenology",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "James Kinkaid III",
+              "schedule": []
+            }
+          ]
+        },
+        {
           "code": "PHIL 502",
           "name": "Research Preparation in Philosophy II",
           "sections": [
             {
               "number": "1",
               "instructor": "John Woods III",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "PHIL 529",
+          "name": "Phenomenology",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "James Kinkaid III",
               "schedule": []
             }
           ]
@@ -37225,7 +37431,7 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "Cemal Yalabık",
               "schedule": [
                 {
                   "slot": 15,
@@ -39711,7 +39917,7 @@
             },
             {
               "number": "9",
-              "instructor": "Staff",
+              "instructor": "Burcu Türkoğlu Payne",
               "schedule": [
                 {
                   "slot": 4,
@@ -41141,6 +41347,28 @@
                   "classroom": "LA-101"
                 }
               ]
+            }
+          ]
+        },
+        {
+          "code": "TRIN 390",
+          "name": "Summer Practice",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Büşra Kurt Uçar",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "TRIN 399",
+          "name": "Common European Framework",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Duygu Duman",
+              "schedule": []
             }
           ]
         },

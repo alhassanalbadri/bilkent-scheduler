@@ -247,6 +247,17 @@
           ]
         },
         {
+          "code": "AMER 406",
+          "name": "Senior Project",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Daniel Peter Johnson",
+              "schedule": []
+            }
+          ]
+        },
+        {
           "code": "AMER 426",
           "name": "American Studies in a Global Context",
           "sections": [
@@ -1029,6 +1040,17 @@
           ]
         },
         {
+          "code": "COMD 290",
+          "name": "Summer Practice I",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Ufuk Önen",
+              "schedule": []
+            }
+          ]
+        },
+        {
           "code": "COMD 302",
           "name": "Political Communication",
           "sections": [
@@ -1282,6 +1304,17 @@
             {
               "number": "4",
               "instructor": "Ufuk Önen",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "COMD 390",
+          "name": "Summer Practice II",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Hasan Yusuf Akçura",
               "schedule": []
             }
           ]
@@ -2568,6 +2601,17 @@
           ]
         },
         {
+          "code": "CTIS 363",
+          "name": "Ethical and Social Issues in Information Systems ",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Staff",
+              "schedule": []
+            }
+          ]
+        },
+        {
           "code": "CTIS 365",
           "name": "Applied Data Analysis",
           "sections": [
@@ -2835,7 +2879,7 @@
             },
             {
               "number": "5",
-              "instructor": "Ali Hakan Kara & Refet Soykan Gürkaynak",
+              "instructor": "Ali Hakan Kara",
               "schedule": []
             },
             {
@@ -3701,11 +3745,6 @@
               "number": "2",
               "instructor": "Hitay Özbay",
               "schedule": []
-            },
-            {
-              "number": "3",
-              "instructor": "Ömer Morgül",
-              "schedule": []
             }
           ]
         },
@@ -3820,6 +3859,17 @@
             {
               "number": "1",
               "instructor": "Melih Baştopçu",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "EEE 442",
+          "name": "Nonlinear Systems",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Ömer Morgül",
               "schedule": []
             }
           ]
@@ -3968,6 +4018,17 @@
             {
               "number": "1",
               "instructor": "Melih Baştopçu",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "EEE 542",
+          "name": "Nonlinear Systems",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Ömer Morgül",
               "schedule": []
             }
           ]
@@ -5083,11 +5144,6 @@
             },
             {
               "number": "5",
-              "instructor": "Staff",
-              "schedule": []
-            },
-            {
-              "number": "6",
               "instructor": "Staff",
               "schedule": []
             }
@@ -6490,6 +6546,16 @@
               "number": "15",
               "instructor": "Staff",
               "schedule": []
+            },
+            {
+              "number": "16",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "17",
+              "instructor": "Staff",
+              "schedule": []
             }
           ]
         }
@@ -6540,7 +6606,7 @@
             },
             {
               "number": "8",
-              "instructor": "Staff",
+              "instructor": "İbrahim Mert Öztürk",
               "schedule": []
             },
             {
@@ -6560,22 +6626,22 @@
             },
             {
               "number": "12",
-              "instructor": "Staff",
+              "instructor": "İbrahim Mert Öztürk",
               "schedule": []
             },
             {
               "number": "13",
-              "instructor": "Staff",
+              "instructor": "İbrahim Mert Öztürk",
               "schedule": []
             },
             {
               "number": "14",
-              "instructor": "Staff",
+              "instructor": "Abdürrahim Özer",
               "schedule": []
             },
             {
               "number": "15",
-              "instructor": "Staff",
+              "instructor": "Abdürrahim Özer",
               "schedule": []
             },
             {
@@ -6590,17 +6656,17 @@
             },
             {
               "number": "18",
-              "instructor": "Staff",
+              "instructor": "Abdürrahim Özer",
               "schedule": []
             },
             {
               "number": "19",
-              "instructor": "Staff",
+              "instructor": "İbrahim Mert Öztürk",
               "schedule": []
             },
             {
               "number": "20",
-              "instructor": "Staff",
+              "instructor": "Abdürrahim Özer",
               "schedule": []
             }
           ]
@@ -6753,7 +6819,7 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "Nil Tekgül",
               "schedule": []
             }
           ]
@@ -8273,6 +8339,17 @@
           ]
         },
         {
+          "code": "IR 493",
+          "name": "European Union",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Staff",
+              "schedule": []
+            }
+          ]
+        },
+        {
           "code": "IR 509",
           "name": "Pre-thesis Seminar",
           "sections": [
@@ -8532,7 +8609,7 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "Jakub Urbanik & Marzena Ewa Wojtczak",
               "schedule": []
             }
           ]
@@ -8761,7 +8838,7 @@
             },
             {
               "number": "2",
-              "instructor": "Staff",
+              "instructor": "Pınar Başak Coşkun",
               "schedule": []
             }
           ]
@@ -9013,6 +9090,17 @@
           ]
         },
         {
+          "code": "LAW 644",
+          "name": "Private Law Remedies in Competition Law (in Turkish)",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Osman B. Gürzumar",
+              "schedule": []
+            }
+          ]
+        },
+        {
           "code": "LAW 689",
           "name": "Pre-Thesis Seminar",
           "sections": [
@@ -9108,7 +9196,7 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "Yağmur Cevger Zorlu",
               "schedule": []
             }
           ]
@@ -9180,6 +9268,17 @@
         {
           "code": "LNG 123",
           "name": "French III",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Betül Bostan",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "LNG 124",
+          "name": "Intermediate French I",
           "sections": [
             {
               "number": "1",
@@ -12561,12 +12660,34 @@
           ]
         },
         {
+          "code": "PHIL 409",
+          "name": "Phenomenology",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "James Kinkaid III",
+              "schedule": []
+            }
+          ]
+        },
+        {
           "code": "PHIL 502",
           "name": "Research Preparation in Philosophy II",
           "sections": [
             {
               "number": "1",
               "instructor": "John Woods III",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "PHIL 529",
+          "name": "Phenomenology",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "James Kinkaid III",
               "schedule": []
             }
           ]
@@ -12930,7 +13051,7 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "Cemal Yalabık",
               "schedule": []
             }
           ]
@@ -13903,7 +14024,7 @@
             },
             {
               "number": "9",
-              "instructor": "Staff",
+              "instructor": "Burcu Türkoğlu Payne",
               "schedule": []
             }
           ]
@@ -14554,6 +14675,28 @@
             {
               "number": "1",
               "instructor": "Staff",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "TRIN 390",
+          "name": "Summer Practice",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Büşra Kurt Uçar",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "TRIN 399",
+          "name": "Common European Framework",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Duygu Duman",
               "schedule": []
             }
           ]

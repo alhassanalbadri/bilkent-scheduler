@@ -260,6 +260,18 @@
           "gpa": "2.70"
         },
         {
+          "code": "AMER 406",
+          "name": "Senior Project",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Daniel Peter Johnson",
+              "schedule": []
+            }
+          ],
+          "gpa": "3.28"
+        },
+        {
           "code": "AMER 426",
           "name": "American Studies in a Global Context",
           "sections": [
@@ -1099,6 +1111,18 @@
           "gpa": "2.68"
         },
         {
+          "code": "COMD 290",
+          "name": "Summer Practice I",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Ufuk Önen",
+              "schedule": []
+            }
+          ],
+          "gpa": "0.00"
+        },
+        {
           "code": "COMD 302",
           "name": "Political Communication",
           "sections": [
@@ -1367,6 +1391,18 @@
             }
           ],
           "gpa": "2.83"
+        },
+        {
+          "code": "COMD 390",
+          "name": "Summer Practice II",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Hasan Yusuf Akçura",
+              "schedule": []
+            }
+          ],
+          "gpa": "0.00"
         },
         {
           "code": "COMD 422",
@@ -2727,6 +2763,18 @@
           "gpa": "2.32"
         },
         {
+          "code": "CTIS 363",
+          "name": "Ethical and Social Issues in Information Systems ",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Staff",
+              "schedule": []
+            }
+          ],
+          "gpa": "3.21"
+        },
+        {
           "code": "CTIS 365",
           "name": "Applied Data Analysis",
           "sections": [
@@ -3005,7 +3053,7 @@
             },
             {
               "number": "5",
-              "instructor": "Ali Hakan Kara & Refet Soykan Gürkaynak",
+              "instructor": "Ali Hakan Kara",
               "schedule": []
             },
             {
@@ -3916,11 +3964,6 @@
               "number": "2",
               "instructor": "Hitay Özbay",
               "schedule": []
-            },
-            {
-              "number": "3",
-              "instructor": "Ömer Morgül",
-              "schedule": []
             }
           ],
           "gpa": "2.40"
@@ -4049,6 +4092,18 @@
             }
           ],
           "gpa": "3.07"
+        },
+        {
+          "code": "EEE 442",
+          "name": "Nonlinear Systems",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Ömer Morgül",
+              "schedule": []
+            }
+          ],
+          "gpa": "2.68"
         },
         {
           "code": "EEE 443",
@@ -4210,6 +4265,18 @@
             }
           ],
           "gpa": "3.25"
+        },
+        {
+          "code": "EEE 542",
+          "name": "Nonlinear Systems",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Ömer Morgül",
+              "schedule": []
+            }
+          ],
+          "gpa": "3.30"
         },
         {
           "code": "EEE 543",
@@ -5359,11 +5426,6 @@
             },
             {
               "number": "5",
-              "instructor": "Staff",
-              "schedule": []
-            },
-            {
-              "number": "6",
               "instructor": "Staff",
               "schedule": []
             }
@@ -6845,6 +6907,16 @@
               "number": "15",
               "instructor": "Staff",
               "schedule": []
+            },
+            {
+              "number": "16",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "17",
+              "instructor": "Staff",
+              "schedule": []
             }
           ],
           "gpa": "3.24"
@@ -6896,7 +6968,7 @@
             },
             {
               "number": "8",
-              "instructor": "Staff",
+              "instructor": "İbrahim Mert Öztürk",
               "schedule": []
             },
             {
@@ -6916,22 +6988,22 @@
             },
             {
               "number": "12",
-              "instructor": "Staff",
+              "instructor": "İbrahim Mert Öztürk",
               "schedule": []
             },
             {
               "number": "13",
-              "instructor": "Staff",
+              "instructor": "İbrahim Mert Öztürk",
               "schedule": []
             },
             {
               "number": "14",
-              "instructor": "Staff",
+              "instructor": "Abdürrahim Özer",
               "schedule": []
             },
             {
               "number": "15",
-              "instructor": "Staff",
+              "instructor": "Abdürrahim Özer",
               "schedule": []
             },
             {
@@ -6946,17 +7018,17 @@
             },
             {
               "number": "18",
-              "instructor": "Staff",
+              "instructor": "Abdürrahim Özer",
               "schedule": []
             },
             {
               "number": "19",
-              "instructor": "Staff",
+              "instructor": "İbrahim Mert Öztürk",
               "schedule": []
             },
             {
               "number": "20",
-              "instructor": "Staff",
+              "instructor": "Abdürrahim Özer",
               "schedule": []
             }
           ],
@@ -7122,7 +7194,7 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "Nil Tekgül",
               "schedule": []
             }
           ],
@@ -8719,6 +8791,18 @@
           "gpa": "2.76"
         },
         {
+          "code": "IR 493",
+          "name": "European Union",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Staff",
+              "schedule": []
+            }
+          ],
+          "gpa": "2.64"
+        },
+        {
           "code": "IR 509",
           "name": "Pre-thesis Seminar",
           "sections": [
@@ -8998,7 +9082,7 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "Jakub Urbanik & Marzena Ewa Wojtczak",
               "schedule": []
             }
           ],
@@ -9241,7 +9325,7 @@
             },
             {
               "number": "2",
-              "instructor": "Staff",
+              "instructor": "Pınar Başak Coşkun",
               "schedule": []
             }
           ],
@@ -9513,6 +9597,18 @@
           "gpa": "4.00"
         },
         {
+          "code": "LAW 644",
+          "name": "Private Law Remedies in Competition Law (in Turkish)",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Osman B. Gürzumar",
+              "schedule": []
+            }
+          ],
+          "gpa": "3.15"
+        },
+        {
           "code": "LAW 689",
           "name": "Pre-Thesis Seminar",
           "sections": [
@@ -9612,7 +9708,7 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "Yağmur Cevger Zorlu",
               "schedule": []
             }
           ],
@@ -9696,6 +9792,18 @@
             }
           ],
           "gpa": "3.10"
+        },
+        {
+          "code": "LNG 124",
+          "name": "Intermediate French I",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Betül Bostan",
+              "schedule": []
+            }
+          ],
+          "gpa": "3.09"
         },
         {
           "code": "LNG 131",
@@ -13291,6 +13399,17 @@
           "gpa": "2.39"
         },
         {
+          "code": "PHIL 409",
+          "name": "Phenomenology",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "James Kinkaid III",
+              "schedule": []
+            }
+          ]
+        },
+        {
           "code": "PHIL 502",
           "name": "Research Preparation in Philosophy II",
           "sections": [
@@ -13301,6 +13420,17 @@
             }
           ],
           "gpa": "3.69"
+        },
+        {
+          "code": "PHIL 529",
+          "name": "Phenomenology",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "James Kinkaid III",
+              "schedule": []
+            }
+          ]
         },
         {
           "code": "PHIL 534",
@@ -13682,7 +13812,7 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "Cemal Yalabık",
               "schedule": []
             }
           ],
@@ -14722,7 +14852,7 @@
             },
             {
               "number": "9",
-              "instructor": "Staff",
+              "instructor": "Burcu Türkoğlu Payne",
               "schedule": []
             }
           ],
@@ -15427,6 +15557,30 @@
             }
           ],
           "gpa": "3.39"
+        },
+        {
+          "code": "TRIN 390",
+          "name": "Summer Practice",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Büşra Kurt Uçar",
+              "schedule": []
+            }
+          ],
+          "gpa": "0.00"
+        },
+        {
+          "code": "TRIN 399",
+          "name": "Common European Framework",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Duygu Duman",
+              "schedule": []
+            }
+          ],
+          "gpa": "0.00"
         },
         {
           "code": "TRIN 473",

@@ -1654,6 +1654,16 @@
               "number": "7",
               "instructor": "Rabia Üşenmez",
               "schedule": []
+            },
+            {
+              "number": "8",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "9",
+              "instructor": "Staff",
+              "schedule": []
             }
           ]
         },
@@ -2388,22 +2398,22 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "Nimet Ceren Serim",
               "schedule": []
             },
             {
               "number": "2",
-              "instructor": "Staff",
+              "instructor": "Nimet Ceren Serim",
               "schedule": []
             },
             {
               "number": "3",
-              "instructor": "Staff",
+              "instructor": "Nimet Ceren Serim",
               "schedule": []
             },
             {
               "number": "4",
-              "instructor": "Staff",
+              "instructor": "Nimet Ceren Serim",
               "schedule": []
             }
           ]
@@ -2574,17 +2584,58 @@
           ]
         },
         {
+          "code": "CTIS 290",
+          "name": "Summer Internship",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Nimet Ceren Serim",
+              "schedule": []
+            }
+          ]
+        },
+        {
           "code": "CTIS 310",
           "name": "Semester Internship",
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "Nimet Ceren Serim",
               "schedule": []
             },
             {
               "number": "2",
-              "instructor": "Staff",
+              "instructor": "Satılmış Topcu",
+              "schedule": []
+            },
+            {
+              "number": "3",
+              "instructor": "Seyid Amjad Ali",
+              "schedule": []
+            },
+            {
+              "number": "4",
+              "instructor": "Oumout Chousein Oglou",
+              "schedule": []
+            },
+            {
+              "number": "5",
+              "instructor": "Serkan Genç",
+              "schedule": []
+            },
+            {
+              "number": "6",
+              "instructor": "Neşe Şahin Özçelik",
+              "schedule": []
+            },
+            {
+              "number": "7",
+              "instructor": "Cüneyt Sevgi",
+              "schedule": []
+            },
+            {
+              "number": "8",
+              "instructor": "Hamdi Murat Yıldırım",
               "schedule": []
             }
           ]
@@ -2879,7 +2930,7 @@
             },
             {
               "number": "5",
-              "instructor": "Ali Hakan Kara",
+              "instructor": "Ali Hakan Kara & Refet Soykan Gürkaynak",
               "schedule": []
             },
             {
@@ -4122,6 +4173,17 @@
           ]
         },
         {
+          "code": "EEE 599",
+          "name": "Master's Thesis",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Staff",
+              "schedule": []
+            }
+          ]
+        },
+        {
           "code": "EEE 633",
           "name": "Coding Theory",
           "sections": [
@@ -4135,6 +4197,17 @@
         {
           "code": "EEE 634",
           "name": "Information Theory",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Staff",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "EEE 699",
+          "name": "Ph.D. Dissertation",
           "sections": [
             {
               "number": "1",
@@ -5801,7 +5874,7 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Bengü Yurtseven",
+              "instructor": "Bengü Yurtseven & Burcu Türkoğlu Payne",
               "schedule": []
             },
             {
@@ -5978,7 +6051,7 @@
           "name": "Computer Graphics for Film and Television I",
           "sections": [
             {
-              "number": "2",
+              "number": "1",
               "instructor": "Oğuz Akın",
               "schedule": []
             }
@@ -6071,11 +6144,6 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
-              "schedule": []
-            },
-            {
-              "number": "2",
               "instructor": "Staff",
               "schedule": []
             }
@@ -7766,6 +7834,11 @@
             },
             {
               "number": "3",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "4",
               "instructor": "Staff",
               "schedule": []
             }
@@ -12461,6 +12534,16 @@
               "number": "5",
               "instructor": "Yehezkel S. Berkovski & Elif Hande Özer",
               "schedule": []
+            },
+            {
+              "number": "6",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "7",
+              "instructor": "Staff",
+              "schedule": []
             }
           ]
         },
@@ -14497,6 +14580,28 @@
             {
               "number": "1",
               "instructor": "Jason Edward Hale",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "THR 333",
+          "name": "On Camera Acting",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Jason Edward Hale",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "THR 339",
+          "name": "Playwriting",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Staff",
               "schedule": []
             }
           ]

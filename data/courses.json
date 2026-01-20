@@ -646,7 +646,7 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Kyra Sutton",
+              "instructor": "Britain Webb Hopkins",
               "schedule": [
                 {
                   "slot": 1,
@@ -668,7 +668,7 @@
             },
             {
               "number": "2",
-              "instructor": "Britain Webb Hopkins",
+              "instructor": "Kyra Sutton",
               "schedule": [
                 {
                   "slot": 15,
@@ -3494,7 +3494,7 @@
             },
             {
               "number": "2",
-              "instructor": "Mehmet Kızıklı",
+              "instructor": "Gözde Doğan Yalçıner",
               "schedule": [
                 {
                   "slot": 2,
@@ -3560,7 +3560,7 @@
             },
             {
               "number": "5",
-              "instructor": "Gözde Doğan Yalçıner",
+              "instructor": "Mehmet Kızıklı",
               "schedule": [
                 {
                   "slot": 18,
@@ -8103,11 +8103,6 @@
                   "classroom": "CE-107"
                 }
               ]
-            },
-            {
-              "number": "2",
-              "instructor": "Oumout Chousein Oglou",
-              "schedule": []
             }
           ]
         },
@@ -8511,6 +8506,34 @@
                 {
                   "slot": 58,
                   "classroom": "C-216"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "CTIS 473",
+          "name": "Cloud Computing Foundations",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Oumout Chousein Oglou",
+              "schedule": [
+                {
+                  "slot": 1,
+                  "classroom": "C-CTISL8(S)"
+                },
+                {
+                  "slot": 8,
+                  "classroom": "C-CTISL8"
+                },
+                {
+                  "slot": 38,
+                  "classroom": "C-CTISL8"
+                },
+                {
+                  "slot": 45,
+                  "classroom": "C-CTISL8"
                 }
               ]
             }
@@ -17448,7 +17471,7 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "H. Altay Güvenir & Yiğit Karpat & Mehmet Alper Kutay",
+              "instructor": "Özgür Tolga Baycan & Jülide Akşiyote Görür & Yiğit Karpat & Mehmet Alper Kutay",
               "schedule": [
                 {
                   "slot": 16,
@@ -26236,7 +26259,7 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Banu Aksel Gürün",
+              "instructor": "Alban Mannisi",
               "schedule": [
                 {
                   "slot": 4,
@@ -26474,7 +26497,7 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Alban Mannisi",
+              "instructor": "Banu Aksel Gürün",
               "schedule": [
                 {
                   "slot": 4,
@@ -30225,7 +30248,7 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "Tuğçe Özgen Genç",
               "schedule": [
                 {
                   "slot": 1,
@@ -30470,7 +30493,7 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "Mehmet Barca",
               "schedule": [
                 {
                   "slot": 3,
@@ -30492,7 +30515,7 @@
             },
             {
               "number": "2",
-              "instructor": "Staff",
+              "instructor": "Mehmet Barca",
               "schedule": [
                 {
                   "slot": 17,
@@ -30520,7 +30543,7 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "Ali Rıza Zafer Sayar",
               "schedule": [
                 {
                   "slot": 18,
@@ -30900,7 +30923,7 @@
             },
             {
               "number": "3",
-              "instructor": "Staff",
+              "instructor": "Ali Rıza Zafer Sayar",
               "schedule": [
                 {
                   "slot": 39,
@@ -31458,7 +31481,7 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "Ayşegül Altaban",
               "schedule": [
                 {
                   "slot": 4,
@@ -34998,6 +35021,22 @@
           ]
         },
         {
+          "code": "MSC 131",
+          "name": "Instrument I",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Süreyya Defne",
+              "schedule": []
+            },
+            {
+              "number": "2",
+              "instructor": "Özberk Miraç Sarıgül",
+              "schedule": []
+            }
+          ]
+        },
+        {
           "code": "MSC 132",
           "name": "Instrument II",
           "sections": [
@@ -35029,6 +35068,22 @@
             {
               "number": "6",
               "instructor": "Özberk Miraç Sarıgül",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "MSC 133",
+          "name": "Chamber Music I",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "2",
+              "instructor": "Staff",
               "schedule": []
             }
           ]
@@ -35581,6 +35636,17 @@
           ]
         },
         {
+          "code": "MSC 315",
+          "name": "Score Reading I",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Işın Metin",
+              "schedule": []
+            }
+          ]
+        },
+        {
           "code": "MSC 316",
           "name": "Score Reading II",
           "sections": [
@@ -35661,6 +35727,17 @@
                   "classroom": ""
                 }
               ]
+            }
+          ]
+        },
+        {
+          "code": "MSC 326",
+          "name": "Conducting I",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Işın Metin",
+              "schedule": []
             }
           ]
         },
@@ -36064,6 +36141,17 @@
             {
               "number": "3",
               "instructor": "Onur Yıldırım",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "MSC 931",
+          "name": "Individual Music Studies V",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Hatıra Hasanova",
               "schedule": []
             }
           ]
@@ -36573,17 +36661,6 @@
           ]
         },
         {
-          "code": "NSC 591",
-          "name": "Pro-thesis Seminar I",
-          "sections": [
-            {
-              "number": "1",
-              "instructor": "Hilal İrem Baştürk",
-              "schedule": []
-            }
-          ]
-        },
-        {
           "code": "NSC 599",
           "name": "Neuroscience Master's Thesis",
           "sections": [
@@ -36615,17 +36692,6 @@
                   "classroom": "G-B52"
                 }
               ]
-            }
-          ]
-        },
-        {
-          "code": "NSC 691",
-          "name": "Pro-thesis Seminar II",
-          "sections": [
-            {
-              "number": "1",
-              "instructor": "Hilal İrem Baştürk",
-              "schedule": []
             }
           ]
         },
@@ -36830,7 +36896,7 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Adriana Monica Solomon",
+              "instructor": "Staff",
               "schedule": [
                 {
                   "slot": 14,
@@ -37092,7 +37158,7 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Jennifer Lyn Schroeder & Mary Katrina Krizan",
+              "instructor": "Mary Katrina Krizan & Mark Daniel Biram",
               "schedule": [
                 {
                   "slot": 1,
@@ -37206,7 +37272,7 @@
             },
             {
               "number": "4",
-              "instructor": "Jennifer Lyn Schroeder & Daniel Mark Wolt",
+              "instructor": "Daniel Mark Wolt & Mark Daniel Biram",
               "schedule": [
                 {
                   "slot": 4,
@@ -37244,7 +37310,7 @@
             },
             {
               "number": "5",
-              "instructor": "Jennifer Lyn Schroeder & James Kinkaid III",
+              "instructor": "James Kinkaid III & Mark Daniel Biram",
               "schedule": [
                 {
                   "slot": 15,
@@ -37358,7 +37424,7 @@
             },
             {
               "number": "9",
-              "instructor": "Jennifer Lyn Schroeder & Mary Katrina Krizan",
+              "instructor": "Mary Katrina Krizan & Mark Daniel Biram",
               "schedule": [
                 {
                   "slot": 16,
@@ -37396,7 +37462,7 @@
             },
             {
               "number": "10",
-              "instructor": "Jennifer Lyn Schroeder & James Kinkaid III",
+              "instructor": "James Kinkaid III & Mark Daniel Biram",
               "schedule": [
                 {
                   "slot": 16,
@@ -37434,7 +37500,7 @@
             },
             {
               "number": "12",
-              "instructor": "Jennifer Lyn Schroeder & Daniel Mark Wolt",
+              "instructor": "Daniel Mark Wolt & Mark Daniel Biram",
               "schedule": [
                 {
                   "slot": 14,
@@ -37697,7 +37763,7 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Adriana Monica Solomon",
+              "instructor": "Staff",
               "schedule": [
                 {
                   "slot": 18,
@@ -37719,7 +37785,7 @@
             },
             {
               "number": "2",
-              "instructor": "Adriana Monica Solomon",
+              "instructor": "Staff",
               "schedule": [
                 {
                   "slot": 2,
@@ -43964,7 +44030,7 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Duygu Duman",
+              "instructor": "Duygu Duman & Zeynep Şengel",
               "schedule": [
                 {
                   "slot": 2,

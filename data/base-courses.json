@@ -204,12 +204,12 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Kyra Sutton",
+              "instructor": "Britain Webb Hopkins",
               "schedule": []
             },
             {
               "number": "2",
-              "instructor": "Britain Webb Hopkins",
+              "instructor": "Kyra Sutton",
               "schedule": []
             }
           ]
@@ -1213,7 +1213,7 @@
             },
             {
               "number": "2",
-              "instructor": "Mehmet Kızıklı",
+              "instructor": "Gözde Doğan Yalçıner",
               "schedule": []
             },
             {
@@ -1228,7 +1228,7 @@
             },
             {
               "number": "5",
-              "instructor": "Gözde Doğan Yalçıner",
+              "instructor": "Mehmet Kızıklı",
               "schedule": []
             },
             {
@@ -2545,11 +2545,6 @@
               "number": "1",
               "instructor": "Oumout Chousein Oglou",
               "schedule": []
-            },
-            {
-              "number": "2",
-              "instructor": "Oumout Chousein Oglou",
-              "schedule": []
             }
           ]
         },
@@ -2725,6 +2720,17 @@
             {
               "number": "1",
               "instructor": "Burak Akdemir",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "CTIS 473",
+          "name": "Cloud Computing Foundations",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Oumout Chousein Oglou",
               "schedule": []
             }
           ]
@@ -5410,7 +5416,7 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "H. Altay Güvenir & Yiğit Karpat & Mehmet Alper Kutay",
+              "instructor": "Özgür Tolga Baycan & Jülide Akşiyote Görür & Yiğit Karpat & Mehmet Alper Kutay",
               "schedule": []
             }
           ]
@@ -8142,7 +8148,7 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Banu Aksel Gürün",
+              "instructor": "Alban Mannisi",
               "schedule": []
             }
           ]
@@ -8230,7 +8236,7 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Alban Mannisi",
+              "instructor": "Banu Aksel Gürün",
               "schedule": []
             }
           ]
@@ -9496,7 +9502,7 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "Tuğçe Özgen Genç",
               "schedule": []
             }
           ]
@@ -9588,12 +9594,12 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "Mehmet Barca",
               "schedule": []
             },
             {
               "number": "2",
-              "instructor": "Staff",
+              "instructor": "Mehmet Barca",
               "schedule": []
             }
           ]
@@ -9604,7 +9610,7 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "Ali Rıza Zafer Sayar",
               "schedule": []
             }
           ]
@@ -9746,7 +9752,7 @@
             },
             {
               "number": "3",
-              "instructor": "Staff",
+              "instructor": "Ali Rıza Zafer Sayar",
               "schedule": []
             }
           ]
@@ -9947,7 +9953,7 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "Ayşegül Altaban",
               "schedule": []
             },
             {
@@ -11231,6 +11237,22 @@
           ]
         },
         {
+          "code": "MSC 131",
+          "name": "Instrument I",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Süreyya Defne",
+              "schedule": []
+            },
+            {
+              "number": "2",
+              "instructor": "Özberk Miraç Sarıgül",
+              "schedule": []
+            }
+          ]
+        },
+        {
           "code": "MSC 132",
           "name": "Instrument II",
           "sections": [
@@ -11262,6 +11284,22 @@
             {
               "number": "6",
               "instructor": "Özberk Miraç Sarıgül",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "MSC 133",
+          "name": "Chamber Music I",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "2",
+              "instructor": "Staff",
               "schedule": []
             }
           ]
@@ -11554,6 +11592,17 @@
           ]
         },
         {
+          "code": "MSC 315",
+          "name": "Score Reading I",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Işın Metin",
+              "schedule": []
+            }
+          ]
+        },
+        {
           "code": "MSC 316",
           "name": "Score Reading II",
           "sections": [
@@ -11582,6 +11631,17 @@
             {
               "number": "1",
               "instructor": "Tahsin Tolga Yayalar",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "MSC 326",
+          "name": "Conducting I",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Işın Metin",
               "schedule": []
             }
           ]
@@ -11849,6 +11909,17 @@
               "schedule": []
             }
           ]
+        },
+        {
+          "code": "MSC 931",
+          "name": "Individual Music Studies V",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Hatıra Hasanova",
+              "schedule": []
+            }
+          ]
         }
       ]
     }
@@ -12083,17 +12154,6 @@
           ]
         },
         {
-          "code": "NSC 591",
-          "name": "Pro-thesis Seminar I",
-          "sections": [
-            {
-              "number": "1",
-              "instructor": "Hilal İrem Baştürk",
-              "schedule": []
-            }
-          ]
-        },
-        {
           "code": "NSC 599",
           "name": "Neuroscience Master's Thesis",
           "sections": [
@@ -12111,17 +12171,6 @@
             {
               "number": "1",
               "instructor": "Tamer Gezici",
-              "schedule": []
-            }
-          ]
-        },
-        {
-          "code": "NSC 691",
-          "name": "Pro-thesis Seminar II",
-          "sections": [
-            {
-              "number": "1",
-              "instructor": "Hilal İrem Baştürk",
               "schedule": []
             }
           ]
@@ -12208,7 +12257,7 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Adriana Monica Solomon",
+              "instructor": "Staff",
               "schedule": []
             }
           ]
@@ -12255,7 +12304,7 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Jennifer Lyn Schroeder & Mary Katrina Krizan",
+              "instructor": "Mary Katrina Krizan & Mark Daniel Biram",
               "schedule": []
             },
             {
@@ -12270,12 +12319,12 @@
             },
             {
               "number": "4",
-              "instructor": "Jennifer Lyn Schroeder & Daniel Mark Wolt",
+              "instructor": "Daniel Mark Wolt & Mark Daniel Biram",
               "schedule": []
             },
             {
               "number": "5",
-              "instructor": "Jennifer Lyn Schroeder & James Kinkaid III",
+              "instructor": "James Kinkaid III & Mark Daniel Biram",
               "schedule": []
             },
             {
@@ -12290,17 +12339,17 @@
             },
             {
               "number": "9",
-              "instructor": "Jennifer Lyn Schroeder & Mary Katrina Krizan",
+              "instructor": "Mary Katrina Krizan & Mark Daniel Biram",
               "schedule": []
             },
             {
               "number": "10",
-              "instructor": "Jennifer Lyn Schroeder & James Kinkaid III",
+              "instructor": "James Kinkaid III & Mark Daniel Biram",
               "schedule": []
             },
             {
               "number": "12",
-              "instructor": "Jennifer Lyn Schroeder & Daniel Mark Wolt",
+              "instructor": "Daniel Mark Wolt & Mark Daniel Biram",
               "schedule": []
             },
             {
@@ -12364,12 +12413,12 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Adriana Monica Solomon",
+              "instructor": "Staff",
               "schedule": []
             },
             {
               "number": "2",
-              "instructor": "Adriana Monica Solomon",
+              "instructor": "Staff",
               "schedule": []
             }
           ]
@@ -14556,7 +14605,7 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Duygu Duman",
+              "instructor": "Duygu Duman & Zeynep Şengel",
               "schedule": []
             }
           ]

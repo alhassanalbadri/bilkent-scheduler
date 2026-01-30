@@ -1334,11 +1334,6 @@
           "name": "Sound Design I",
           "sections": [
             {
-              "number": "1",
-              "instructor": "Ufuk Önen",
-              "schedule": []
-            },
-            {
               "number": "2",
               "instructor": "Ufuk Önen",
               "schedule": []
@@ -1349,11 +1344,6 @@
           "code": "COMD 364",
           "name": "Video Production for Non-majors ",
           "sections": [
-            {
-              "number": "1",
-              "instructor": "Hasan Yusuf Akçura",
-              "schedule": []
-            },
             {
               "number": "2",
               "instructor": "Hasan Yusuf Akçura",
@@ -1749,11 +1739,6 @@
               "number": "8",
               "instructor": "Aslı Üstüner",
               "schedule": []
-            },
-            {
-              "number": "9",
-              "instructor": "Aslı Üstüner",
-              "schedule": []
             }
           ]
         },
@@ -1905,11 +1890,6 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Doruk Öner",
-              "schedule": []
-            },
-            {
-              "number": "2",
               "instructor": "Doruk Öner",
               "schedule": []
             }
@@ -3042,11 +3022,6 @@
               "schedule": []
             },
             {
-              "number": "4",
-              "instructor": "Ali Hakan Kara & Refet Soykan Gürkaynak",
-              "schedule": []
-            },
-            {
               "number": "5",
               "instructor": "Ali Hakan Kara & Refet Soykan Gürkaynak",
               "schedule": []
@@ -3073,11 +3048,6 @@
             },
             {
               "number": "10",
-              "instructor": "Ali Hakan Kara & Refet Soykan Gürkaynak",
-              "schedule": []
-            },
-            {
-              "number": "11",
               "instructor": "Ali Hakan Kara & Refet Soykan Gürkaynak",
               "schedule": []
             },
@@ -4660,7 +4630,7 @@
             },
             {
               "number": "6",
-              "instructor": "Merve Gürel",
+              "instructor": "Merve Kerman",
               "schedule": []
             },
             {
@@ -4715,7 +4685,7 @@
             },
             {
               "number": "31",
-              "instructor": "Merve Gürel",
+              "instructor": "Merve Kerman",
               "schedule": []
             },
             {
@@ -4805,7 +4775,7 @@
             },
             {
               "number": "77",
-              "instructor": "Merve Gürel",
+              "instructor": "Merve Kerman",
               "schedule": []
             },
             {
@@ -5904,11 +5874,6 @@
               "schedule": []
             },
             {
-              "number": "10",
-              "instructor": "Anıl Kahvecioğlu",
-              "schedule": []
-            },
-            {
               "number": "11",
               "instructor": "Anıl Kahvecioğlu",
               "schedule": []
@@ -6271,17 +6236,6 @@
           ]
         },
         {
-          "code": "GRA 353",
-          "name": "Creative Constructs:Conceptual 3D Design",
-          "sections": [
-            {
-              "number": "1",
-              "instructor": "Efe Alpay",
-              "schedule": []
-            }
-          ]
-        },
-        {
           "code": "GRA 390",
           "name": "Summer Practice II",
           "sections": [
@@ -6341,286 +6295,6 @@
             {
               "number": "2",
               "instructor": "Efe Alpay",
-              "schedule": []
-            }
-          ]
-        }
-      ]
-    }
-  },
-  {
-    "HART": {
-      "courses": [
-        {
-          "code": "HART 117",
-          "name": "Ways of Seeing: Approaches to Art and Architectural History",
-          "sections": [
-            {
-              "number": "1",
-              "instructor": "Ayşe Batman",
-              "schedule": []
-            },
-            {
-              "number": "2",
-              "instructor": "Ayşe Batman",
-              "schedule": []
-            }
-          ]
-        },
-        {
-          "code": "HART 120",
-          "name": "Human Evolution and World Prehistory",
-          "sections": [
-            {
-              "number": "1",
-              "instructor": "Thomas Zimmermann",
-              "schedule": []
-            }
-          ]
-        },
-        {
-          "code": "HART 126",
-          "name": "Fieldwork Methodologies in Archaeology",
-          "sections": [
-            {
-              "number": "1",
-              "instructor": "Emma Louise Baysal",
-              "schedule": []
-            }
-          ]
-        },
-        {
-          "code": "HART 208",
-          "name": "Roman Art and Archaeology",
-          "sections": [
-            {
-              "number": "1",
-              "instructor": "Peter Louis M. Talloen",
-              "schedule": []
-            }
-          ]
-        },
-        {
-          "code": "HART 219",
-          "name": "Anatolia I-Hunters,Farmers,Merchants in Prehistoric Anatolia",
-          "sections": [
-            {
-              "number": "1",
-              "instructor": "Thomas Zimmermann",
-              "schedule": []
-            }
-          ]
-        },
-        {
-          "code": "HART 221",
-          "name": "Great Discoveries from the Ancient World ",
-          "sections": [
-            {
-              "number": "1",
-              "instructor": "Sevingül Bilgin Kopçuk",
-              "schedule": []
-            },
-            {
-              "number": "2",
-              "instructor": "Aysun Çadallı",
-              "schedule": []
-            }
-          ]
-        },
-        {
-          "code": "HART 225",
-          "name": "Cultural Anthropology",
-          "sections": [
-            {
-              "number": "1",
-              "instructor": "Benjamin Titus Irvine",
-              "schedule": []
-            }
-          ]
-        },
-        {
-          "code": "HART 232",
-          "name": "Ancient Greek II",
-          "sections": [
-            {
-              "number": "1",
-              "instructor": "Nathan Paul Leidholm",
-              "schedule": []
-            }
-          ]
-        },
-        {
-          "code": "HART 240",
-          "name": "Latin II",
-          "sections": [
-            {
-              "number": "1",
-              "instructor": "N. İlgi Gerçek",
-              "schedule": []
-            }
-          ]
-        },
-        {
-          "code": "HART 303",
-          "name": "Greek Sculpture",
-          "sections": [
-            {
-              "number": "1",
-              "instructor": "Roland Ralph Redfern Smith",
-              "schedule": []
-            }
-          ]
-        },
-        {
-          "code": "HART 325",
-          "name": "Anatolia II- The World of Hittites",
-          "sections": [
-            {
-              "number": "1",
-              "instructor": "N. İlgi Gerçek",
-              "schedule": []
-            }
-          ]
-        },
-        {
-          "code": "HART 373",
-          "name": "Hittite II",
-          "sections": [
-            {
-              "number": "1",
-              "instructor": "N. İlgi Gerçek",
-              "schedule": []
-            }
-          ]
-        },
-        {
-          "code": "HART 400",
-          "name": "Senior Project",
-          "sections": [
-            {
-              "number": "1",
-              "instructor": "Thomas Zimmermann",
-              "schedule": []
-            }
-          ]
-        },
-        {
-          "code": "HART 426",
-          "name": "Ancient Technologies and Materials",
-          "sections": [
-            {
-              "number": "1",
-              "instructor": "Benjamin Titus Irvine",
-              "schedule": []
-            }
-          ]
-        },
-        {
-          "code": "HART 436",
-          "name": "Archaeological Method and Theory",
-          "sections": [
-            {
-              "number": "1",
-              "instructor": "Emma Louise Baysal",
-              "schedule": []
-            }
-          ]
-        },
-        {
-          "code": "HART 440",
-          "name": "Readings in Anatolian Art and Archaeology",
-          "sections": [
-            {
-              "number": "1",
-              "instructor": "Roland Ralph Redfern Smith",
-              "schedule": []
-            }
-          ]
-        },
-        {
-          "code": "HART 501",
-          "name": "Issues in Archaeological Theory",
-          "sections": [
-            {
-              "number": "1",
-              "instructor": "Emma Louise Baysal",
-              "schedule": []
-            }
-          ]
-        },
-        {
-          "code": "HART 508",
-          "name": "Issues in Pre-Classical Art and Archaeology",
-          "sections": [
-            {
-              "number": "1",
-              "instructor": "Thomas Zimmermann",
-              "schedule": []
-            }
-          ]
-        },
-        {
-          "code": "HART 514",
-          "name": "Readings in Classical Archaeology",
-          "sections": [
-            {
-              "number": "1",
-              "instructor": "Roland Ralph Redfern Smith",
-              "schedule": []
-            }
-          ]
-        },
-        {
-          "code": "HART 543",
-          "name": "Hittite II",
-          "sections": [
-            {
-              "number": "1",
-              "instructor": "N. İlgi Gerçek",
-              "schedule": []
-            }
-          ]
-        },
-        {
-          "code": "HART 552",
-          "name": "Ancient Greek II",
-          "sections": [
-            {
-              "number": "1",
-              "instructor": "Staff",
-              "schedule": []
-            }
-          ]
-        },
-        {
-          "code": "HART 564",
-          "name": "Latin II",
-          "sections": [
-            {
-              "number": "1",
-              "instructor": "N. İlgi Gerçek",
-              "schedule": []
-            }
-          ]
-        },
-        {
-          "code": "HART 590",
-          "name": "Seminar",
-          "sections": [
-            {
-              "number": "1",
-              "instructor": "Staff",
-              "schedule": []
-            }
-          ]
-        },
-        {
-          "code": "HART 599",
-          "name": "Master's Thesis",
-          "sections": [
-            {
-              "number": "1",
-              "instructor": "Staff",
               "schedule": []
             }
           ]
@@ -7384,11 +7058,6 @@
               "schedule": []
             },
             {
-              "number": "31",
-              "instructor": "William Norman Coker",
-              "schedule": []
-            },
-            {
               "number": "32",
               "instructor": "William Norman Coker",
               "schedule": []
@@ -7813,6 +7482,482 @@
             {
               "number": "1",
               "instructor": "Burçak Altay",
+              "schedule": []
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "IE": {
+      "courses": [
+        {
+          "code": "IE 102",
+          "name": "A Process Outlook for Industrial Engineering",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Ayşe Selin Kocaman",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "IE 202",
+          "name": "Introduction to Modeling and Optimization",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Oya Karaşan & Amine Gizem Özbaygın",
+              "schedule": []
+            },
+            {
+              "number": "2",
+              "instructor": "Oya Karaşan & Amine Gizem Özbaygın",
+              "schedule": []
+            },
+            {
+              "number": "3",
+              "instructor": "Oya Karaşan & Amine Gizem Özbaygın",
+              "schedule": []
+            },
+            {
+              "number": "4",
+              "instructor": "Oya Karaşan & Amine Gizem Özbaygın",
+              "schedule": []
+            },
+            {
+              "number": "5",
+              "instructor": "Oya Karaşan & Amine Gizem Özbaygın",
+              "schedule": []
+            },
+            {
+              "number": "6",
+              "instructor": "Oya Karaşan & Amine Gizem Özbaygın",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "IE 272",
+          "name": "Manufacturing Processes and Operations Analysis",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Yiğit Karpat & Meriç Ekiciler",
+              "schedule": []
+            },
+            {
+              "number": "2",
+              "instructor": "Yiğit Karpat & Meriç Ekiciler",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "IE 299",
+          "name": "Summer Training I",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Nil Şahin",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "IE 303",
+          "name": "Modeling and Methods in Optimization",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Firdevs Ulus",
+              "schedule": []
+            },
+            {
+              "number": "2",
+              "instructor": "Ayşenur Karagöz",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "IE 324",
+          "name": "Simulation",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Emre Uzun",
+              "schedule": []
+            },
+            {
+              "number": "2",
+              "instructor": "Emre Uzun",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "IE 325",
+          "name": "Stochastic Models",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Ülkü Gürler",
+              "schedule": []
+            },
+            {
+              "number": "2",
+              "instructor": "Ülkü Gürler",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "IE 342",
+          "name": "Engineering Economic Analysis",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Deniz Akkaya",
+              "schedule": []
+            },
+            {
+              "number": "2",
+              "instructor": "Deniz Akkaya",
+              "schedule": []
+            },
+            {
+              "number": "3",
+              "instructor": "İbrahim Akgün",
+              "schedule": []
+            },
+            {
+              "number": "4",
+              "instructor": "Benhür Satır",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "IE 375",
+          "name": "Production Planning",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Nesim Kohen Erkip",
+              "schedule": []
+            },
+            {
+              "number": "2",
+              "instructor": "Nesim Kohen Erkip",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "IE 376",
+          "name": "Production Information Systems",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Mehmet Selim Aktürk & Alper Şen",
+              "schedule": []
+            },
+            {
+              "number": "2",
+              "instructor": "Mehmet Selim Aktürk & Alper Şen",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "IE 380",
+          "name": "Quality Control and Improvement",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Emre Nadar",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "IE 399",
+          "name": "Summer Training II",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Özlem Çavuş İyigün",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "IE 400",
+          "name": "Principles of Engineering Management",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Özlem Çavuş İyigün",
+              "schedule": []
+            },
+            {
+              "number": "2",
+              "instructor": "Özlem Çavuş İyigün",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "IE 411",
+          "name": "Introduction to Nonlinear Optimization",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Firdevs Ulus",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "IE 424",
+          "name": "Introduction to the Concepts and Dynamics of Innovation",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Bora Dilik",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "IE 428",
+          "name": "Project Scheduling",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Başak Yazar",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "IE 448",
+          "name": "Financial Issues in Engineering Projects",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Hasan Semih Ergür",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "IE 451",
+          "name": "Applied Data Analysis",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Savaş Dayanık",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "IE 453",
+          "name": "Energy Systems Planning",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Ayşe Selin Kocaman",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "IE 458",
+          "name": "Quantum Optimization",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Amine Gizem Özbaygın",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "IE 462",
+          "name": "Introduction to Advanced Manufacturing Technologies",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Yiğit Karpat & Meriç Ekiciler",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "IE 463",
+          "name": "Operations Scheduling",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Mehmet Selim Aktürk",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "IE 468",
+          "name": "Pricing and Revenue Optimization ",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Alper Şen",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "IE 478",
+          "name": "Systems Design - Synthesis",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Savaş Dayanık",
+              "schedule": []
+            },
+            {
+              "number": "2",
+              "instructor": "Emre Nadar",
+              "schedule": []
+            },
+            {
+              "number": "3",
+              "instructor": "Emre Uzun",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "IE 482",
+          "name": "Humanitarian Logistics",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Bahar Yetiş",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "IE 490",
+          "name": "Introduction to Research in IE and OR I",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Firdevs Ulus",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "IE 491",
+          "name": "Introduction to Research in IE and OR II",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Firdevs Ulus",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "IE 496",
+          "name": "Seminar in Production Systems",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Bahar Yetiş",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "IE 513",
+          "name": "Linear Programming",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Mustafa Çelebi Pınar",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "IE 514",
+          "name": "Network Flows",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Oya Karaşan",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "IE 558",
+          "name": "Quantum Optimization",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Amine Gizem Özbaygın",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "IE 590",
+          "name": "Research Topics in IE and OR",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Amine Gizem Özbaygın",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "IE 599",
+          "name": "Master's Thesis",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Yiğit Karpat",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "IE 690",
+          "name": "Advanced Research Topics in IE and OR",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Amine Gizem Özbaygın",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "IE 699",
+          "name": "Ph.D. Dissertation",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Yiğit Karpat",
               "schedule": []
             }
           ]
@@ -8365,1029 +8510,6 @@
             {
               "number": "1",
               "instructor": "Gizem Karabay Can",
-              "schedule": []
-            }
-          ]
-        }
-      ]
-    }
-  },
-  {
-    "LAW": {
-      "courses": [
-        {
-          "code": "LAW 102",
-          "name": "Roman Law",
-          "sections": [
-            {
-              "number": "1",
-              "instructor": "Jakub Urbanik & Marzena Ewa Wojtczak",
-              "schedule": []
-            }
-          ]
-        },
-        {
-          "code": "LAW 104",
-          "name": "Turkish Constitutional Law (in Turkish)",
-          "sections": [
-            {
-              "number": "1",
-              "instructor": "Ece Göztepe Çelebi",
-              "schedule": []
-            },
-            {
-              "number": "2",
-              "instructor": "Zülfiye Yılmaz Yamaç",
-              "schedule": []
-            },
-            {
-              "number": "3",
-              "instructor": "Serkan Yolcu",
-              "schedule": []
-            },
-            {
-              "number": "4",
-              "instructor": "Serkan Yolcu",
-              "schedule": []
-            }
-          ]
-        },
-        {
-          "code": "LAW 105",
-          "name": "Civil Law: Introductory Provisions and Natural Persons (in Turkish)",
-          "sections": [
-            {
-              "number": "1",
-              "instructor": "Osman B. Gürzumar",
-              "schedule": []
-            }
-          ]
-        },
-        {
-          "code": "LAW 106",
-          "name": "Legal Persons and Family Law (in Turkish)",
-          "sections": [
-            {
-              "number": "1",
-              "instructor": "Pınar Altınok Ormancı",
-              "schedule": []
-            },
-            {
-              "number": "2",
-              "instructor": "Pınar Altınok Ormancı",
-              "schedule": []
-            }
-          ]
-        },
-        {
-          "code": "LAW 201",
-          "name": "Law of Obligations I (in Turkish)",
-          "sections": [
-            {
-              "number": "1",
-              "instructor": "Vedat Buz",
-              "schedule": []
-            }
-          ]
-        },
-        {
-          "code": "LAW 202",
-          "name": "Law of Obligations II (in Turkish)",
-          "sections": [
-            {
-              "number": "1",
-              "instructor": "Başak Baysal",
-              "schedule": []
-            },
-            {
-              "number": "2",
-              "instructor": "Vedat Buz",
-              "schedule": []
-            }
-          ]
-        },
-        {
-          "code": "LAW 204",
-          "name": "Criminal Law II (in Turkish)",
-          "sections": [
-            {
-              "number": "1",
-              "instructor": "Haluk Toroslu",
-              "schedule": []
-            },
-            {
-              "number": "2",
-              "instructor": "Haluk Toroslu",
-              "schedule": []
-            },
-            {
-              "number": "3",
-              "instructor": "Elif Gökşen Köstem",
-              "schedule": []
-            }
-          ]
-        },
-        {
-          "code": "LAW 206",
-          "name": "Administrative Judiciary (in Turkish)",
-          "sections": [
-            {
-              "number": "1",
-              "instructor": "Elvin Evrim Dalkılıç",
-              "schedule": []
-            },
-            {
-              "number": "2",
-              "instructor": "Ali Dursun Ulusoy",
-              "schedule": []
-            }
-          ]
-        },
-        {
-          "code": "LAW 210",
-          "name": "Basic Concepts of Law (in Turkish)",
-          "sections": [
-            {
-              "number": "1",
-              "instructor": "Şemsi Barış Özçelik",
-              "schedule": []
-            },
-            {
-              "number": "2",
-              "instructor": "Hüseyin Can Aksoy",
-              "schedule": []
-            },
-            {
-              "number": "3",
-              "instructor": "Nazlı Nilay Dayanç Kuzeyli",
-              "schedule": []
-            }
-          ]
-        },
-        {
-          "code": "LAW 211",
-          "name": "Basic Concepts of Law",
-          "sections": [
-            {
-              "number": "1",
-              "instructor": "Pınar Çağlayan Aksoy",
-              "schedule": []
-            }
-          ]
-        },
-        {
-          "code": "LAW 216",
-          "name": "Introduction to Anglo-American Law",
-          "sections": [
-            {
-              "number": "1",
-              "instructor": "Çağrı Gürkanlı",
-              "schedule": []
-            },
-            {
-              "number": "2",
-              "instructor": "Nazlı Nilay Dayanç Kuzeyli",
-              "schedule": []
-            }
-          ]
-        },
-        {
-          "code": "LAW 302",
-          "name": "Civil Procedure II (in Turkish)",
-          "sections": [
-            {
-              "number": "1",
-              "instructor": "Çağrı Mardin",
-              "schedule": []
-            },
-            {
-              "number": "2",
-              "instructor": "Çağrı Mardin",
-              "schedule": []
-            }
-          ]
-        },
-        {
-          "code": "LAW 306",
-          "name": "Law of Property II (in Turkish)",
-          "sections": [
-            {
-              "number": "1",
-              "instructor": "Şemsi Barış Özçelik",
-              "schedule": []
-            },
-            {
-              "number": "2",
-              "instructor": "Hüseyin Can Aksoy",
-              "schedule": []
-            }
-          ]
-        },
-        {
-          "code": "LAW 308",
-          "name": "Company Law (in Turkish)",
-          "sections": [
-            {
-              "number": "1",
-              "instructor": "Mehmet Çağlar Manavgat",
-              "schedule": []
-            },
-            {
-              "number": "2",
-              "instructor": "Murat Gürel",
-              "schedule": []
-            }
-          ]
-        },
-        {
-          "code": "LAW 313",
-          "name": "Business Law (in Turkish)",
-          "sections": [
-            {
-              "number": "1",
-              "instructor": "Bilgin Tiryakioğlu",
-              "schedule": []
-            },
-            {
-              "number": "2",
-              "instructor": "Pınar Başak Coşkun",
-              "schedule": []
-            }
-          ]
-        },
-        {
-          "code": "LAW 315",
-          "name": "Administrative Law (in Turkish)",
-          "sections": [
-            {
-              "number": "1",
-              "instructor": "Dilşad Çiğdem Sever",
-              "schedule": []
-            }
-          ]
-        },
-        {
-          "code": "LAW 320",
-          "name": "Legal Aspects of Blockchain, Crypto Assets and Smart Contracts",
-          "sections": [
-            {
-              "number": "1",
-              "instructor": "Pınar Çağlayan Aksoy",
-              "schedule": []
-            }
-          ]
-        },
-        {
-          "code": "LAW 358",
-          "name": "Criminal Law Special Provisions (in Turkish)",
-          "sections": [
-            {
-              "number": "1",
-              "instructor": "Haluk Toroslu",
-              "schedule": []
-            },
-            {
-              "number": "2",
-              "instructor": "Elif Gökşen Köstem",
-              "schedule": []
-            }
-          ]
-        },
-        {
-          "code": "LAW 366",
-          "name": "Legal Sociology(in Turkish)",
-          "sections": [
-            {
-              "number": "1",
-              "instructor": "Elif Küzeci Erol",
-              "schedule": []
-            }
-          ]
-        },
-        {
-          "code": "LAW 384",
-          "name": "Criminology (in Turkish)",
-          "sections": [
-            {
-              "number": "1",
-              "instructor": "Haluk Toroslu",
-              "schedule": []
-            }
-          ]
-        },
-        {
-          "code": "LAW 396",
-          "name": "Equality Law (in Turkish)",
-          "sections": [
-            {
-              "number": "1",
-              "instructor": "Zülfiye Yılmaz Yamaç",
-              "schedule": []
-            }
-          ]
-        },
-        {
-          "code": "LAW 405",
-          "name": "International Human Rights Law",
-          "sections": [
-            {
-              "number": "1",
-              "instructor": "Ayşe Dicle Ergin",
-              "schedule": []
-            },
-            {
-              "number": "2",
-              "instructor": "Staff",
-              "schedule": []
-            }
-          ]
-        },
-        {
-          "code": "LAW 406",
-          "name": "International Commercial Arbitration",
-          "sections": [
-            {
-              "number": "1",
-              "instructor": "Paolo Michele Patocchi",
-              "schedule": []
-            },
-            {
-              "number": "2",
-              "instructor": "Paolo Michele Patocchi",
-              "schedule": []
-            }
-          ]
-        },
-        {
-          "code": "LAW 407",
-          "name": "Tax Law (in Turkish)",
-          "sections": [
-            {
-              "number": "1",
-              "instructor": "Alara Efsun Yazıcıoğlu",
-              "schedule": []
-            }
-          ]
-        },
-        {
-          "code": "LAW 410",
-          "name": "Enforcement and Bankruptcy Law (in Turkish)",
-          "sections": [
-            {
-              "number": "1",
-              "instructor": "Emel Hanağası",
-              "schedule": []
-            },
-            {
-              "number": "2",
-              "instructor": "Emel Hanağası",
-              "schedule": []
-            }
-          ]
-        },
-        {
-          "code": "LAW 412",
-          "name": "Labor Law (in Turkish)",
-          "sections": [
-            {
-              "number": "1",
-              "instructor": "Levent Akın",
-              "schedule": []
-            }
-          ]
-        },
-        {
-          "code": "LAW 423",
-          "name": "Law of Capital Markets (in Turkish)",
-          "sections": [
-            {
-              "number": "1",
-              "instructor": "Mehmet Çağlar Manavgat",
-              "schedule": []
-            }
-          ]
-        },
-        {
-          "code": "LAW 451",
-          "name": "Moot Court III",
-          "sections": [
-            {
-              "number": "1",
-              "instructor": "Elif Küzeci Erol",
-              "schedule": []
-            }
-          ]
-        },
-        {
-          "code": "LAW 475",
-          "name": "Financial Technologies Law (FinTech Law)",
-          "sections": [
-            {
-              "number": "1",
-              "instructor": "Deniz Baytemür Köksal",
-              "schedule": []
-            }
-          ]
-        },
-        {
-          "code": "LAW 482",
-          "name": "European and International Migration Law (in Turkish)",
-          "sections": [
-            {
-              "number": "1",
-              "instructor": "Gülüm Özçelik",
-              "schedule": []
-            }
-          ]
-        },
-        {
-          "code": "LAW 507",
-          "name": "Public Economic Law  (in Turkish)",
-          "sections": [
-            {
-              "number": "1",
-              "instructor": "Elvin Evrim Dalkılıç",
-              "schedule": []
-            }
-          ]
-        },
-        {
-          "code": "LAW 514",
-          "name": "Data Protection Law (in Turkish)",
-          "sections": [
-            {
-              "number": "1",
-              "instructor": "Elif Küzeci Erol",
-              "schedule": []
-            }
-          ]
-        },
-        {
-          "code": "LAW 571",
-          "name": "Law Applicable to Contractual Obligations (in Turkish)",
-          "sections": [
-            {
-              "number": "1",
-              "instructor": "Bilgin Tiryakioğlu",
-              "schedule": []
-            }
-          ]
-        },
-        {
-          "code": "LAW 590",
-          "name": "Pre-Thesis Seminar",
-          "sections": [
-            {
-              "number": "1",
-              "instructor": "Elif Küzeci Erol",
-              "schedule": []
-            }
-          ]
-        },
-        {
-          "code": "LAW 599",
-          "name": "Master's Thesis",
-          "sections": [
-            {
-              "number": "1",
-              "instructor": "Elif Küzeci Erol",
-              "schedule": []
-            }
-          ]
-        },
-        {
-          "code": "LAW 624",
-          "name": "International Procedure (in Turkish)",
-          "sections": [
-            {
-              "number": "1",
-              "instructor": "Gülüm Özçelik",
-              "schedule": []
-            }
-          ]
-        },
-        {
-          "code": "LAW 633",
-          "name": "Individual Application to the Constitutional Court (Merits and Procedure) (in Turkish)",
-          "sections": [
-            {
-              "number": "1",
-              "instructor": "Ece Göztepe Çelebi",
-              "schedule": []
-            }
-          ]
-        },
-        {
-          "code": "LAW 644",
-          "name": "Private Law Remedies in Competition Law (in Turkish)",
-          "sections": [
-            {
-              "number": "1",
-              "instructor": "Osman B. Gürzumar",
-              "schedule": []
-            }
-          ]
-        },
-        {
-          "code": "LAW 689",
-          "name": "Pre-Thesis Seminar",
-          "sections": [
-            {
-              "number": "1",
-              "instructor": "Elif Küzeci Erol",
-              "schedule": []
-            }
-          ]
-        },
-        {
-          "code": "LAW 699",
-          "name": "Ph.D. Dissertation",
-          "sections": [
-            {
-              "number": "1",
-              "instructor": "Elif Küzeci Erol",
-              "schedule": []
-            }
-          ]
-        }
-      ]
-    }
-  },
-  {
-    "LNG": {
-      "courses": [
-        {
-          "code": "LNG 111",
-          "name": "Spanish I",
-          "sections": [
-            {
-              "number": "1",
-              "instructor": "Özlem Doğan",
-              "schedule": []
-            },
-            {
-              "number": "2",
-              "instructor": "Ana Belen Lainez Arboledas",
-              "schedule": []
-            },
-            {
-              "number": "3",
-              "instructor": "Ana Belen Lainez Arboledas",
-              "schedule": []
-            },
-            {
-              "number": "4",
-              "instructor": "Ana Belen Lainez Arboledas",
-              "schedule": []
-            },
-            {
-              "number": "5",
-              "instructor": "Yağmur Cevger Zorlu",
-              "schedule": []
-            },
-            {
-              "number": "6",
-              "instructor": "Yağmur Cevger Zorlu",
-              "schedule": []
-            },
-            {
-              "number": "7",
-              "instructor": "Hüseyin Güngör Şahin",
-              "schedule": []
-            },
-            {
-              "number": "8",
-              "instructor": "Hüseyin Güngör Şahin",
-              "schedule": []
-            }
-          ]
-        },
-        {
-          "code": "LNG 112",
-          "name": "Spanish II",
-          "sections": [
-            {
-              "number": "1",
-              "instructor": "Ana Belen Lainez Arboledas",
-              "schedule": []
-            },
-            {
-              "number": "2",
-              "instructor": "Hüseyin Güngör Şahin",
-              "schedule": []
-            }
-          ]
-        },
-        {
-          "code": "LNG 113",
-          "name": "Spanish III",
-          "sections": [
-            {
-              "number": "1",
-              "instructor": "Yağmur Cevger Zorlu",
-              "schedule": []
-            }
-          ]
-        },
-        {
-          "code": "LNG 114",
-          "name": "Intermediate Spanish I",
-          "sections": [
-            {
-              "number": "1",
-              "instructor": "Özlem Doğan",
-              "schedule": []
-            }
-          ]
-        },
-        {
-          "code": "LNG 115",
-          "name": "Intermediate Spanish II",
-          "sections": [
-            {
-              "number": "1",
-              "instructor": "Özlem Doğan",
-              "schedule": []
-            }
-          ]
-        },
-        {
-          "code": "LNG 116",
-          "name": "Intermediate Spanish III",
-          "sections": [
-            {
-              "number": "1",
-              "instructor": "Özlem Doğan",
-              "schedule": []
-            }
-          ]
-        },
-        {
-          "code": "LNG 121",
-          "name": "French I",
-          "sections": [
-            {
-              "number": "1",
-              "instructor": "Betül Bostan",
-              "schedule": []
-            },
-            {
-              "number": "2",
-              "instructor": "Betül Bostan",
-              "schedule": []
-            },
-            {
-              "number": "3",
-              "instructor": "Emine Şeyma Tekelioğlu",
-              "schedule": []
-            },
-            {
-              "number": "4",
-              "instructor": "Emine Şeyma Tekelioğlu",
-              "schedule": []
-            }
-          ]
-        },
-        {
-          "code": "LNG 122",
-          "name": "French II",
-          "sections": [
-            {
-              "number": "1",
-              "instructor": "Emine Şeyma Tekelioğlu",
-              "schedule": []
-            }
-          ]
-        },
-        {
-          "code": "LNG 123",
-          "name": "French III",
-          "sections": [
-            {
-              "number": "1",
-              "instructor": "Betül Bostan",
-              "schedule": []
-            }
-          ]
-        },
-        {
-          "code": "LNG 124",
-          "name": "Intermediate French I",
-          "sections": [
-            {
-              "number": "1",
-              "instructor": "Betül Bostan",
-              "schedule": []
-            }
-          ]
-        },
-        {
-          "code": "LNG 131",
-          "name": "German I",
-          "sections": [
-            {
-              "number": "1",
-              "instructor": "Pierre Yves Vandermeersch",
-              "schedule": []
-            },
-            {
-              "number": "2",
-              "instructor": "Merve Yıldırım",
-              "schedule": []
-            },
-            {
-              "number": "3",
-              "instructor": "Pierre Yves Vandermeersch",
-              "schedule": []
-            },
-            {
-              "number": "4",
-              "instructor": "Merve Yıldırım",
-              "schedule": []
-            },
-            {
-              "number": "5",
-              "instructor": "Merve Yıldırım",
-              "schedule": []
-            },
-            {
-              "number": "6",
-              "instructor": "Pierre Yves Vandermeersch",
-              "schedule": []
-            }
-          ]
-        },
-        {
-          "code": "LNG 132",
-          "name": "German II",
-          "sections": [
-            {
-              "number": "1",
-              "instructor": "Pierre Yves Vandermeersch",
-              "schedule": []
-            },
-            {
-              "number": "2",
-              "instructor": "İlknur Garbioğlu",
-              "schedule": []
-            }
-          ]
-        },
-        {
-          "code": "LNG 133",
-          "name": "German III",
-          "sections": [
-            {
-              "number": "1",
-              "instructor": "İlknur Garbioğlu",
-              "schedule": []
-            }
-          ]
-        },
-        {
-          "code": "LNG 134",
-          "name": "Intermediate German I",
-          "sections": [
-            {
-              "number": "1",
-              "instructor": "İlknur Garbioğlu",
-              "schedule": []
-            }
-          ]
-        },
-        {
-          "code": "LNG 141",
-          "name": "Italian I",
-          "sections": [
-            {
-              "number": "1",
-              "instructor": "Nilay Kanarya",
-              "schedule": []
-            },
-            {
-              "number": "2",
-              "instructor": "Nilay Kanarya",
-              "schedule": []
-            },
-            {
-              "number": "3",
-              "instructor": "Nilay Kanarya",
-              "schedule": []
-            }
-          ]
-        },
-        {
-          "code": "LNG 142",
-          "name": "Italian II",
-          "sections": [
-            {
-              "number": "1",
-              "instructor": "Nilay Kanarya",
-              "schedule": []
-            }
-          ]
-        },
-        {
-          "code": "LNG 161",
-          "name": "Russian I",
-          "sections": [
-            {
-              "number": "1",
-              "instructor": "Gülnara Tanrıkulu",
-              "schedule": []
-            },
-            {
-              "number": "2",
-              "instructor": "Gülnara Tanrıkulu",
-              "schedule": []
-            },
-            {
-              "number": "3",
-              "instructor": "Gülnara Tanrıkulu",
-              "schedule": []
-            }
-          ]
-        },
-        {
-          "code": "LNG 162",
-          "name": "Russian II",
-          "sections": [
-            {
-              "number": "1",
-              "instructor": "Gülnara Tanrıkulu",
-              "schedule": []
-            }
-          ]
-        },
-        {
-          "code": "LNG 163",
-          "name": "Russian III",
-          "sections": [
-            {
-              "number": "1",
-              "instructor": "Gülnara Tanrıkulu",
-              "schedule": []
-            }
-          ]
-        },
-        {
-          "code": "LNG 171",
-          "name": "Turkish I",
-          "sections": [
-            {
-              "number": "1",
-              "instructor": "Özlem Aksu Kurtoğlu",
-              "schedule": []
-            },
-            {
-              "number": "2",
-              "instructor": "Özlem Aksu Kurtoğlu",
-              "schedule": []
-            }
-          ]
-        },
-        {
-          "code": "LNG 172",
-          "name": "Turkish II",
-          "sections": [
-            {
-              "number": "1",
-              "instructor": "Özlem Aksu Kurtoğlu",
-              "schedule": []
-            },
-            {
-              "number": "2",
-              "instructor": "Özlem Aksu Kurtoğlu",
-              "schedule": []
-            }
-          ]
-        },
-        {
-          "code": "LNG 173",
-          "name": "Turkish III",
-          "sections": [
-            {
-              "number": "1",
-              "instructor": "Nurbanu Aydın",
-              "schedule": []
-            }
-          ]
-        },
-        {
-          "code": "LNG 174",
-          "name": "Intermediate Turkish I",
-          "sections": [
-            {
-              "number": "1",
-              "instructor": "Nurbanu Aydın",
-              "schedule": []
-            }
-          ]
-        },
-        {
-          "code": "LNG 179",
-          "name": "Advanced Turkish II",
-          "sections": [
-            {
-              "number": "1",
-              "instructor": "Nurbanu Aydın",
-              "schedule": []
-            },
-            {
-              "number": "2",
-              "instructor": "Nurbanu Aydın",
-              "schedule": []
-            }
-          ]
-        },
-        {
-          "code": "LNG 191",
-          "name": "Arabic I",
-          "sections": [
-            {
-              "number": "1",
-              "instructor": "Mahmut Kalkan",
-              "schedule": []
-            }
-          ]
-        },
-        {
-          "code": "LNG 221",
-          "name": "Chinese I",
-          "sections": [
-            {
-              "number": "1",
-              "instructor": "Duygu Sarıkaya İrim",
-              "schedule": []
-            }
-          ]
-        },
-        {
-          "code": "LNG 222",
-          "name": "Chinese II",
-          "sections": [
-            {
-              "number": "1",
-              "instructor": "Duygu Sarıkaya İrim",
-              "schedule": []
-            }
-          ]
-        },
-        {
-          "code": "LNG 231",
-          "name": "Korean I",
-          "sections": [
-            {
-              "number": "1",
-              "instructor": "Derya Çelik Işık",
-              "schedule": []
-            }
-          ]
-        },
-        {
-          "code": "LNG 232",
-          "name": "Korean II",
-          "sections": [
-            {
-              "number": "1",
-              "instructor": "Staff",
-              "schedule": []
-            }
-          ]
-        },
-        {
-          "code": "LNG 241",
-          "name": "Japanese I",
-          "sections": [
-            {
-              "number": "1",
-              "instructor": "Masumi Hiratsuka",
-              "schedule": []
-            },
-            {
-              "number": "2",
-              "instructor": "Masumi Hiratsuka",
-              "schedule": []
-            },
-            {
-              "number": "3",
-              "instructor": "Masumi Hiratsuka",
-              "schedule": []
-            },
-            {
-              "number": "4",
-              "instructor": "Masumi Hiratsuka",
-              "schedule": []
-            }
-          ]
-        },
-        {
-          "code": "LNG 242",
-          "name": "Japanese II",
-          "sections": [
-            {
-              "number": "1",
-              "instructor": "Masumi Hiratsuka",
               "schedule": []
             }
           ]
@@ -9979,17 +9101,6 @@
             {
               "number": "1",
               "instructor": "Cihan Bahran",
-              "schedule": []
-            }
-          ]
-        },
-        {
-          "code": "MATH 586",
-          "name": "Topics in Ordinary Differential Equations II",
-          "sections": [
-            {
-              "number": "1",
-              "instructor": "Fatihcan Atay",
               "schedule": []
             }
           ]
@@ -10648,17 +9759,6 @@
           ]
         },
         {
-          "code": "ME 443",
-          "name": "Machine Elements",
-          "sections": [
-            {
-              "number": "1",
-              "instructor": "Eren Billur",
-              "schedule": []
-            }
-          ]
-        },
-        {
           "code": "ME 482",
           "name": "Mechanical Engineering Design II",
           "sections": [
@@ -10974,7 +10074,7 @@
             },
             {
               "number": "30",
-              "instructor": "Azade Bağırov",
+              "instructor": "Hatıra Hasanova",
               "schedule": []
             },
             {
@@ -11020,7 +10120,7 @@
             },
             {
               "number": "3",
-              "instructor": "Hatıra Hasanova",
+              "instructor": "Melis Pınar",
               "schedule": []
             },
             {
@@ -12158,28 +11258,6 @@
             {
               "number": "1",
               "instructor": "Aykut Erbaş",
-              "schedule": []
-            }
-          ]
-        },
-        {
-          "code": "MSN 529",
-          "name": "Introduction to Adaptive Optics and Optical Imaging",
-          "sections": [
-            {
-              "number": "1",
-              "instructor": "Hasan Yılmaz",
-              "schedule": []
-            }
-          ]
-        },
-        {
-          "code": "MSN 530",
-          "name": "Biomolecular Modeling and Simulation",
-          "sections": [
-            {
-              "number": "1",
-              "instructor": "Amirhoushang Bahrami",
               "schedule": []
             }
           ]
@@ -13495,6 +12573,392 @@
     }
   },
   {
+    "PREP": {
+      "courses": [
+        {
+          "code": "PREP 111",
+          "name": "Elementary ",
+          "sections": [
+            {
+              "number": "301",
+              "instructor": "Bilge Çöllüoğlu Yakar",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "PREP 121",
+          "name": "Pre-intermediate",
+          "sections": [
+            {
+              "number": "301",
+              "instructor": "Sibel Meryem Dilsiz & Zeliha Yılmaz & Duygu Yılmaz",
+              "schedule": []
+            },
+            {
+              "number": "302",
+              "instructor": "Zeliha Yılmaz & Halime Kural",
+              "schedule": []
+            },
+            {
+              "number": "303",
+              "instructor": "Canan Suyolcu & Duygu Yılmaz",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "PREP 131",
+          "name": "Intermediate ",
+          "sections": [
+            {
+              "number": "301",
+              "instructor": "Ayşe Funda Gökçe & Bilal İnci",
+              "schedule": []
+            },
+            {
+              "number": "302",
+              "instructor": "Müge Dağlı & Annelie Yvonne Johnson",
+              "schedule": []
+            },
+            {
+              "number": "303",
+              "instructor": "Mutlu Işıl Ergun & Çiğdem Fıçıcı",
+              "schedule": []
+            },
+            {
+              "number": "304",
+              "instructor": "Samime Çelik Aktaş & Bilal İnci",
+              "schedule": []
+            },
+            {
+              "number": "305",
+              "instructor": "Bilal İnci & Daniele Perezin Mizuta",
+              "schedule": []
+            },
+            {
+              "number": "306",
+              "instructor": "Ecem İşbilir & Annelie Yvonne Johnson",
+              "schedule": []
+            },
+            {
+              "number": "307",
+              "instructor": "Hatice İlknur Halıcı Yılmaz & Matthew Christopher Payne",
+              "schedule": []
+            },
+            {
+              "number": "308",
+              "instructor": "Elif Şen & Kaan Cahit Dewan & Barış Arpaç",
+              "schedule": []
+            },
+            {
+              "number": "309",
+              "instructor": "Hatice İlknur Halıcı Yılmaz & Simon James Harvey Brunker",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "PREP 141",
+          "name": "Upper-intermediate",
+          "sections": [
+            {
+              "number": "301",
+              "instructor": "Özlem Sydney Turgut & Saliha Gürbüzdal",
+              "schedule": []
+            },
+            {
+              "number": "302",
+              "instructor": "Özgür Taşkesen & Hollie Jade Şahin",
+              "schedule": []
+            },
+            {
+              "number": "303",
+              "instructor": "Gamze Güner & Emine Geçgil",
+              "schedule": []
+            },
+            {
+              "number": "304",
+              "instructor": "Seçil Koçal & Özgür Taşkesen",
+              "schedule": []
+            },
+            {
+              "number": "305",
+              "instructor": "Görkem Aydın & Elif Eren",
+              "schedule": []
+            },
+            {
+              "number": "306",
+              "instructor": "Nurdan Yeşil & Pelin Tekin",
+              "schedule": []
+            },
+            {
+              "number": "307",
+              "instructor": "Yeşim Yeloğlu & Arlene Patricia Lahey",
+              "schedule": []
+            },
+            {
+              "number": "308",
+              "instructor": "Ümran Ölmez Board & Bilge Işıl Yazıcı",
+              "schedule": []
+            },
+            {
+              "number": "309",
+              "instructor": "Ayşe Özmen Özdemir & Duygu Yılmaz & Fidan Bahar Altaş",
+              "schedule": []
+            },
+            {
+              "number": "310",
+              "instructor": "Seçil Chousein Oglu Canbaz & Arlene Patricia Lahey",
+              "schedule": []
+            },
+            {
+              "number": "311",
+              "instructor": "Fidan Bahar Altaş & Anthony James Scott",
+              "schedule": []
+            },
+            {
+              "number": "312",
+              "instructor": "Hülya Akansel & Şule Şenel",
+              "schedule": []
+            },
+            {
+              "number": "313",
+              "instructor": "Ebru Atakurt & Teresa Lynn Campbell",
+              "schedule": []
+            },
+            {
+              "number": "314",
+              "instructor": "Elif Kaya & Adrian Liberty Crawford",
+              "schedule": []
+            },
+            {
+              "number": "315",
+              "instructor": "Sevil Kultufan Kılıç & Adrian Liberty Crawford",
+              "schedule": []
+            },
+            {
+              "number": "316",
+              "instructor": "Gökçen Işık & Travis Brent Dingler",
+              "schedule": []
+            },
+            {
+              "number": "317",
+              "instructor": "Gökşen Çetin & Efe Burak Yakar & Adrian Liberty Crawford",
+              "schedule": []
+            },
+            {
+              "number": "318",
+              "instructor": "Özlem Mert Akkaya & Patrick Himmelspach",
+              "schedule": []
+            },
+            {
+              "number": "319",
+              "instructor": "Şule Şenel & Nihan Kılıç & Katelyn Nicole Thomas",
+              "schedule": []
+            },
+            {
+              "number": "320",
+              "instructor": "Azra Uslu & Teresa Lynn Campbell",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "PREP 155",
+          "name": "Pre-faculty ",
+          "sections": [
+            {
+              "number": "301",
+              "instructor": "Nurdan Yeşil & İlkay Gümgüm",
+              "schedule": []
+            },
+            {
+              "number": "302",
+              "instructor": "Hande Işıl Işık & Sevda Çelik Barut",
+              "schedule": []
+            },
+            {
+              "number": "303",
+              "instructor": "Özlem Sydney Turgut & Sevda Çelik Barut",
+              "schedule": []
+            },
+            {
+              "number": "304",
+              "instructor": "Funda Kamanlı & Cameron Justin Lee Timothy Beale",
+              "schedule": []
+            },
+            {
+              "number": "305",
+              "instructor": "Nazmiye Aslı Sağ & Esra Tünay",
+              "schedule": []
+            },
+            {
+              "number": "306",
+              "instructor": "Elif Kantarcıoğlu & Kamile Özkartal",
+              "schedule": []
+            },
+            {
+              "number": "307",
+              "instructor": "Nazmiye Aslı Sağ & Neslihan Erbil",
+              "schedule": []
+            },
+            {
+              "number": "308",
+              "instructor": "Mehvar Ergün Türkkan & Cameron Justin Lee Timothy Beale",
+              "schedule": []
+            },
+            {
+              "number": "309",
+              "instructor": "Mehvar Ergün Türkkan & İlkay Gümgüm",
+              "schedule": []
+            },
+            {
+              "number": "310",
+              "instructor": "Nihal Kurtay & Nihan Kılıç",
+              "schedule": []
+            },
+            {
+              "number": "311",
+              "instructor": "Füsun Taşkesen & Nazan Aktürk",
+              "schedule": []
+            },
+            {
+              "number": "312",
+              "instructor": "Nihal Kurtay & Seda Özdoğan",
+              "schedule": []
+            },
+            {
+              "number": "313",
+              "instructor": "Nazan Aktürk & Serhan Bulanık",
+              "schedule": []
+            },
+            {
+              "number": "314",
+              "instructor": "Sabriye Gür & Efe Burak Yakar",
+              "schedule": []
+            },
+            {
+              "number": "315",
+              "instructor": "Nihan Kılıç & Micaela Kim Richter",
+              "schedule": []
+            },
+            {
+              "number": "316",
+              "instructor": "Nihan Kılıç & Carey Jane Bohnenkamp",
+              "schedule": []
+            },
+            {
+              "number": "317",
+              "instructor": "Efe Burak Yakar & James Dean Tressler",
+              "schedule": []
+            },
+            {
+              "number": "318",
+              "instructor": "Dilek Bilgiç & Zeynep Saçan",
+              "schedule": []
+            },
+            {
+              "number": "319",
+              "instructor": "Zeynep Saçan & Cemre Ece Kırcalı",
+              "schedule": []
+            },
+            {
+              "number": "320",
+              "instructor": "Merve Ersoy & Zafer Ali Ahmed",
+              "schedule": []
+            },
+            {
+              "number": "321",
+              "instructor": "Bilge Çöllüoğlu Yakar & Ramsey David Klassen",
+              "schedule": []
+            },
+            {
+              "number": "322",
+              "instructor": "Clare Yalçın & Ozan Ekici",
+              "schedule": []
+            },
+            {
+              "number": "323",
+              "instructor": "Clare Yalçın & Zeynep Eken Kaptan",
+              "schedule": []
+            },
+            {
+              "number": "324",
+              "instructor": "Bilge Çöllüoğlu Yakar & Zafer Ali Ahmed",
+              "schedule": []
+            },
+            {
+              "number": "325",
+              "instructor": "Bilge Çöllüoğlu Yakar & Carlos Lopez Santamaria",
+              "schedule": []
+            },
+            {
+              "number": "326",
+              "instructor": "Hilal Atlı & Gülcan Kuyumcu",
+              "schedule": []
+            },
+            {
+              "number": "327",
+              "instructor": "Emine Ebru Ecer & Harun Dislioğlu",
+              "schedule": []
+            },
+            {
+              "number": "328",
+              "instructor": "Fatma Efser Civelekoğlu & Pelin Yetkin",
+              "schedule": []
+            },
+            {
+              "number": "329",
+              "instructor": "Emine Zafer Nizam & Hülya Can",
+              "schedule": []
+            },
+            {
+              "number": "330",
+              "instructor": "Fatma Efser Civelekoğlu & İpek Hüyüklü",
+              "schedule": []
+            },
+            {
+              "number": "331",
+              "instructor": "Emine Ebru Ecer & Harun Dislioğlu",
+              "schedule": []
+            },
+            {
+              "number": "332",
+              "instructor": "Gülcan Kuyumcu & Kayla Marie Etherton",
+              "schedule": []
+            },
+            {
+              "number": "333",
+              "instructor": "Gülcan Kuyumcu & Buket Meryumoğlu",
+              "schedule": []
+            },
+            {
+              "number": "334",
+              "instructor": "Emine Zafer Nizam & Barış Arpaç",
+              "schedule": []
+            },
+            {
+              "number": "335",
+              "instructor": "Özlem Boztepe Ovayurt & Müge Erten",
+              "schedule": []
+            },
+            {
+              "number": "336",
+              "instructor": "Steven Hobson & Gökçen Çolak",
+              "schedule": []
+            },
+            {
+              "number": "337",
+              "instructor": "Fatma Gül Yıldırım & Gökçen Çolak",
+              "schedule": []
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
     "PSYC": {
       "courses": [
         {
@@ -14085,11 +13549,6 @@
             {
               "number": "8",
               "instructor": "Caner Hazar",
-              "schedule": []
-            },
-            {
-              "number": "9",
-              "instructor": "Burcu Türkoğlu Payne",
               "schedule": []
             }
           ]

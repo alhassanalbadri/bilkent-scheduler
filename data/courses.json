@@ -3823,11 +3823,11 @@
               "schedule": [
                 {
                   "slot": 17,
-                  "classroom": "FF-201(S)"
+                  "classroom": "FF-201"
                 },
                 {
                   "slot": 24,
-                  "classroom": "FF-201"
+                  "classroom": "FF-201(S)"
                 },
                 {
                   "slot": 49,
@@ -15706,7 +15706,7 @@
               "schedule": [
                 {
                   "slot": 1,
-                  "classroom": "G-106"
+                  "classroom": "G-106(S)"
                 },
                 {
                   "slot": 8,
@@ -15726,7 +15726,7 @@
                 },
                 {
                   "slot": 60,
-                  "classroom": "G-106(S)"
+                  "classroom": "G-106"
                 }
               ]
             },
@@ -17394,11 +17394,11 @@
                 },
                 {
                   "slot": 16,
-                  "classroom": "C-216"
+                  "classroom": "CE-104"
                 },
                 {
                   "slot": 23,
-                  "classroom": "C-216"
+                  "classroom": "CE-104"
                 },
                 {
                   "slot": 53,
@@ -17534,19 +17534,19 @@
               "schedule": [
                 {
                   "slot": 4,
-                  "classroom": "G-236(S)"
+                  "classroom": "G-253(S)"
                 },
                 {
                   "slot": 11,
-                  "classroom": "G-236"
+                  "classroom": "G-253"
                 },
                 {
                   "slot": 36,
-                  "classroom": "G-236"
+                  "classroom": "G-253"
                 },
                 {
                   "slot": 43,
-                  "classroom": "G-236"
+                  "classroom": "G-253"
                 }
               ]
             },
@@ -21501,6 +21501,649 @@
                   "classroom": "FB-314"
                 }
               ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "HART": {
+      "courses": [
+        {
+          "code": "HART 117",
+          "name": "Ways of Seeing: Approaches to Art and Architectural History",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Ayşe Batman",
+              "schedule": [
+                {
+                  "slot": 17,
+                  "classroom": "H-133B(S)"
+                },
+                {
+                  "slot": 24,
+                  "classroom": "H-133B"
+                },
+                {
+                  "slot": 49,
+                  "classroom": "H-133B"
+                },
+                {
+                  "slot": 56,
+                  "classroom": "H-133B"
+                }
+              ]
+            },
+            {
+              "number": "2",
+              "instructor": "Ayşe Batman",
+              "schedule": [
+                {
+                  "slot": 1,
+                  "classroom": "H-335(S)"
+                },
+                {
+                  "slot": 8,
+                  "classroom": "H-335"
+                },
+                {
+                  "slot": 38,
+                  "classroom": "H-335"
+                },
+                {
+                  "slot": 45,
+                  "classroom": "H-335"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "HART 120",
+          "name": "Human Evolution and World Prehistory",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Thomas Zimmermann",
+              "schedule": [
+                {
+                  "slot": 14,
+                  "classroom": "H-334(S)"
+                },
+                {
+                  "slot": 21,
+                  "classroom": "H-334"
+                },
+                {
+                  "slot": 51,
+                  "classroom": "H-334"
+                },
+                {
+                  "slot": 58,
+                  "classroom": "H-334"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "HART 126",
+          "name": "Fieldwork Methodologies in Archaeology",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Emma Louise Baysal",
+              "schedule": [
+                {
+                  "slot": 0,
+                  "classroom": "H-332(S)"
+                },
+                {
+                  "slot": 7,
+                  "classroom": "H-332"
+                },
+                {
+                  "slot": 37,
+                  "classroom": "H-332"
+                },
+                {
+                  "slot": 44,
+                  "classroom": "H-332"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "HART 208",
+          "name": "Roman Art and Archaeology",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Peter Louis M. Talloen",
+              "schedule": [
+                {
+                  "slot": 15,
+                  "classroom": "H-336"
+                },
+                {
+                  "slot": 22,
+                  "classroom": "H-336"
+                },
+                {
+                  "slot": 52,
+                  "classroom": "H-336"
+                },
+                {
+                  "slot": 59,
+                  "classroom": "H-336(S)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "HART 219",
+          "name": "Anatolia I-Hunters,Farmers,Merchants in Prehistoric Anatolia",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Thomas Zimmermann",
+              "schedule": [
+                {
+                  "slot": 1,
+                  "classroom": "H-332(S)"
+                },
+                {
+                  "slot": 8,
+                  "classroom": "H-332"
+                },
+                {
+                  "slot": 38,
+                  "classroom": "H-332"
+                },
+                {
+                  "slot": 45,
+                  "classroom": "H-332"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "HART 221",
+          "name": "Great Discoveries from the Ancient World ",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Sevingül Bilgin Kopçuk",
+              "schedule": [
+                {
+                  "slot": 0,
+                  "classroom": "H-334(S)"
+                },
+                {
+                  "slot": 7,
+                  "classroom": "H-334"
+                },
+                {
+                  "slot": 37,
+                  "classroom": "H-334"
+                },
+                {
+                  "slot": 44,
+                  "classroom": "H-334"
+                }
+              ]
+            },
+            {
+              "number": "2",
+              "instructor": "Aysun Çadallı",
+              "schedule": [
+                {
+                  "slot": 15,
+                  "classroom": "H-Z60"
+                },
+                {
+                  "slot": 22,
+                  "classroom": "H-Z60"
+                },
+                {
+                  "slot": 52,
+                  "classroom": "H-Z60"
+                },
+                {
+                  "slot": 59,
+                  "classroom": "H-Z60(S)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "HART 225",
+          "name": "Cultural Anthropology",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Benjamin Titus Irvine",
+              "schedule": [
+                {
+                  "slot": 3,
+                  "classroom": "H-333(S)"
+                },
+                {
+                  "slot": 10,
+                  "classroom": "H-333"
+                },
+                {
+                  "slot": 35,
+                  "classroom": "H-333"
+                },
+                {
+                  "slot": 42,
+                  "classroom": "H-333"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "HART 232",
+          "name": "Ancient Greek II",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Nathan Paul Leidholm",
+              "schedule": [
+                {
+                  "slot": 4,
+                  "classroom": "B-108(S)"
+                },
+                {
+                  "slot": 11,
+                  "classroom": "B-108"
+                },
+                {
+                  "slot": 36,
+                  "classroom": "B-108"
+                },
+                {
+                  "slot": 43,
+                  "classroom": "B-108"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "HART 240",
+          "name": "Latin II",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "N. İlgi Gerçek",
+              "schedule": [
+                {
+                  "slot": 18,
+                  "classroom": "H-334"
+                },
+                {
+                  "slot": 25,
+                  "classroom": "H-334"
+                },
+                {
+                  "slot": 50,
+                  "classroom": "H-334"
+                },
+                {
+                  "slot": 57,
+                  "classroom": "H-334(S)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "HART 303",
+          "name": "Greek Sculpture",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Roland Ralph Redfern Smith",
+              "schedule": [
+                {
+                  "slot": 1,
+                  "classroom": "A-331(S)"
+                },
+                {
+                  "slot": 8,
+                  "classroom": "A-331"
+                },
+                {
+                  "slot": 38,
+                  "classroom": "A-331"
+                },
+                {
+                  "slot": 45,
+                  "classroom": "A-331"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "HART 325",
+          "name": "Anatolia II- The World of Hittites",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "N. İlgi Gerçek",
+              "schedule": [
+                {
+                  "slot": 0,
+                  "classroom": "H-336(S)"
+                },
+                {
+                  "slot": 7,
+                  "classroom": "H-336"
+                },
+                {
+                  "slot": 37,
+                  "classroom": "H-336"
+                },
+                {
+                  "slot": 44,
+                  "classroom": "H-336"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "HART 373",
+          "name": "Hittite II",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "N. İlgi Gerçek",
+              "schedule": [
+                {
+                  "slot": 15,
+                  "classroom": "H-335"
+                },
+                {
+                  "slot": 22,
+                  "classroom": "H-335"
+                },
+                {
+                  "slot": 52,
+                  "classroom": "H-335"
+                },
+                {
+                  "slot": 59,
+                  "classroom": "H-335(S)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "HART 400",
+          "name": "Senior Project",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Thomas Zimmermann",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "HART 426",
+          "name": "Ancient Technologies and Materials",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Benjamin Titus Irvine",
+              "schedule": [
+                {
+                  "slot": 17,
+                  "classroom": "H-132(S)"
+                },
+                {
+                  "slot": 24,
+                  "classroom": "H-132"
+                },
+                {
+                  "slot": 49,
+                  "classroom": "H-132"
+                },
+                {
+                  "slot": 56,
+                  "classroom": "H-132"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "HART 436",
+          "name": "Archaeological Method and Theory",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Emma Louise Baysal",
+              "schedule": [
+                {
+                  "slot": 3,
+                  "classroom": "H-335(S)"
+                },
+                {
+                  "slot": 10,
+                  "classroom": "H-335"
+                },
+                {
+                  "slot": 35,
+                  "classroom": "H-335"
+                },
+                {
+                  "slot": 42,
+                  "classroom": "H-335"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "HART 440",
+          "name": "Readings in Anatolian Art and Archaeology",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Roland Ralph Redfern Smith",
+              "schedule": [
+                {
+                  "slot": 14,
+                  "classroom": "T-164(S)"
+                },
+                {
+                  "slot": 21,
+                  "classroom": "T-164"
+                },
+                {
+                  "slot": 51,
+                  "classroom": "T-164"
+                },
+                {
+                  "slot": 58,
+                  "classroom": "T-164"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "HART 501",
+          "name": "Issues in Archaeological Theory",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Emma Louise Baysal",
+              "schedule": [
+                {
+                  "slot": 18,
+                  "classroom": "H-133A(S)"
+                },
+                {
+                  "slot": 25,
+                  "classroom": "H-133A"
+                },
+                {
+                  "slot": 50,
+                  "classroom": "H-133A"
+                },
+                {
+                  "slot": 57,
+                  "classroom": "H-133A"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "HART 514",
+          "name": "Readings in Classical Archaeology",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Roland Ralph Redfern Smith",
+              "schedule": [
+                {
+                  "slot": 3,
+                  "classroom": "T-164(S)"
+                },
+                {
+                  "slot": 10,
+                  "classroom": "T-164"
+                },
+                {
+                  "slot": 35,
+                  "classroom": "T-164"
+                },
+                {
+                  "slot": 42,
+                  "classroom": "T-164"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "HART 543",
+          "name": "Hittite II",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "N. İlgi Gerçek",
+              "schedule": [
+                {
+                  "slot": 15,
+                  "classroom": "H-335"
+                },
+                {
+                  "slot": 22,
+                  "classroom": "H-335"
+                },
+                {
+                  "slot": 52,
+                  "classroom": "H-335"
+                },
+                {
+                  "slot": 59,
+                  "classroom": "H-335(S)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "HART 552",
+          "name": "Ancient Greek II",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Nathan Paul Leidholm",
+              "schedule": [
+                {
+                  "slot": 4,
+                  "classroom": "B-108(S)"
+                },
+                {
+                  "slot": 11,
+                  "classroom": "B-108"
+                },
+                {
+                  "slot": 36,
+                  "classroom": "B-108"
+                },
+                {
+                  "slot": 43,
+                  "classroom": "B-108"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "HART 564",
+          "name": "Latin II",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "N. İlgi Gerçek",
+              "schedule": [
+                {
+                  "slot": 18,
+                  "classroom": "H-334"
+                },
+                {
+                  "slot": 25,
+                  "classroom": "H-334"
+                },
+                {
+                  "slot": 50,
+                  "classroom": "H-334"
+                },
+                {
+                  "slot": 57,
+                  "classroom": "H-334(S)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "HART 590",
+          "name": "Seminar",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Staff",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "HART 599",
+          "name": "Master's Thesis",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Staff",
+              "schedule": []
             }
           ]
         }
@@ -28053,19 +28696,19 @@
               "schedule": [
                 {
                   "slot": 1,
-                  "classroom": "A-227(S)"
+                  "classroom": "FC-Z23B(S)"
                 },
                 {
                   "slot": 8,
-                  "classroom": "A-227"
+                  "classroom": "FC-Z23B"
                 },
                 {
                   "slot": 38,
-                  "classroom": "A-227"
+                  "classroom": "FC-Z23B"
                 },
                 {
                   "slot": 45,
-                  "classroom": "A-227"
+                  "classroom": "FC-Z23B"
                 }
               ]
             }
@@ -28829,6 +29472,4340 @@
                   "classroom": "FA-314"
                 }
               ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "LAW": {
+      "courses": [
+        {
+          "code": "LAW 102",
+          "name": "Roman Law",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Jakub Urbanik & Marzena Ewa Wojtczak",
+              "schedule": [
+                {
+                  "slot": 2,
+                  "classroom": "MA-101(S)"
+                },
+                {
+                  "slot": 9,
+                  "classroom": "MA-101"
+                },
+                {
+                  "slot": 39,
+                  "classroom": "MA-101"
+                },
+                {
+                  "slot": 46,
+                  "classroom": "MA-101"
+                },
+                {
+                  "slot": 63,
+                  "classroom": "MA-101"
+                },
+                {
+                  "slot": 70,
+                  "classroom": "MA-101"
+                },
+                {
+                  "slot": 77,
+                  "classroom": "MA-101"
+                },
+                {
+                  "slot": 84,
+                  "classroom": "MA-101"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "LAW 104",
+          "name": "Turkish Constitutional Law (in Turkish)",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Ece Göztepe Çelebi",
+              "schedule": [
+                {
+                  "slot": 2,
+                  "classroom": "SB-Z03(S)"
+                },
+                {
+                  "slot": 9,
+                  "classroom": "SB-Z03"
+                },
+                {
+                  "slot": 39,
+                  "classroom": "SB-Z03"
+                },
+                {
+                  "slot": 46,
+                  "classroom": "SB-Z03"
+                }
+              ]
+            },
+            {
+              "number": "2",
+              "instructor": "Zülfiye Yılmaz Yamaç",
+              "schedule": [
+                {
+                  "slot": 17,
+                  "classroom": "SB-Z03(S)"
+                },
+                {
+                  "slot": 24,
+                  "classroom": "SB-Z03"
+                },
+                {
+                  "slot": 49,
+                  "classroom": "SB-Z03"
+                },
+                {
+                  "slot": 56,
+                  "classroom": "SB-Z03"
+                }
+              ]
+            },
+            {
+              "number": "3",
+              "instructor": "Serkan Yolcu",
+              "schedule": [
+                {
+                  "slot": 4,
+                  "classroom": "FF-B06(S)"
+                },
+                {
+                  "slot": 11,
+                  "classroom": "FF-B06"
+                },
+                {
+                  "slot": 36,
+                  "classroom": "FF-B06"
+                },
+                {
+                  "slot": 43,
+                  "classroom": "FF-B06"
+                }
+              ]
+            },
+            {
+              "number": "4",
+              "instructor": "Serkan Yolcu",
+              "schedule": [
+                {
+                  "slot": 18,
+                  "classroom": "FF-B06"
+                },
+                {
+                  "slot": 25,
+                  "classroom": "FF-B06(S)"
+                },
+                {
+                  "slot": 50,
+                  "classroom": "FF-B06"
+                },
+                {
+                  "slot": 57,
+                  "classroom": "FF-B06"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "LAW 105",
+          "name": "Civil Law: Introductory Provisions and Natural Persons (in Turkish)",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Osman B. Gürzumar",
+              "schedule": [
+                {
+                  "slot": 0,
+                  "classroom": "T-272(S)"
+                },
+                {
+                  "slot": 7,
+                  "classroom": "T-272"
+                },
+                {
+                  "slot": 37,
+                  "classroom": "T-272"
+                },
+                {
+                  "slot": 44,
+                  "classroom": "T-272"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "LAW 106",
+          "name": "Legal Persons and Family Law (in Turkish)",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Pınar Altınok Ormancı",
+              "schedule": [
+                {
+                  "slot": 0,
+                  "classroom": "MA-101(S)"
+                },
+                {
+                  "slot": 7,
+                  "classroom": "MA-101"
+                },
+                {
+                  "slot": 37,
+                  "classroom": "MA-101"
+                },
+                {
+                  "slot": 44,
+                  "classroom": "MA-101"
+                }
+              ]
+            },
+            {
+              "number": "2",
+              "instructor": "Pınar Altınok Ormancı",
+              "schedule": [
+                {
+                  "slot": 14,
+                  "classroom": "MA-101"
+                },
+                {
+                  "slot": 21,
+                  "classroom": "MA-101"
+                },
+                {
+                  "slot": 51,
+                  "classroom": "MA-101"
+                },
+                {
+                  "slot": 58,
+                  "classroom": "MA-101(S)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "LAW 201",
+          "name": "Law of Obligations I (in Turkish)",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Vedat Buz",
+              "schedule": [
+                {
+                  "slot": 1,
+                  "classroom": "B-Z08(S)"
+                },
+                {
+                  "slot": 8,
+                  "classroom": "B-Z08"
+                },
+                {
+                  "slot": 38,
+                  "classroom": "B-Z08"
+                },
+                {
+                  "slot": 45,
+                  "classroom": "B-Z08"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "LAW 202",
+          "name": "Law of Obligations II (in Turkish)",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Başak Baysal",
+              "schedule": [
+                {
+                  "slot": 1,
+                  "classroom": "T-272"
+                },
+                {
+                  "slot": 8,
+                  "classroom": "T-272"
+                },
+                {
+                  "slot": 38,
+                  "classroom": "T-272"
+                },
+                {
+                  "slot": 45,
+                  "classroom": "T-272(S)"
+                }
+              ]
+            },
+            {
+              "number": "2",
+              "instructor": "Vedat Buz",
+              "schedule": [
+                {
+                  "slot": 15,
+                  "classroom": "B-Z08"
+                },
+                {
+                  "slot": 22,
+                  "classroom": "B-Z08"
+                },
+                {
+                  "slot": 52,
+                  "classroom": "B-Z08"
+                },
+                {
+                  "slot": 59,
+                  "classroom": "B-Z08(S)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "LAW 204",
+          "name": "Criminal Law II (in Turkish)",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Haluk Toroslu",
+              "schedule": [
+                {
+                  "slot": 3,
+                  "classroom": "B-206(S)"
+                },
+                {
+                  "slot": 10,
+                  "classroom": "B-206"
+                },
+                {
+                  "slot": 35,
+                  "classroom": "B-206"
+                },
+                {
+                  "slot": 42,
+                  "classroom": "B-206"
+                }
+              ]
+            },
+            {
+              "number": "2",
+              "instructor": "Haluk Toroslu",
+              "schedule": [
+                {
+                  "slot": 17,
+                  "classroom": "B-Z08(S)"
+                },
+                {
+                  "slot": 24,
+                  "classroom": "B-Z08"
+                },
+                {
+                  "slot": 49,
+                  "classroom": "B-Z08"
+                },
+                {
+                  "slot": 56,
+                  "classroom": "B-Z08"
+                }
+              ]
+            },
+            {
+              "number": "3",
+              "instructor": "Elif Gökşen Köstem",
+              "schedule": [
+                {
+                  "slot": 17,
+                  "classroom": "FF-B06"
+                },
+                {
+                  "slot": 24,
+                  "classroom": "FF-B06"
+                },
+                {
+                  "slot": 49,
+                  "classroom": "FF-B06"
+                },
+                {
+                  "slot": 56,
+                  "classroom": "FF-B06(S)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "LAW 206",
+          "name": "Administrative Judiciary (in Turkish)",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Elvin Evrim Dalkılıç",
+              "schedule": [
+                {
+                  "slot": 4,
+                  "classroom": "V-01(S)"
+                },
+                {
+                  "slot": 11,
+                  "classroom": "V-01"
+                },
+                {
+                  "slot": 36,
+                  "classroom": "V-01"
+                },
+                {
+                  "slot": 43,
+                  "classroom": "V-01"
+                }
+              ]
+            },
+            {
+              "number": "2",
+              "instructor": "Ali Dursun Ulusoy",
+              "schedule": [
+                {
+                  "slot": 3,
+                  "classroom": "V-01(S)"
+                },
+                {
+                  "slot": 10,
+                  "classroom": "V-01"
+                },
+                {
+                  "slot": 35,
+                  "classroom": "V-01"
+                },
+                {
+                  "slot": 42,
+                  "classroom": "V-01"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "LAW 210",
+          "name": "Basic Concepts of Law (in Turkish)",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Şemsi Barış Özçelik",
+              "schedule": [
+                {
+                  "slot": 16,
+                  "classroom": "V-03"
+                },
+                {
+                  "slot": 23,
+                  "classroom": "V-03"
+                },
+                {
+                  "slot": 53,
+                  "classroom": "V-03"
+                },
+                {
+                  "slot": 60,
+                  "classroom": "V-03(S)"
+                }
+              ]
+            },
+            {
+              "number": "2",
+              "instructor": "Hüseyin Can Aksoy",
+              "schedule": [
+                {
+                  "slot": 18,
+                  "classroom": "V-02"
+                },
+                {
+                  "slot": 25,
+                  "classroom": "V-02"
+                },
+                {
+                  "slot": 50,
+                  "classroom": "V-02"
+                },
+                {
+                  "slot": 57,
+                  "classroom": "V-02(S)"
+                }
+              ]
+            },
+            {
+              "number": "3",
+              "instructor": "Nazlı Nilay Dayanç Kuzeyli",
+              "schedule": [
+                {
+                  "slot": 0,
+                  "classroom": "B-203(S)"
+                },
+                {
+                  "slot": 7,
+                  "classroom": "B-203"
+                },
+                {
+                  "slot": 37,
+                  "classroom": "B-203"
+                },
+                {
+                  "slot": 44,
+                  "classroom": "B-203"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "LAW 211",
+          "name": "Basic Concepts of Law",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Pınar Çağlayan Aksoy",
+              "schedule": [
+                {
+                  "slot": 14,
+                  "classroom": "MA-301"
+                },
+                {
+                  "slot": 21,
+                  "classroom": "MA-301"
+                },
+                {
+                  "slot": 51,
+                  "classroom": "MA-301"
+                },
+                {
+                  "slot": 58,
+                  "classroom": "MA-301(S)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "LAW 216",
+          "name": "Introduction to Anglo-American Law",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Çağrı Gürkanlı",
+              "schedule": [
+                {
+                  "slot": 2,
+                  "classroom": "V-01"
+                },
+                {
+                  "slot": 9,
+                  "classroom": "V-01"
+                }
+              ]
+            },
+            {
+              "number": "2",
+              "instructor": "Nazlı Nilay Dayanç Kuzeyli",
+              "schedule": [
+                {
+                  "slot": 16,
+                  "classroom": "V-01"
+                },
+                {
+                  "slot": 23,
+                  "classroom": "V-01"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "LAW 302",
+          "name": "Civil Procedure II (in Turkish)",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Çağrı Mardin",
+              "schedule": [
+                {
+                  "slot": 1,
+                  "classroom": "V-01(S)"
+                },
+                {
+                  "slot": 8,
+                  "classroom": "V-01"
+                },
+                {
+                  "slot": 38,
+                  "classroom": "V-01"
+                },
+                {
+                  "slot": 45,
+                  "classroom": "V-01"
+                }
+              ]
+            },
+            {
+              "number": "2",
+              "instructor": "Çağrı Mardin",
+              "schedule": [
+                {
+                  "slot": 15,
+                  "classroom": "V-03"
+                },
+                {
+                  "slot": 22,
+                  "classroom": "V-03(S)"
+                },
+                {
+                  "slot": 52,
+                  "classroom": "V-03"
+                },
+                {
+                  "slot": 59,
+                  "classroom": "V-03"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "LAW 306",
+          "name": "Law of Property II (in Turkish)",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Şemsi Barış Özçelik",
+              "schedule": [
+                {
+                  "slot": 2,
+                  "classroom": "V-02(S)"
+                },
+                {
+                  "slot": 9,
+                  "classroom": "V-02"
+                },
+                {
+                  "slot": 39,
+                  "classroom": "V-02"
+                },
+                {
+                  "slot": 46,
+                  "classroom": "V-02"
+                }
+              ]
+            },
+            {
+              "number": "2",
+              "instructor": "Hüseyin Can Aksoy",
+              "schedule": [
+                {
+                  "slot": 4,
+                  "classroom": "V-02(S)"
+                },
+                {
+                  "slot": 11,
+                  "classroom": "V-02"
+                },
+                {
+                  "slot": 36,
+                  "classroom": "V-02"
+                },
+                {
+                  "slot": 43,
+                  "classroom": "V-02"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "LAW 308",
+          "name": "Company Law (in Turkish)",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Mehmet Çağlar Manavgat",
+              "schedule": [
+                {
+                  "slot": 3,
+                  "classroom": "V-02(S)"
+                },
+                {
+                  "slot": 10,
+                  "classroom": "V-02"
+                },
+                {
+                  "slot": 35,
+                  "classroom": "V-02"
+                },
+                {
+                  "slot": 42,
+                  "classroom": "V-02"
+                }
+              ]
+            },
+            {
+              "number": "2",
+              "instructor": "Murat Gürel",
+              "schedule": [
+                {
+                  "slot": 0,
+                  "classroom": "V-03(S)"
+                },
+                {
+                  "slot": 7,
+                  "classroom": "V-03"
+                },
+                {
+                  "slot": 37,
+                  "classroom": "V-03"
+                },
+                {
+                  "slot": 44,
+                  "classroom": "V-03"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "LAW 313",
+          "name": "Business Law (in Turkish)",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Bilgin Tiryakioğlu",
+              "schedule": [
+                {
+                  "slot": 18,
+                  "classroom": "B-203(S)"
+                },
+                {
+                  "slot": 25,
+                  "classroom": "B-203"
+                },
+                {
+                  "slot": 50,
+                  "classroom": "B-203"
+                },
+                {
+                  "slot": 57,
+                  "classroom": "B-203"
+                }
+              ]
+            },
+            {
+              "number": "2",
+              "instructor": "Pınar Başak Coşkun",
+              "schedule": [
+                {
+                  "slot": 1,
+                  "classroom": "B-109(S)"
+                },
+                {
+                  "slot": 8,
+                  "classroom": "B-109"
+                },
+                {
+                  "slot": 38,
+                  "classroom": "B-109"
+                },
+                {
+                  "slot": 45,
+                  "classroom": "B-109"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "LAW 315",
+          "name": "Administrative Law (in Turkish)",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Dilşad Çiğdem Sever",
+              "schedule": [
+                {
+                  "slot": 14,
+                  "classroom": "B-107(S)"
+                },
+                {
+                  "slot": 21,
+                  "classroom": "B-107"
+                },
+                {
+                  "slot": 51,
+                  "classroom": "B-107"
+                },
+                {
+                  "slot": 58,
+                  "classroom": "B-107"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "LAW 320",
+          "name": "Legal Aspects of Blockchain, Crypto Assets and Smart Contracts",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Pınar Çağlayan Aksoy",
+              "schedule": [
+                {
+                  "slot": 0,
+                  "classroom": "MA-105(S)"
+                },
+                {
+                  "slot": 7,
+                  "classroom": "MA-105"
+                },
+                {
+                  "slot": 37,
+                  "classroom": "MA-105"
+                },
+                {
+                  "slot": 44,
+                  "classroom": "MA-105"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "LAW 358",
+          "name": "Criminal Law Special Provisions (in Turkish)",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Haluk Toroslu",
+              "schedule": [
+                {
+                  "slot": 1,
+                  "classroom": "FF-B06(S)"
+                },
+                {
+                  "slot": 8,
+                  "classroom": "FF-B06"
+                },
+                {
+                  "slot": 38,
+                  "classroom": "FF-B06"
+                },
+                {
+                  "slot": 45,
+                  "classroom": "FF-B06"
+                }
+              ]
+            },
+            {
+              "number": "2",
+              "instructor": "Elif Gökşen Köstem",
+              "schedule": [
+                {
+                  "slot": 3,
+                  "classroom": "FF-B06(S)"
+                },
+                {
+                  "slot": 10,
+                  "classroom": "FF-B06"
+                },
+                {
+                  "slot": 35,
+                  "classroom": "FF-B06"
+                },
+                {
+                  "slot": 42,
+                  "classroom": "FF-B06"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "LAW 366",
+          "name": "Legal Sociology(in Turkish)",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Elif Küzeci Erol",
+              "schedule": [
+                {
+                  "slot": 14,
+                  "classroom": "B-108"
+                },
+                {
+                  "slot": 21,
+                  "classroom": "B-108"
+                },
+                {
+                  "slot": 51,
+                  "classroom": "B-108"
+                },
+                {
+                  "slot": 58,
+                  "classroom": "B-108(S)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "LAW 384",
+          "name": "Criminology (in Turkish)",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Haluk Toroslu",
+              "schedule": [
+                {
+                  "slot": 15,
+                  "classroom": "FF-B06(S)"
+                },
+                {
+                  "slot": 22,
+                  "classroom": "FF-B06"
+                },
+                {
+                  "slot": 52,
+                  "classroom": "FF-B06"
+                },
+                {
+                  "slot": 59,
+                  "classroom": "FF-B06"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "LAW 396",
+          "name": "Equality Law (in Turkish)",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Zülfiye Yılmaz Yamaç",
+              "schedule": [
+                {
+                  "slot": 3,
+                  "classroom": "SB-Z03(S)"
+                },
+                {
+                  "slot": 10,
+                  "classroom": "SB-Z03"
+                },
+                {
+                  "slot": 35,
+                  "classroom": "SB-Z03"
+                },
+                {
+                  "slot": 42,
+                  "classroom": "SB-Z03"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "LAW 405",
+          "name": "International Human Rights Law",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Ayşe Dicle Ergin",
+              "schedule": [
+                {
+                  "slot": 18,
+                  "classroom": "V-04"
+                },
+                {
+                  "slot": 25,
+                  "classroom": "V-04"
+                },
+                {
+                  "slot": 50,
+                  "classroom": "V-04"
+                },
+                {
+                  "slot": 57,
+                  "classroom": "V-04(S)"
+                }
+              ]
+            },
+            {
+              "number": "2",
+              "instructor": "Muhittin Gönenç Hacaloğlu",
+              "schedule": [
+                {
+                  "slot": 50,
+                  "classroom": "SB-Z03"
+                },
+                {
+                  "slot": 57,
+                  "classroom": "SB-Z03"
+                },
+                {
+                  "slot": 64,
+                  "classroom": "SB-Z03"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "LAW 406",
+          "name": "International Commercial Arbitration",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Paolo Michele Patocchi",
+              "schedule": [
+                {
+                  "slot": 17,
+                  "classroom": "V-04"
+                },
+                {
+                  "slot": 24,
+                  "classroom": "V-04"
+                },
+                {
+                  "slot": 49,
+                  "classroom": "V-04"
+                },
+                {
+                  "slot": 56,
+                  "classroom": "V-04"
+                }
+              ]
+            },
+            {
+              "number": "2",
+              "instructor": "Paolo Michele Patocchi",
+              "schedule": [
+                {
+                  "slot": 15,
+                  "classroom": "V-01"
+                },
+                {
+                  "slot": 22,
+                  "classroom": "V-01"
+                },
+                {
+                  "slot": 52,
+                  "classroom": "V-01"
+                },
+                {
+                  "slot": 59,
+                  "classroom": "V-01"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "LAW 407",
+          "name": "Tax Law (in Turkish)",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Alara Efsun Yazıcıoğlu",
+              "schedule": [
+                {
+                  "slot": 16,
+                  "classroom": "V-04"
+                },
+                {
+                  "slot": 23,
+                  "classroom": "V-04"
+                },
+                {
+                  "slot": 53,
+                  "classroom": "V-04"
+                },
+                {
+                  "slot": 60,
+                  "classroom": "V-04(S)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "LAW 410",
+          "name": "Enforcement and Bankruptcy Law (in Turkish)",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Emel Hanağası",
+              "schedule": [
+                {
+                  "slot": 0,
+                  "classroom": "V-01(S)"
+                },
+                {
+                  "slot": 7,
+                  "classroom": "V-01"
+                },
+                {
+                  "slot": 37,
+                  "classroom": "V-01"
+                },
+                {
+                  "slot": 44,
+                  "classroom": "V-01"
+                }
+              ]
+            },
+            {
+              "number": "2",
+              "instructor": "Emel Hanağası",
+              "schedule": [
+                {
+                  "slot": 14,
+                  "classroom": "V-01(S)"
+                },
+                {
+                  "slot": 21,
+                  "classroom": "V-01"
+                },
+                {
+                  "slot": 51,
+                  "classroom": "V-01"
+                },
+                {
+                  "slot": 58,
+                  "classroom": "V-01"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "LAW 412",
+          "name": "Labor Law (in Turkish)",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Levent Akın",
+              "schedule": [
+                {
+                  "slot": 2,
+                  "classroom": "B-206(S)"
+                },
+                {
+                  "slot": 9,
+                  "classroom": "B-206"
+                },
+                {
+                  "slot": 39,
+                  "classroom": "B-206"
+                },
+                {
+                  "slot": 46,
+                  "classroom": "B-206"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "LAW 423",
+          "name": "Law of Capital Markets (in Turkish)",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Mehmet Çağlar Manavgat",
+              "schedule": [
+                {
+                  "slot": 17,
+                  "classroom": "B-Z04"
+                },
+                {
+                  "slot": 24,
+                  "classroom": "B-Z04"
+                },
+                {
+                  "slot": 49,
+                  "classroom": "B-Z04"
+                },
+                {
+                  "slot": 56,
+                  "classroom": "B-Z04(S)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "LAW 451",
+          "name": "Moot Court III",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Elif Küzeci Erol",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "LAW 475",
+          "name": "Financial Technologies Law (FinTech Law)",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Deniz Baytemür Köksal",
+              "schedule": [
+                {
+                  "slot": 18,
+                  "classroom": "B-104(S)"
+                },
+                {
+                  "slot": 25,
+                  "classroom": "B-104"
+                },
+                {
+                  "slot": 50,
+                  "classroom": "B-104"
+                },
+                {
+                  "slot": 57,
+                  "classroom": "B-104"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "LAW 482",
+          "name": "European and International Migration Law (in Turkish)",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Gülüm Özçelik",
+              "schedule": [
+                {
+                  "slot": 1,
+                  "classroom": "B-203(S)"
+                },
+                {
+                  "slot": 8,
+                  "classroom": "B-203"
+                },
+                {
+                  "slot": 38,
+                  "classroom": "B-203"
+                },
+                {
+                  "slot": 45,
+                  "classroom": "B-203"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "LAW 507",
+          "name": "Public Economic Law  (in Turkish)",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Elvin Evrim Dalkılıç",
+              "schedule": [
+                {
+                  "slot": 18,
+                  "classroom": "V-01(S)"
+                },
+                {
+                  "slot": 25,
+                  "classroom": "V-01"
+                },
+                {
+                  "slot": 50,
+                  "classroom": "V-01"
+                },
+                {
+                  "slot": 57,
+                  "classroom": "V-01"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "LAW 514",
+          "name": "Data Protection Law (in Turkish)",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Elif Küzeci Erol",
+              "schedule": [
+                {
+                  "slot": 0,
+                  "classroom": "B-Z01(S)"
+                },
+                {
+                  "slot": 7,
+                  "classroom": "B-Z01"
+                },
+                {
+                  "slot": 37,
+                  "classroom": "B-Z01"
+                },
+                {
+                  "slot": 44,
+                  "classroom": "B-Z01"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "LAW 571",
+          "name": "Law Applicable to Contractual Obligations (in Turkish)",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Bilgin Tiryakioğlu",
+              "schedule": [
+                {
+                  "slot": 4,
+                  "classroom": "B-106(S)"
+                },
+                {
+                  "slot": 11,
+                  "classroom": "B-106"
+                },
+                {
+                  "slot": 36,
+                  "classroom": "B-106"
+                },
+                {
+                  "slot": 43,
+                  "classroom": "B-106"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "LAW 590",
+          "name": "Pre-Thesis Seminar",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Elif Küzeci Erol",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "LAW 599",
+          "name": "Master's Thesis",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Elif Küzeci Erol",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "LAW 624",
+          "name": "International Procedure (in Turkish)",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Gülüm Özçelik",
+              "schedule": [
+                {
+                  "slot": 15,
+                  "classroom": "B-Z07"
+                },
+                {
+                  "slot": 22,
+                  "classroom": "B-Z07"
+                },
+                {
+                  "slot": 52,
+                  "classroom": "B-Z07"
+                },
+                {
+                  "slot": 59,
+                  "classroom": "B-Z07(S)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "LAW 633",
+          "name": "Individual Application to the Constitutional Court (Merits and Procedure) (in Turkish)",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Ece Göztepe Çelebi",
+              "schedule": [
+                {
+                  "slot": 16,
+                  "classroom": "B-207(S)"
+                },
+                {
+                  "slot": 23,
+                  "classroom": "B-207"
+                },
+                {
+                  "slot": 53,
+                  "classroom": "B-207"
+                },
+                {
+                  "slot": 60,
+                  "classroom": "B-207"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "LAW 689",
+          "name": "Pre-Thesis Seminar",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Elif Küzeci Erol",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "LAW 699",
+          "name": "Ph.D. Dissertation",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Elif Küzeci Erol",
+              "schedule": []
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "LNG": {
+      "courses": [
+        {
+          "code": "LNG 111",
+          "name": "Spanish I",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Özlem Doğan",
+              "schedule": [
+                {
+                  "slot": 0,
+                  "classroom": "G-134"
+                },
+                {
+                  "slot": 7,
+                  "classroom": "G-134"
+                },
+                {
+                  "slot": 37,
+                  "classroom": "G-134"
+                },
+                {
+                  "slot": 44,
+                  "classroom": "G-134"
+                }
+              ]
+            },
+            {
+              "number": "2",
+              "instructor": "Ana Belen Lainez Arboledas",
+              "schedule": [
+                {
+                  "slot": 4,
+                  "classroom": "G-131"
+                },
+                {
+                  "slot": 11,
+                  "classroom": "G-131"
+                },
+                {
+                  "slot": 36,
+                  "classroom": "G-131"
+                },
+                {
+                  "slot": 43,
+                  "classroom": "G-131"
+                }
+              ]
+            },
+            {
+              "number": "3",
+              "instructor": "Ana Belen Lainez Arboledas",
+              "schedule": [
+                {
+                  "slot": 2,
+                  "classroom": "G-Z06"
+                },
+                {
+                  "slot": 9,
+                  "classroom": "G-Z06"
+                },
+                {
+                  "slot": 39,
+                  "classroom": "G-Z06"
+                },
+                {
+                  "slot": 46,
+                  "classroom": "G-Z06"
+                }
+              ]
+            },
+            {
+              "number": "4",
+              "instructor": "Ana Belen Lainez Arboledas",
+              "schedule": [
+                {
+                  "slot": 16,
+                  "classroom": "G-231"
+                },
+                {
+                  "slot": 23,
+                  "classroom": "G-231"
+                },
+                {
+                  "slot": 53,
+                  "classroom": "G-231"
+                },
+                {
+                  "slot": 60,
+                  "classroom": "G-231"
+                }
+              ]
+            },
+            {
+              "number": "5",
+              "instructor": "Yağmur Cevger Zorlu",
+              "schedule": [
+                {
+                  "slot": 4,
+                  "classroom": "G-Z37"
+                },
+                {
+                  "slot": 11,
+                  "classroom": "G-Z37"
+                },
+                {
+                  "slot": 36,
+                  "classroom": "G-Z37"
+                },
+                {
+                  "slot": 43,
+                  "classroom": "G-Z37"
+                }
+              ]
+            },
+            {
+              "number": "6",
+              "instructor": "Yağmur Cevger Zorlu",
+              "schedule": [
+                {
+                  "slot": 18,
+                  "classroom": "G-Z35"
+                },
+                {
+                  "slot": 25,
+                  "classroom": "G-Z35"
+                },
+                {
+                  "slot": 50,
+                  "classroom": "G-Z35"
+                },
+                {
+                  "slot": 57,
+                  "classroom": "G-Z35"
+                }
+              ]
+            },
+            {
+              "number": "7",
+              "instructor": "Hüseyin Güngör Şahin",
+              "schedule": [
+                {
+                  "slot": 3,
+                  "classroom": "G-228"
+                },
+                {
+                  "slot": 10,
+                  "classroom": "G-228"
+                },
+                {
+                  "slot": 35,
+                  "classroom": "G-228"
+                },
+                {
+                  "slot": 42,
+                  "classroom": "G-228"
+                }
+              ]
+            },
+            {
+              "number": "8",
+              "instructor": "Hüseyin Güngör Şahin",
+              "schedule": [
+                {
+                  "slot": 15,
+                  "classroom": "G-B40"
+                },
+                {
+                  "slot": 22,
+                  "classroom": "G-B40"
+                },
+                {
+                  "slot": 52,
+                  "classroom": "G-B40"
+                },
+                {
+                  "slot": 59,
+                  "classroom": "G-B40"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "LNG 112",
+          "name": "Spanish II",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Ana Belen Lainez Arboledas",
+              "schedule": [
+                {
+                  "slot": 15,
+                  "classroom": "G-Z06"
+                },
+                {
+                  "slot": 22,
+                  "classroom": "G-Z06"
+                },
+                {
+                  "slot": 52,
+                  "classroom": "G-Z06"
+                },
+                {
+                  "slot": 59,
+                  "classroom": "G-Z06"
+                }
+              ]
+            },
+            {
+              "number": "2",
+              "instructor": "Hüseyin Güngör Şahin",
+              "schedule": [
+                {
+                  "slot": 17,
+                  "classroom": "G-228"
+                },
+                {
+                  "slot": 24,
+                  "classroom": "G-228"
+                },
+                {
+                  "slot": 49,
+                  "classroom": "G-228"
+                },
+                {
+                  "slot": 56,
+                  "classroom": "G-228"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "LNG 113",
+          "name": "Spanish III",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Yağmur Cevger Zorlu",
+              "schedule": [
+                {
+                  "slot": 15,
+                  "classroom": "G-Z36"
+                },
+                {
+                  "slot": 22,
+                  "classroom": "G-Z36"
+                },
+                {
+                  "slot": 52,
+                  "classroom": "G-Z36"
+                },
+                {
+                  "slot": 59,
+                  "classroom": "G-Z36"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "LNG 114",
+          "name": "Intermediate Spanish I",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Özlem Doğan",
+              "schedule": [
+                {
+                  "slot": 4,
+                  "classroom": "G-Z55"
+                },
+                {
+                  "slot": 11,
+                  "classroom": "G-Z55"
+                },
+                {
+                  "slot": 36,
+                  "classroom": "G-Z55"
+                },
+                {
+                  "slot": 43,
+                  "classroom": "G-Z55"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "LNG 115",
+          "name": "Intermediate Spanish II",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Özlem Doğan",
+              "schedule": [
+                {
+                  "slot": 15,
+                  "classroom": "G-155"
+                },
+                {
+                  "slot": 22,
+                  "classroom": "G-155"
+                },
+                {
+                  "slot": 52,
+                  "classroom": "G-155"
+                },
+                {
+                  "slot": 59,
+                  "classroom": "G-155"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "LNG 121",
+          "name": "French I",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Betül Bostan",
+              "schedule": [
+                {
+                  "slot": 4,
+                  "classroom": "G-228"
+                },
+                {
+                  "slot": 11,
+                  "classroom": "G-228"
+                },
+                {
+                  "slot": 36,
+                  "classroom": "G-228"
+                },
+                {
+                  "slot": 43,
+                  "classroom": "G-228"
+                }
+              ]
+            },
+            {
+              "number": "2",
+              "instructor": "Betül Bostan",
+              "schedule": [
+                {
+                  "slot": 16,
+                  "classroom": "G-Z07"
+                },
+                {
+                  "slot": 23,
+                  "classroom": "G-Z07"
+                },
+                {
+                  "slot": 53,
+                  "classroom": "G-Z07"
+                },
+                {
+                  "slot": 60,
+                  "classroom": "G-Z07"
+                }
+              ]
+            },
+            {
+              "number": "3",
+              "instructor": "Emine Şeyma Tekelioğlu",
+              "schedule": [
+                {
+                  "slot": 3,
+                  "classroom": "G-B07"
+                },
+                {
+                  "slot": 10,
+                  "classroom": "G-B07"
+                },
+                {
+                  "slot": 35,
+                  "classroom": "G-B07"
+                },
+                {
+                  "slot": 42,
+                  "classroom": "G-B07"
+                }
+              ]
+            },
+            {
+              "number": "4",
+              "instructor": "Emine Şeyma Tekelioğlu",
+              "schedule": [
+                {
+                  "slot": 15,
+                  "classroom": "G-106"
+                },
+                {
+                  "slot": 22,
+                  "classroom": "G-106"
+                },
+                {
+                  "slot": 52,
+                  "classroom": "G-106"
+                },
+                {
+                  "slot": 59,
+                  "classroom": "G-106"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "LNG 122",
+          "name": "French II",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Emine Şeyma Tekelioğlu",
+              "schedule": [
+                {
+                  "slot": 17,
+                  "classroom": "G-Z37"
+                },
+                {
+                  "slot": 24,
+                  "classroom": "G-Z37"
+                },
+                {
+                  "slot": 49,
+                  "classroom": "G-Z37"
+                },
+                {
+                  "slot": 56,
+                  "classroom": "G-Z37"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "LNG 123",
+          "name": "French III",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Betül Bostan",
+              "schedule": [
+                {
+                  "slot": 14,
+                  "classroom": "G-Z06"
+                },
+                {
+                  "slot": 21,
+                  "classroom": "G-Z06"
+                },
+                {
+                  "slot": 51,
+                  "classroom": "G-Z06"
+                },
+                {
+                  "slot": 58,
+                  "classroom": "G-Z06"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "LNG 124",
+          "name": "Intermediate French I",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Betül Bostan",
+              "schedule": [
+                {
+                  "slot": 0,
+                  "classroom": "G-Z36"
+                },
+                {
+                  "slot": 7,
+                  "classroom": "G-Z36"
+                },
+                {
+                  "slot": 37,
+                  "classroom": "G-Z36"
+                },
+                {
+                  "slot": 44,
+                  "classroom": "G-Z36"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "LNG 131",
+          "name": "German I",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Pierre Yves Vandermeersch",
+              "schedule": [
+                {
+                  "slot": 14,
+                  "classroom": "G-131"
+                },
+                {
+                  "slot": 21,
+                  "classroom": "G-131"
+                },
+                {
+                  "slot": 51,
+                  "classroom": "G-131"
+                },
+                {
+                  "slot": 58,
+                  "classroom": "G-131"
+                }
+              ]
+            },
+            {
+              "number": "2",
+              "instructor": "Merve Yıldırım",
+              "schedule": [
+                {
+                  "slot": 15,
+                  "classroom": "G-227"
+                },
+                {
+                  "slot": 22,
+                  "classroom": "G-227"
+                },
+                {
+                  "slot": 52,
+                  "classroom": "G-227"
+                },
+                {
+                  "slot": 59,
+                  "classroom": "G-227"
+                }
+              ]
+            },
+            {
+              "number": "3",
+              "instructor": "Pierre Yves Vandermeersch",
+              "schedule": [
+                {
+                  "slot": 4,
+                  "classroom": "H-334"
+                },
+                {
+                  "slot": 11,
+                  "classroom": "H-334"
+                },
+                {
+                  "slot": 36,
+                  "classroom": "H-334"
+                },
+                {
+                  "slot": 43,
+                  "classroom": "H-334"
+                }
+              ]
+            },
+            {
+              "number": "4",
+              "instructor": "Merve Yıldırım",
+              "schedule": [
+                {
+                  "slot": 2,
+                  "classroom": "G-Z10"
+                },
+                {
+                  "slot": 9,
+                  "classroom": "G-Z10"
+                },
+                {
+                  "slot": 39,
+                  "classroom": "G-Z10"
+                },
+                {
+                  "slot": 46,
+                  "classroom": "G-Z10"
+                }
+              ]
+            },
+            {
+              "number": "5",
+              "instructor": "Merve Yıldırım",
+              "schedule": [
+                {
+                  "slot": 16,
+                  "classroom": "G-B07"
+                },
+                {
+                  "slot": 23,
+                  "classroom": "G-B07"
+                },
+                {
+                  "slot": 53,
+                  "classroom": "G-B07"
+                },
+                {
+                  "slot": 60,
+                  "classroom": "G-B07"
+                }
+              ]
+            },
+            {
+              "number": "6",
+              "instructor": "Pierre Yves Vandermeersch",
+              "schedule": [
+                {
+                  "slot": 3,
+                  "classroom": "G-Z09"
+                },
+                {
+                  "slot": 10,
+                  "classroom": "G-Z09"
+                },
+                {
+                  "slot": 35,
+                  "classroom": "G-Z09"
+                },
+                {
+                  "slot": 42,
+                  "classroom": "G-Z09"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "LNG 132",
+          "name": "German II",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Pierre Yves Vandermeersch",
+              "schedule": [
+                {
+                  "slot": 18,
+                  "classroom": "G-B07"
+                },
+                {
+                  "slot": 25,
+                  "classroom": "G-B07"
+                },
+                {
+                  "slot": 50,
+                  "classroom": "G-B07"
+                },
+                {
+                  "slot": 57,
+                  "classroom": "G-B07"
+                }
+              ]
+            },
+            {
+              "number": "2",
+              "instructor": "İlknur Garbioğlu",
+              "schedule": [
+                {
+                  "slot": 14,
+                  "classroom": "G-Z36"
+                },
+                {
+                  "slot": 21,
+                  "classroom": "G-Z36"
+                },
+                {
+                  "slot": 51,
+                  "classroom": "G-Z36"
+                },
+                {
+                  "slot": 58,
+                  "classroom": "G-Z36"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "LNG 133",
+          "name": "German III",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "İlknur Garbioğlu",
+              "schedule": [
+                {
+                  "slot": 3,
+                  "classroom": "G-206"
+                },
+                {
+                  "slot": 10,
+                  "classroom": "G-206"
+                },
+                {
+                  "slot": 35,
+                  "classroom": "G-206"
+                },
+                {
+                  "slot": 42,
+                  "classroom": "G-206"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "LNG 134",
+          "name": "Intermediate German I",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "İlknur Garbioğlu",
+              "schedule": [
+                {
+                  "slot": 4,
+                  "classroom": "G-Z10"
+                },
+                {
+                  "slot": 11,
+                  "classroom": "G-Z10"
+                },
+                {
+                  "slot": 36,
+                  "classroom": "G-Z10"
+                },
+                {
+                  "slot": 43,
+                  "classroom": "G-Z10"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "LNG 141",
+          "name": "Italian I",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Nilay Kanarya",
+              "schedule": [
+                {
+                  "slot": 0,
+                  "classroom": "G-227"
+                },
+                {
+                  "slot": 7,
+                  "classroom": "G-227"
+                },
+                {
+                  "slot": 37,
+                  "classroom": "G-227"
+                },
+                {
+                  "slot": 44,
+                  "classroom": "G-227"
+                }
+              ]
+            },
+            {
+              "number": "2",
+              "instructor": "Nilay Kanarya",
+              "schedule": [
+                {
+                  "slot": 15,
+                  "classroom": "G-134"
+                },
+                {
+                  "slot": 22,
+                  "classroom": "G-134"
+                },
+                {
+                  "slot": 52,
+                  "classroom": "G-134"
+                },
+                {
+                  "slot": 59,
+                  "classroom": "G-134"
+                }
+              ]
+            },
+            {
+              "number": "3",
+              "instructor": "Nilay Kanarya",
+              "schedule": [
+                {
+                  "slot": 4,
+                  "classroom": "G-136"
+                },
+                {
+                  "slot": 11,
+                  "classroom": "G-136"
+                },
+                {
+                  "slot": 36,
+                  "classroom": "G-136"
+                },
+                {
+                  "slot": 43,
+                  "classroom": "G-136"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "LNG 142",
+          "name": "Italian II",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Nilay Kanarya",
+              "schedule": [
+                {
+                  "slot": 18,
+                  "classroom": "G-Z07"
+                },
+                {
+                  "slot": 25,
+                  "classroom": "G-Z07"
+                },
+                {
+                  "slot": 50,
+                  "classroom": "G-Z07"
+                },
+                {
+                  "slot": 57,
+                  "classroom": "G-Z07"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "LNG 161",
+          "name": "Russian I",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Gülnara Tanrıkulu",
+              "schedule": [
+                {
+                  "slot": 15,
+                  "classroom": "G-229"
+                },
+                {
+                  "slot": 22,
+                  "classroom": "G-229"
+                },
+                {
+                  "slot": 52,
+                  "classroom": "G-229"
+                },
+                {
+                  "slot": 59,
+                  "classroom": "G-229"
+                }
+              ]
+            },
+            {
+              "number": "2",
+              "instructor": "Gülnara Tanrıkulu",
+              "schedule": [
+                {
+                  "slot": 2,
+                  "classroom": "G-Z38"
+                },
+                {
+                  "slot": 9,
+                  "classroom": "G-Z38"
+                },
+                {
+                  "slot": 39,
+                  "classroom": "G-Z38"
+                },
+                {
+                  "slot": 46,
+                  "classroom": "G-Z38"
+                }
+              ]
+            },
+            {
+              "number": "3",
+              "instructor": "Gülnara Tanrıkulu",
+              "schedule": [
+                {
+                  "slot": 4,
+                  "classroom": "G-Z54"
+                },
+                {
+                  "slot": 11,
+                  "classroom": "G-Z54"
+                },
+                {
+                  "slot": 36,
+                  "classroom": "G-Z54"
+                },
+                {
+                  "slot": 43,
+                  "classroom": "G-Z54"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "LNG 162",
+          "name": "Russian II",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Gülnara Tanrıkulu",
+              "schedule": [
+                {
+                  "slot": 14,
+                  "classroom": "G-Z39"
+                },
+                {
+                  "slot": 21,
+                  "classroom": "G-Z39"
+                },
+                {
+                  "slot": 51,
+                  "classroom": "G-Z39"
+                },
+                {
+                  "slot": 58,
+                  "classroom": "G-Z39"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "LNG 163",
+          "name": "Russian III",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Gülnara Tanrıkulu",
+              "schedule": [
+                {
+                  "slot": 3,
+                  "classroom": "G-132"
+                },
+                {
+                  "slot": 10,
+                  "classroom": "G-132"
+                },
+                {
+                  "slot": 35,
+                  "classroom": "G-132"
+                },
+                {
+                  "slot": 42,
+                  "classroom": "G-132"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "LNG 171",
+          "name": "Turkish I",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Özlem Aksu Kurtoğlu",
+              "schedule": [
+                {
+                  "slot": 14,
+                  "classroom": "G-Z37"
+                },
+                {
+                  "slot": 21,
+                  "classroom": "G-Z37"
+                },
+                {
+                  "slot": 51,
+                  "classroom": "G-Z37"
+                },
+                {
+                  "slot": 58,
+                  "classroom": "G-Z37"
+                }
+              ]
+            },
+            {
+              "number": "2",
+              "instructor": "Özlem Aksu Kurtoğlu",
+              "schedule": [
+                {
+                  "slot": 18,
+                  "classroom": "G-Z53"
+                },
+                {
+                  "slot": 25,
+                  "classroom": "G-Z53"
+                },
+                {
+                  "slot": 50,
+                  "classroom": "G-Z53"
+                },
+                {
+                  "slot": 57,
+                  "classroom": "G-Z53"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "LNG 172",
+          "name": "Turkish II",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Özlem Aksu Kurtoğlu",
+              "schedule": [
+                {
+                  "slot": 3,
+                  "classroom": "G-232"
+                },
+                {
+                  "slot": 10,
+                  "classroom": "G-232"
+                },
+                {
+                  "slot": 35,
+                  "classroom": "G-232"
+                },
+                {
+                  "slot": 42,
+                  "classroom": "G-232"
+                }
+              ]
+            },
+            {
+              "number": "2",
+              "instructor": "Özlem Aksu Kurtoğlu",
+              "schedule": [
+                {
+                  "slot": 15,
+                  "classroom": "G-228"
+                },
+                {
+                  "slot": 22,
+                  "classroom": "G-228"
+                },
+                {
+                  "slot": 52,
+                  "classroom": "G-228"
+                },
+                {
+                  "slot": 59,
+                  "classroom": "G-228"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "LNG 173",
+          "name": "Turkish III",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Nurbanu Aydın",
+              "schedule": [
+                {
+                  "slot": 64,
+                  "classroom": "G-Z10"
+                },
+                {
+                  "slot": 66,
+                  "classroom": "G-Z10"
+                },
+                {
+                  "slot": 71,
+                  "classroom": "G-Z10"
+                },
+                {
+                  "slot": 73,
+                  "classroom": "G-Z10"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "LNG 174",
+          "name": "Intermediate Turkish I",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Nurbanu Aydın",
+              "schedule": [
+                {
+                  "slot": 63,
+                  "classroom": "G-Z38"
+                },
+                {
+                  "slot": 65,
+                  "classroom": "G-Z38"
+                },
+                {
+                  "slot": 70,
+                  "classroom": "G-Z38"
+                },
+                {
+                  "slot": 72,
+                  "classroom": "G-Z38"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "LNG 179",
+          "name": "Advanced Turkish II",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Nurbanu Aydın",
+              "schedule": [
+                {
+                  "slot": 15,
+                  "classroom": "MA-103"
+                },
+                {
+                  "slot": 22,
+                  "classroom": "MA-103"
+                },
+                {
+                  "slot": 52,
+                  "classroom": "MA-103"
+                },
+                {
+                  "slot": 59,
+                  "classroom": "MA-103"
+                }
+              ]
+            },
+            {
+              "number": "2",
+              "instructor": "Nurbanu Aydın",
+              "schedule": [
+                {
+                  "slot": 17,
+                  "classroom": "G-Z10"
+                },
+                {
+                  "slot": 24,
+                  "classroom": "G-Z10"
+                },
+                {
+                  "slot": 49,
+                  "classroom": "G-Z10"
+                },
+                {
+                  "slot": 56,
+                  "classroom": "G-Z10"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "LNG 191",
+          "name": "Arabic I",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Mahmut Kalkan",
+              "schedule": [
+                {
+                  "slot": 4,
+                  "classroom": "G-207"
+                },
+                {
+                  "slot": 11,
+                  "classroom": "G-207"
+                },
+                {
+                  "slot": 36,
+                  "classroom": "G-207"
+                },
+                {
+                  "slot": 43,
+                  "classroom": "G-207"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "LNG 221",
+          "name": "Chinese I",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Duygu Sarıkaya İrim",
+              "schedule": [
+                {
+                  "slot": 15,
+                  "classroom": ""
+                },
+                {
+                  "slot": 22,
+                  "classroom": ""
+                },
+                {
+                  "slot": 52,
+                  "classroom": ""
+                },
+                {
+                  "slot": 59,
+                  "classroom": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "LNG 231",
+          "name": "Korean I",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Derya Çelik Işık",
+              "schedule": [
+                {
+                  "slot": 4,
+                  "classroom": "G-Z52"
+                },
+                {
+                  "slot": 11,
+                  "classroom": "G-Z52"
+                },
+                {
+                  "slot": 36,
+                  "classroom": "G-Z52"
+                },
+                {
+                  "slot": 43,
+                  "classroom": "G-Z52"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "LNG 241",
+          "name": "Japanese I",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Masumi Hiratsuka",
+              "schedule": [
+                {
+                  "slot": 3,
+                  "classroom": "G-254"
+                },
+                {
+                  "slot": 10,
+                  "classroom": "G-254"
+                },
+                {
+                  "slot": 35,
+                  "classroom": "G-254"
+                },
+                {
+                  "slot": 42,
+                  "classroom": "G-254"
+                }
+              ]
+            },
+            {
+              "number": "2",
+              "instructor": "Masumi Hiratsuka",
+              "schedule": [
+                {
+                  "slot": 15,
+                  "classroom": "G-209"
+                },
+                {
+                  "slot": 22,
+                  "classroom": "G-209"
+                },
+                {
+                  "slot": 52,
+                  "classroom": "G-209"
+                },
+                {
+                  "slot": 59,
+                  "classroom": "G-209"
+                }
+              ]
+            },
+            {
+              "number": "3",
+              "instructor": "Masumi Hiratsuka",
+              "schedule": [
+                {
+                  "slot": 4,
+                  "classroom": "G-Z53"
+                },
+                {
+                  "slot": 11,
+                  "classroom": "G-Z53"
+                },
+                {
+                  "slot": 36,
+                  "classroom": "G-Z53"
+                },
+                {
+                  "slot": 43,
+                  "classroom": "G-Z53"
+                }
+              ]
+            },
+            {
+              "number": "4",
+              "instructor": "Masumi Hiratsuka",
+              "schedule": [
+                {
+                  "slot": 2,
+                  "classroom": "G-Z36"
+                },
+                {
+                  "slot": 9,
+                  "classroom": "G-Z36"
+                },
+                {
+                  "slot": 39,
+                  "classroom": "G-Z36"
+                },
+                {
+                  "slot": 46,
+                  "classroom": "G-Z36"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "LNG 242",
+          "name": "Japanese II",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Masumi Hiratsuka",
+              "schedule": [
+                {
+                  "slot": 17,
+                  "classroom": "G-231"
+                },
+                {
+                  "slot": 24,
+                  "classroom": "G-231"
+                },
+                {
+                  "slot": 49,
+                  "classroom": "G-231"
+                },
+                {
+                  "slot": 56,
+                  "classroom": "G-231"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "MAN": {
+      "courses": [
+        {
+          "code": "MAN 101",
+          "name": "Introduction to Business I",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Lale Gümüşlüoğlu",
+              "schedule": [
+                {
+                  "slot": 3,
+                  "classroom": "MA-302(S)"
+                },
+                {
+                  "slot": 10,
+                  "classroom": "MA-302"
+                },
+                {
+                  "slot": 35,
+                  "classroom": "MA-302"
+                },
+                {
+                  "slot": 42,
+                  "classroom": "MA-302"
+                }
+              ]
+            },
+            {
+              "number": "2",
+              "instructor": "Lale Gümüşlüoğlu",
+              "schedule": [
+                {
+                  "slot": 17,
+                  "classroom": "MA-201(S)"
+                },
+                {
+                  "slot": 24,
+                  "classroom": "MA-201"
+                },
+                {
+                  "slot": 49,
+                  "classroom": "MA-201"
+                },
+                {
+                  "slot": 56,
+                  "classroom": "MA-201"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "MAN 102",
+          "name": "Introduction to Business II",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Özgür Tolga Baycan",
+              "schedule": [
+                {
+                  "slot": 0,
+                  "classroom": "B-305(S)"
+                },
+                {
+                  "slot": 7,
+                  "classroom": "B-305"
+                },
+                {
+                  "slot": 37,
+                  "classroom": "B-305"
+                },
+                {
+                  "slot": 44,
+                  "classroom": "B-305"
+                }
+              ]
+            },
+            {
+              "number": "2",
+              "instructor": "Özgür Tolga Baycan",
+              "schedule": [
+                {
+                  "slot": 14,
+                  "classroom": "B-305(S)"
+                },
+                {
+                  "slot": 21,
+                  "classroom": "B-305"
+                },
+                {
+                  "slot": 51,
+                  "classroom": "B-305"
+                },
+                {
+                  "slot": 58,
+                  "classroom": "B-305"
+                }
+              ]
+            },
+            {
+              "number": "3",
+              "instructor": "Özgür Tolga Baycan",
+              "schedule": [
+                {
+                  "slot": 1,
+                  "classroom": "B-305(S)"
+                },
+                {
+                  "slot": 8,
+                  "classroom": "B-305"
+                },
+                {
+                  "slot": 38,
+                  "classroom": "B-307"
+                },
+                {
+                  "slot": 45,
+                  "classroom": "B-307"
+                }
+              ]
+            },
+            {
+              "number": "4",
+              "instructor": "Özgür Tolga Baycan",
+              "schedule": [
+                {
+                  "slot": 15,
+                  "classroom": "B-305(S)"
+                },
+                {
+                  "slot": 22,
+                  "classroom": "B-305"
+                },
+                {
+                  "slot": 52,
+                  "classroom": "B-305"
+                },
+                {
+                  "slot": 59,
+                  "classroom": "B-305"
+                }
+              ]
+            },
+            {
+              "number": "5",
+              "instructor": "Ceren Aydoğmuş",
+              "schedule": [
+                {
+                  "slot": 17,
+                  "classroom": "G-B15(S)"
+                },
+                {
+                  "slot": 24,
+                  "classroom": "G-B15"
+                },
+                {
+                  "slot": 49,
+                  "classroom": "B-305"
+                },
+                {
+                  "slot": 56,
+                  "classroom": "B-305"
+                }
+              ]
+            },
+            {
+              "number": "6",
+              "instructor": "Ceren Aydoğmuş",
+              "schedule": [
+                {
+                  "slot": 4,
+                  "classroom": "B-306(S)"
+                },
+                {
+                  "slot": 11,
+                  "classroom": "B-306"
+                },
+                {
+                  "slot": 36,
+                  "classroom": "G-B15"
+                },
+                {
+                  "slot": 43,
+                  "classroom": "G-B15"
+                }
+              ]
+            },
+            {
+              "number": "7",
+              "instructor": "Ceren Aydoğmuş",
+              "schedule": [
+                {
+                  "slot": 18,
+                  "classroom": "B-305(S)"
+                },
+                {
+                  "slot": 25,
+                  "classroom": "B-305"
+                },
+                {
+                  "slot": 50,
+                  "classroom": "B-305"
+                },
+                {
+                  "slot": 57,
+                  "classroom": "B-305"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "MAN 211",
+          "name": "Principles of Accounting I",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Gözde Esen",
+              "schedule": [
+                {
+                  "slot": 0,
+                  "classroom": "MA-202(S)"
+                },
+                {
+                  "slot": 7,
+                  "classroom": "MA-202"
+                },
+                {
+                  "slot": 37,
+                  "classroom": "MA-202"
+                },
+                {
+                  "slot": 44,
+                  "classroom": "MA-202"
+                }
+              ]
+            },
+            {
+              "number": "2",
+              "instructor": "Gözde Esen",
+              "schedule": [
+                {
+                  "slot": 1,
+                  "classroom": "MA-105(S)"
+                },
+                {
+                  "slot": 8,
+                  "classroom": "MA-105"
+                },
+                {
+                  "slot": 38,
+                  "classroom": "MA-105"
+                },
+                {
+                  "slot": 45,
+                  "classroom": "MA-105"
+                }
+              ]
+            },
+            {
+              "number": "3",
+              "instructor": "Gözde Esen",
+              "schedule": [
+                {
+                  "slot": 15,
+                  "classroom": "MA-201(S)"
+                },
+                {
+                  "slot": 22,
+                  "classroom": "MA-201"
+                },
+                {
+                  "slot": 52,
+                  "classroom": "MA-201"
+                },
+                {
+                  "slot": 59,
+                  "classroom": "MA-201"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "MAN 213",
+          "name": "Principles of Financial Accounting",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Ali Rıza Zafer Sayar",
+              "schedule": [
+                {
+                  "slot": 1,
+                  "classroom": "MA-302"
+                },
+                {
+                  "slot": 8,
+                  "classroom": "MA-302"
+                },
+                {
+                  "slot": 38,
+                  "classroom": "MA-302"
+                },
+                {
+                  "slot": 45,
+                  "classroom": "MA-302"
+                }
+              ]
+            },
+            {
+              "number": "2",
+              "instructor": "Ali Rıza Zafer Sayar",
+              "schedule": [
+                {
+                  "slot": 15,
+                  "classroom": "MA-302"
+                },
+                {
+                  "slot": 22,
+                  "classroom": "MA-302"
+                },
+                {
+                  "slot": 52,
+                  "classroom": "MA-302"
+                },
+                {
+                  "slot": 59,
+                  "classroom": "MA-302"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "MAN 216",
+          "name": "Elements of Finance",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Tolga Demir",
+              "schedule": [
+                {
+                  "slot": 14,
+                  "classroom": "MA-105"
+                },
+                {
+                  "slot": 21,
+                  "classroom": "MA-105"
+                },
+                {
+                  "slot": 51,
+                  "classroom": "MA-105"
+                },
+                {
+                  "slot": 58,
+                  "classroom": "MA-105(S)"
+                }
+              ]
+            },
+            {
+              "number": "2",
+              "instructor": "Barış İnce",
+              "schedule": [
+                {
+                  "slot": 4,
+                  "classroom": "MA-101(S)"
+                },
+                {
+                  "slot": 11,
+                  "classroom": "MA-101"
+                },
+                {
+                  "slot": 36,
+                  "classroom": "MA-101"
+                },
+                {
+                  "slot": 43,
+                  "classroom": "MA-101"
+                }
+              ]
+            },
+            {
+              "number": "3",
+              "instructor": "Barış İnce",
+              "schedule": [
+                {
+                  "slot": 18,
+                  "classroom": "MA-101"
+                },
+                {
+                  "slot": 25,
+                  "classroom": "MA-101(S)"
+                },
+                {
+                  "slot": 50,
+                  "classroom": "MA-101"
+                },
+                {
+                  "slot": 57,
+                  "classroom": "MA-101"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "MAN 256",
+          "name": "Introduction to Management Science",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Eyüp Emre Berk",
+              "schedule": [
+                {
+                  "slot": 17,
+                  "classroom": "MA-104(S)"
+                },
+                {
+                  "slot": 24,
+                  "classroom": "MA-104"
+                },
+                {
+                  "slot": 49,
+                  "classroom": "MA-104"
+                },
+                {
+                  "slot": 56,
+                  "classroom": "MA-104"
+                }
+              ]
+            },
+            {
+              "number": "2",
+              "instructor": "Eyüp Emre Berk",
+              "schedule": [
+                {
+                  "slot": 18,
+                  "classroom": "MA-206(S)"
+                },
+                {
+                  "slot": 25,
+                  "classroom": "MA-206"
+                },
+                {
+                  "slot": 50,
+                  "classroom": "MA-206"
+                },
+                {
+                  "slot": 57,
+                  "classroom": "MA-206"
+                }
+              ]
+            },
+            {
+              "number": "3",
+              "instructor": "Yasemin Limon",
+              "schedule": [
+                {
+                  "slot": 1,
+                  "classroom": "MA-Z02(S)"
+                },
+                {
+                  "slot": 8,
+                  "classroom": "MA-Z02"
+                },
+                {
+                  "slot": 38,
+                  "classroom": "MA-Z02"
+                },
+                {
+                  "slot": 45,
+                  "classroom": "MA-Z02"
+                }
+              ]
+            },
+            {
+              "number": "4",
+              "instructor": "Yasemin Limon",
+              "schedule": [
+                {
+                  "slot": 15,
+                  "classroom": "MA-Z06"
+                },
+                {
+                  "slot": 22,
+                  "classroom": "MA-Z06"
+                },
+                {
+                  "slot": 52,
+                  "classroom": "MA-Z06"
+                },
+                {
+                  "slot": 59,
+                  "classroom": "MA-Z06(S)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "MAN 262",
+          "name": "Organizational Behavior",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Oğuz Gençay",
+              "schedule": [
+                {
+                  "slot": 0,
+                  "classroom": "MA-201"
+                },
+                {
+                  "slot": 7,
+                  "classroom": "MA-201"
+                },
+                {
+                  "slot": 37,
+                  "classroom": "MA-201"
+                },
+                {
+                  "slot": 44,
+                  "classroom": "MA-201(S)"
+                }
+              ]
+            },
+            {
+              "number": "2",
+              "instructor": "Oğuz Gençay",
+              "schedule": [
+                {
+                  "slot": 14,
+                  "classroom": "MA-201"
+                },
+                {
+                  "slot": 21,
+                  "classroom": "MA-201"
+                },
+                {
+                  "slot": 51,
+                  "classroom": "MA-201"
+                },
+                {
+                  "slot": 58,
+                  "classroom": "MA-201(S)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "MAN 303",
+          "name": "Business Ethics and Social Responsibility",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Dirk Matten",
+              "schedule": [
+                {
+                  "slot": 15,
+                  "classroom": "MA-305(S)"
+                },
+                {
+                  "slot": 22,
+                  "classroom": "MA-305"
+                },
+                {
+                  "slot": 52,
+                  "classroom": "MA-305"
+                },
+                {
+                  "slot": 59,
+                  "classroom": "MA-305"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "MAN 312",
+          "name": "Managerial Accounting",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Banu Sultanoğlu",
+              "schedule": [
+                {
+                  "slot": 0,
+                  "classroom": "MA-302(S)"
+                },
+                {
+                  "slot": 7,
+                  "classroom": "MA-302"
+                },
+                {
+                  "slot": 37,
+                  "classroom": "MA-302"
+                },
+                {
+                  "slot": 44,
+                  "classroom": "MA-302"
+                }
+              ]
+            },
+            {
+              "number": "2",
+              "instructor": "Banu Sultanoğlu",
+              "schedule": [
+                {
+                  "slot": 14,
+                  "classroom": "MA-202(S)"
+                },
+                {
+                  "slot": 21,
+                  "classroom": "MA-202"
+                },
+                {
+                  "slot": 51,
+                  "classroom": "MA-202"
+                },
+                {
+                  "slot": 58,
+                  "classroom": "MA-202"
+                }
+              ]
+            },
+            {
+              "number": "3",
+              "instructor": "Banu Sultanoğlu",
+              "schedule": [
+                {
+                  "slot": 17,
+                  "classroom": "MA-101(S)"
+                },
+                {
+                  "slot": 24,
+                  "classroom": "MA-101"
+                },
+                {
+                  "slot": 49,
+                  "classroom": "MA-101"
+                },
+                {
+                  "slot": 56,
+                  "classroom": "MA-101"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "MAN 321",
+          "name": "Corporate Finance",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Zeynep Önder",
+              "schedule": [
+                {
+                  "slot": 3,
+                  "classroom": "MA-105(S)"
+                },
+                {
+                  "slot": 10,
+                  "classroom": "MA-105"
+                },
+                {
+                  "slot": 35,
+                  "classroom": "MA-105"
+                },
+                {
+                  "slot": 42,
+                  "classroom": "MA-105"
+                }
+              ]
+            },
+            {
+              "number": "2",
+              "instructor": "Zeynep Önder",
+              "schedule": [
+                {
+                  "slot": 17,
+                  "classroom": "MA-202"
+                },
+                {
+                  "slot": 24,
+                  "classroom": "MA-202(S)"
+                },
+                {
+                  "slot": 49,
+                  "classroom": "MA-202"
+                },
+                {
+                  "slot": 56,
+                  "classroom": "MA-202"
+                }
+              ]
+            },
+            {
+              "number": "3",
+              "instructor": "Ahmet Şensoy",
+              "schedule": [
+                {
+                  "slot": 0,
+                  "classroom": "MA-104(S)"
+                },
+                {
+                  "slot": 7,
+                  "classroom": "MA-104"
+                },
+                {
+                  "slot": 37,
+                  "classroom": "MA-104"
+                },
+                {
+                  "slot": 44,
+                  "classroom": "MA-104"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "MAN 333",
+          "name": "Marketing Principles",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Tuğçe Özgen Genç",
+              "schedule": [
+                {
+                  "slot": 1,
+                  "classroom": "MA-305(S)"
+                },
+                {
+                  "slot": 8,
+                  "classroom": "MA-305"
+                },
+                {
+                  "slot": 38,
+                  "classroom": "MA-305"
+                },
+                {
+                  "slot": 45,
+                  "classroom": "MA-305"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "MAN 335",
+          "name": "Fundamentals of Marketing",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Onur Osmanoğlu",
+              "schedule": [
+                {
+                  "slot": 3,
+                  "classroom": "MA-103(S)"
+                },
+                {
+                  "slot": 10,
+                  "classroom": "MA-103"
+                },
+                {
+                  "slot": 35,
+                  "classroom": "MA-103"
+                },
+                {
+                  "slot": 42,
+                  "classroom": "MA-103"
+                }
+              ]
+            },
+            {
+              "number": "2",
+              "instructor": "Hanife Armut",
+              "schedule": [
+                {
+                  "slot": 18,
+                  "classroom": "MA-103(S)"
+                },
+                {
+                  "slot": 25,
+                  "classroom": "MA-103"
+                },
+                {
+                  "slot": 50,
+                  "classroom": "MA-103"
+                },
+                {
+                  "slot": 57,
+                  "classroom": "MA-103"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "MAN 341",
+          "name": "Production Management",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Feray Tunçalp",
+              "schedule": [
+                {
+                  "slot": 1,
+                  "classroom": "MA-Z05(S)"
+                },
+                {
+                  "slot": 8,
+                  "classroom": "MA-Z05"
+                },
+                {
+                  "slot": 38,
+                  "classroom": "MA-Z05"
+                },
+                {
+                  "slot": 45,
+                  "classroom": "MA-Z05"
+                }
+              ]
+            },
+            {
+              "number": "2",
+              "instructor": "Feray Tunçalp",
+              "schedule": [
+                {
+                  "slot": 15,
+                  "classroom": "MA-Z03"
+                },
+                {
+                  "slot": 22,
+                  "classroom": "MA-Z03"
+                },
+                {
+                  "slot": 52,
+                  "classroom": "MA-Z03"
+                },
+                {
+                  "slot": 59,
+                  "classroom": "MA-Z03(S)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "MAN 361",
+          "name": "Organization Theory",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Rasim Serdar Kurdoğlu",
+              "schedule": [
+                {
+                  "slot": 4,
+                  "classroom": "V-03(S)"
+                },
+                {
+                  "slot": 11,
+                  "classroom": "V-03"
+                },
+                {
+                  "slot": 36,
+                  "classroom": "V-03"
+                },
+                {
+                  "slot": 43,
+                  "classroom": "V-03"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "MAN 364",
+          "name": "Digital Innovation",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Kutay Yurtsever",
+              "schedule": [
+                {
+                  "slot": 16,
+                  "classroom": "MA-105"
+                },
+                {
+                  "slot": 23,
+                  "classroom": "MA-105"
+                },
+                {
+                  "slot": 53,
+                  "classroom": "MA-105"
+                },
+                {
+                  "slot": 60,
+                  "classroom": "MA-105(S)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "MAN 399",
+          "name": "Summer Practice",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Gözde Esen",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "MAN 403",
+          "name": "International Business",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Betül Altunsu",
+              "schedule": [
+                {
+                  "slot": 0,
+                  "classroom": "MA-103(S)"
+                },
+                {
+                  "slot": 7,
+                  "classroom": "MA-103"
+                },
+                {
+                  "slot": 37,
+                  "classroom": "MA-103"
+                },
+                {
+                  "slot": 44,
+                  "classroom": "MA-103"
+                }
+              ]
+            },
+            {
+              "number": "2",
+              "instructor": "Betül Altunsu",
+              "schedule": [
+                {
+                  "slot": 14,
+                  "classroom": "MA-Z03(S)"
+                },
+                {
+                  "slot": 21,
+                  "classroom": "MA-Z03"
+                },
+                {
+                  "slot": 51,
+                  "classroom": "MA-Z03"
+                },
+                {
+                  "slot": 58,
+                  "classroom": "MA-Z03"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "MAN 406",
+          "name": "Business Strategy",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Mehmet Barca",
+              "schedule": [
+                {
+                  "slot": 3,
+                  "classroom": "MA-201(S)"
+                },
+                {
+                  "slot": 10,
+                  "classroom": "MA-201"
+                },
+                {
+                  "slot": 35,
+                  "classroom": "MA-201"
+                },
+                {
+                  "slot": 42,
+                  "classroom": "MA-201"
+                }
+              ]
+            },
+            {
+              "number": "2",
+              "instructor": "Mehmet Barca",
+              "schedule": [
+                {
+                  "slot": 17,
+                  "classroom": "A-229(S)"
+                },
+                {
+                  "slot": 24,
+                  "classroom": "A-229"
+                },
+                {
+                  "slot": 49,
+                  "classroom": "A-229"
+                },
+                {
+                  "slot": 56,
+                  "classroom": "A-229"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "MAN 416",
+          "name": "Financial Statement Analysis",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Ali Rıza Zafer Sayar",
+              "schedule": [
+                {
+                  "slot": 18,
+                  "classroom": "MA-202(S)"
+                },
+                {
+                  "slot": 25,
+                  "classroom": "MA-202"
+                },
+                {
+                  "slot": 50,
+                  "classroom": "MA-202"
+                },
+                {
+                  "slot": 57,
+                  "classroom": "MA-202"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "MAN 421",
+          "name": "Capital Markets and Institutions",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Ayşe Başak Tanyeri Günsür",
+              "schedule": [
+                {
+                  "slot": 4,
+                  "classroom": "MA-201(S)"
+                },
+                {
+                  "slot": 11,
+                  "classroom": "MA-201"
+                },
+                {
+                  "slot": 36,
+                  "classroom": "MA-201"
+                },
+                {
+                  "slot": 43,
+                  "classroom": "MA-201"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "MAN 422",
+          "name": "International Finance",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Süheyla Özyıldırım",
+              "schedule": [
+                {
+                  "slot": 17,
+                  "classroom": "MA-305(S)"
+                },
+                {
+                  "slot": 24,
+                  "classroom": "MA-305"
+                },
+                {
+                  "slot": 49,
+                  "classroom": "MA-305"
+                },
+                {
+                  "slot": 56,
+                  "classroom": "MA-305"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "MAN 424",
+          "name": "Risk Management",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Ahmet Şensoy",
+              "schedule": [
+                {
+                  "slot": 14,
+                  "classroom": "MA-103"
+                },
+                {
+                  "slot": 21,
+                  "classroom": "MA-103"
+                },
+                {
+                  "slot": 51,
+                  "classroom": "MA-103"
+                },
+                {
+                  "slot": 58,
+                  "classroom": "MA-103(S)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "MAN 425",
+          "name": "Corporate Financial Strategy",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Oğuzhan Özbaş",
+              "schedule": [
+                {
+                  "slot": 1,
+                  "classroom": "MA-101(S)"
+                },
+                {
+                  "slot": 8,
+                  "classroom": "MA-101"
+                },
+                {
+                  "slot": 38,
+                  "classroom": "MA-101"
+                },
+                {
+                  "slot": 45,
+                  "classroom": "MA-101"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "MAN 427",
+          "name": "Behavioral Finance",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Özgür Kıbrıs",
+              "schedule": [
+                {
+                  "slot": 1,
+                  "classroom": "MA-301(S)"
+                },
+                {
+                  "slot": 8,
+                  "classroom": "MA-301"
+                },
+                {
+                  "slot": 38,
+                  "classroom": "MA-301"
+                },
+                {
+                  "slot": 45,
+                  "classroom": "MA-301"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "MAN 432",
+          "name": "Consumer Behavior",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Saurabh Pandharinath Shinde",
+              "schedule": [
+                {
+                  "slot": 0,
+                  "classroom": "MA-301(S)"
+                },
+                {
+                  "slot": 7,
+                  "classroom": "MA-301"
+                },
+                {
+                  "slot": 37,
+                  "classroom": "MA-301"
+                },
+                {
+                  "slot": 44,
+                  "classroom": "MA-301"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "MAN 434",
+          "name": "Integrated Marketing Communications ",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Onur Osmanoğlu",
+              "schedule": [
+                {
+                  "slot": 17,
+                  "classroom": "MA-301"
+                },
+                {
+                  "slot": 24,
+                  "classroom": "MA-301"
+                },
+                {
+                  "slot": 49,
+                  "classroom": "MA-301"
+                },
+                {
+                  "slot": 56,
+                  "classroom": "MA-301(S)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "MAN 437",
+          "name": "Retail Management",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Selma Kapetanovic",
+              "schedule": [
+                {
+                  "slot": 3,
+                  "classroom": "MA-301(S)"
+                },
+                {
+                  "slot": 10,
+                  "classroom": "MA-301"
+                },
+                {
+                  "slot": 35,
+                  "classroom": "MA-301"
+                },
+                {
+                  "slot": 42,
+                  "classroom": "MA-301"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "MAN 444",
+          "name": "Special Topics in Finance",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Oğuzhan Özbaş",
+              "schedule": [
+                {
+                  "slot": 15,
+                  "classroom": "MA-105"
+                },
+                {
+                  "slot": 22,
+                  "classroom": "MA-105"
+                },
+                {
+                  "slot": 52,
+                  "classroom": "MA-105"
+                },
+                {
+                  "slot": 59,
+                  "classroom": "MA-105(S)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "MAN 447",
+          "name": "Project Management",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Erdal Erel",
+              "schedule": [
+                {
+                  "slot": 1,
+                  "classroom": "MA-202(S)"
+                },
+                {
+                  "slot": 8,
+                  "classroom": "MA-202"
+                },
+                {
+                  "slot": 38,
+                  "classroom": "MA-202"
+                },
+                {
+                  "slot": 45,
+                  "classroom": "MA-202"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "MAN 456",
+          "name": "Business Analytics",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Fehmi Tanrısever",
+              "schedule": [
+                {
+                  "slot": 4,
+                  "classroom": "MA-202(S)"
+                },
+                {
+                  "slot": 11,
+                  "classroom": "MA-202"
+                },
+                {
+                  "slot": 36,
+                  "classroom": "MA-202"
+                },
+                {
+                  "slot": 43,
+                  "classroom": "MA-202"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "MAN 495",
+          "name": "Business Capstone Project",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Ceren Aydoğmuş",
+              "schedule": [
+                {
+                  "slot": 39,
+                  "classroom": "MA-104"
+                },
+                {
+                  "slot": 46,
+                  "classroom": "MA-104"
+                },
+                {
+                  "slot": 53,
+                  "classroom": "MA-104"
+                },
+                {
+                  "slot": 60,
+                  "classroom": "MA-104"
+                }
+              ]
+            },
+            {
+              "number": "2",
+              "instructor": "Rasim Serdar Kurdoğlu",
+              "schedule": [
+                {
+                  "slot": 39,
+                  "classroom": "V-01"
+                },
+                {
+                  "slot": 46,
+                  "classroom": "V-01"
+                },
+                {
+                  "slot": 53,
+                  "classroom": "V-01"
+                },
+                {
+                  "slot": 60,
+                  "classroom": "V-01"
+                }
+              ]
+            },
+            {
+              "number": "3",
+              "instructor": "Ali Rıza Zafer Sayar",
+              "schedule": [
+                {
+                  "slot": 39,
+                  "classroom": "FA-118"
+                },
+                {
+                  "slot": 46,
+                  "classroom": "FA-118"
+                },
+                {
+                  "slot": 53,
+                  "classroom": "FA-118"
+                },
+                {
+                  "slot": 60,
+                  "classroom": "FA-118"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "MAN 590",
+          "name": "Pro-Thesis Seminar",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Zahide Karakitapoğlu Aygün",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "MAN 593",
+          "name": "Research Paper I",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Zahide Karakitapoğlu Aygün",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "MAN 594",
+          "name": "Research Paper II",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Zahide Karakitapoğlu Aygün",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "MAN 599",
+          "name": "Master's Thesis Project",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Zahide Karakitapoğlu Aygün",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "MAN 634",
+          "name": "Consumer Behavior Theory I",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Güliz Ger",
+              "schedule": [
+                {
+                  "slot": 14,
+                  "classroom": "MA-305(S)"
+                },
+                {
+                  "slot": 21,
+                  "classroom": "MA-305"
+                },
+                {
+                  "slot": 51,
+                  "classroom": "MA-305"
+                },
+                {
+                  "slot": 58,
+                  "classroom": "MA-305"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "MAN 690",
+          "name": "Pre-Thesis Seminar",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Zahide Karakitapoğlu Aygün",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "MAN 699",
+          "name": "Ph.D. Dissertation",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Zahide Karakitapoğlu Aygün",
+              "schedule": []
             }
           ]
         }
@@ -30642,7 +35619,7 @@
               "schedule": [
                 {
                   "slot": 18,
-                  "classroom": "B-103(S)"
+                  "classroom": "B-103"
                 },
                 {
                   "slot": 25,
@@ -30654,7 +35631,7 @@
                 },
                 {
                   "slot": 57,
-                  "classroom": "B-103"
+                  "classroom": "B-103(S)"
                 }
               ]
             }
@@ -35075,7 +40052,7 @@
               "schedule": [
                 {
                   "slot": 18,
-                  "classroom": "SC-106(S)"
+                  "classroom": "SC-106"
                 },
                 {
                   "slot": 25,
@@ -35087,7 +40064,7 @@
                 },
                 {
                   "slot": 57,
-                  "classroom": "SC-106"
+                  "classroom": "SC-106(S)"
                 }
               ]
             }
@@ -38471,19 +43448,19 @@
               "schedule": [
                 {
                   "slot": 16,
-                  "classroom": "H-233(S)"
+                  "classroom": "B-Z06(S)"
                 },
                 {
                   "slot": 23,
-                  "classroom": "H-233"
+                  "classroom": "B-Z06"
                 },
                 {
                   "slot": 53,
-                  "classroom": "H-233"
+                  "classroom": "B-Z06"
                 },
                 {
                   "slot": 60,
-                  "classroom": "H-233"
+                  "classroom": "B-Z06"
                 }
               ]
             },
@@ -38493,19 +43470,19 @@
               "schedule": [
                 {
                   "slot": 2,
-                  "classroom": "H-233(S)"
+                  "classroom": "B-Z02(S)"
                 },
                 {
                   "slot": 9,
-                  "classroom": "H-233"
+                  "classroom": "B-Z02"
                 },
                 {
                   "slot": 39,
-                  "classroom": "H-233"
+                  "classroom": "B-Z02"
                 },
                 {
                   "slot": 46,
-                  "classroom": "H-233"
+                  "classroom": "B-Z02"
                 }
               ]
             }
@@ -38605,19 +43582,19 @@
               "schedule": [
                 {
                   "slot": 1,
-                  "classroom": "SA-Z01(S)"
+                  "classroom": "A-227(S)"
                 },
                 {
                   "slot": 8,
-                  "classroom": "SA-Z01"
+                  "classroom": "A-227"
                 },
                 {
                   "slot": 38,
-                  "classroom": "SA-Z01"
+                  "classroom": "A-227"
                 },
                 {
                   "slot": 45,
-                  "classroom": "SA-Z01"
+                  "classroom": "A-227"
                 }
               ]
             }
@@ -38677,19 +43654,19 @@
               "schedule": [
                 {
                   "slot": 1,
-                  "classroom": "MA-Z04(S)"
+                  "classroom": "A-227(S)"
                 },
                 {
                   "slot": 8,
-                  "classroom": "MA-Z04"
+                  "classroom": "A-227"
                 },
                 {
                   "slot": 38,
-                  "classroom": "MA-Z04"
+                  "classroom": "A-227"
                 },
                 {
                   "slot": 45,
-                  "classroom": "MA-Z04"
+                  "classroom": "A-227"
                 }
               ]
             }

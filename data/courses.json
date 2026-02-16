@@ -23353,7 +23353,7 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "Mehmet Kalpaklı",
               "schedule": []
             }
           ]
@@ -23560,7 +23560,7 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Nil Tekgül",
+              "instructor": "Mehmet Kalpaklı",
               "schedule": []
             }
           ]
@@ -23599,7 +23599,7 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Nil Tekgül",
+              "instructor": "Mehmet Kalpaklı",
               "schedule": []
             }
           ]
@@ -23610,7 +23610,7 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Nil Tekgül",
+              "instructor": "Mehmet Kalpaklı",
               "schedule": []
             }
           ]
@@ -23621,7 +23621,7 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Nil Tekgül",
+              "instructor": "Mehmet Kalpaklı",
               "schedule": []
             }
           ]
@@ -31456,19 +31456,19 @@
               "schedule": [
                 {
                   "slot": 4,
-                  "classroom": "H-334"
+                  "classroom": "G-254"
                 },
                 {
                   "slot": 11,
-                  "classroom": "H-334"
+                  "classroom": "G-254"
                 },
                 {
                   "slot": 36,
-                  "classroom": "H-334"
+                  "classroom": "G-254"
                 },
                 {
                   "slot": 43,
-                  "classroom": "H-334"
+                  "classroom": "G-254"
                 }
               ]
             },
@@ -31518,7 +31518,7 @@
             },
             {
               "number": "6",
-              "instructor": "Pierre Yves Vandermeersch",
+              "instructor": "Merve Yıldırım",
               "schedule": [
                 {
                   "slot": 3,
@@ -31568,7 +31568,7 @@
             },
             {
               "number": "2",
-              "instructor": "İlknur Garbioğlu",
+              "instructor": "Merve Yıldırım",
               "schedule": [
                 {
                   "slot": 14,
@@ -31596,7 +31596,7 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "İlknur Garbioğlu",
+              "instructor": "Pierre Yves Vandermeersch",
               "schedule": [
                 {
                   "slot": 3,
@@ -31624,7 +31624,7 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "İlknur Garbioğlu",
+              "instructor": "Dilek Temur",
               "schedule": [
                 {
                   "slot": 4,
@@ -37525,7 +37525,7 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "İlker Temizer",
               "schedule": []
             }
           ]
@@ -37575,7 +37575,7 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "İlker Temizer",
               "schedule": []
             }
           ]
@@ -46981,11 +46981,11 @@
               "schedule": [
                 {
                   "slot": 17,
-                  "classroom": "A-127(S)"
+                  "classroom": "A-127"
                 },
                 {
                   "slot": 24,
-                  "classroom": "A-127"
+                  "classroom": "A-127(S)"
                 },
                 {
                   "slot": 49,

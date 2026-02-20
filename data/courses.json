@@ -31456,19 +31456,19 @@
               "schedule": [
                 {
                   "slot": 4,
-                  "classroom": "G-254"
+                  "classroom": "H-334"
                 },
                 {
                   "slot": 11,
-                  "classroom": "G-254"
+                  "classroom": "H-334"
                 },
                 {
                   "slot": 36,
-                  "classroom": "G-254"
+                  "classroom": "H-334"
                 },
                 {
                   "slot": 43,
-                  "classroom": "G-254"
+                  "classroom": "H-334"
                 }
               ]
             },
@@ -32556,7 +32556,7 @@
               "schedule": [
                 {
                   "slot": 15,
-                  "classroom": "MA-201(S)"
+                  "classroom": "MA-201"
                 },
                 {
                   "slot": 22,
@@ -32568,7 +32568,7 @@
                 },
                 {
                   "slot": 59,
-                  "classroom": "MA-201"
+                  "classroom": "MA-201(S)"
                 }
               ]
             }
@@ -34205,19 +34205,19 @@
               "schedule": [
                 {
                   "slot": 18,
-                  "classroom": "B-Z06"
+                  "classroom": "SB-Z03"
                 },
                 {
                   "slot": 25,
-                  "classroom": "B-Z06"
+                  "classroom": "SB-Z03"
                 },
                 {
                   "slot": 50,
-                  "classroom": "B-Z06"
+                  "classroom": "FC-Z23B"
                 },
                 {
                   "slot": 57,
-                  "classroom": "B-Z06"
+                  "classroom": "FC-Z23B"
                 }
               ]
             },
@@ -46403,19 +46403,19 @@
               "schedule": [
                 {
                   "slot": 1,
-                  "classroom": "RE-206(S)"
+                  "classroom": "RB-201(S)"
                 },
                 {
                   "slot": 8,
-                  "classroom": "RE-206"
+                  "classroom": "RB-201"
                 },
                 {
                   "slot": 38,
-                  "classroom": "RE-206"
+                  "classroom": "RB-201"
                 },
                 {
                   "slot": 45,
-                  "classroom": "RE-206"
+                  "classroom": "RB-201"
                 }
               ]
             }

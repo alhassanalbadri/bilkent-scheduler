@@ -9124,19 +9124,19 @@
               "schedule": [
                 {
                   "slot": 1,
-                  "classroom": "CE-106(S)"
+                  "classroom": "C-CTISL2(S)"
                 },
                 {
                   "slot": 8,
-                  "classroom": "CE-106"
+                  "classroom": "C-CTISL2"
                 },
                 {
                   "slot": 38,
-                  "classroom": "CE-106"
+                  "classroom": "C-CTISL2"
                 },
                 {
                   "slot": 45,
-                  "classroom": "CE-106"
+                  "classroom": "C-CTISL2"
                 }
               ]
             }
@@ -10830,11 +10830,11 @@
               "schedule": [
                 {
                   "slot": 3,
-                  "classroom": "A-125"
+                  "classroom": "A-125(S)"
                 },
                 {
                   "slot": 10,
-                  "classroom": "A-125(S)"
+                  "classroom": "A-125"
                 },
                 {
                   "slot": 35,

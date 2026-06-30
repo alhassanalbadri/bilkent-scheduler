@@ -1742,17 +1742,6 @@
           ]
         },
         {
-          "code": "EEE 481",
-          "name": "Biomedical Signals and Instrumentation",
-          "sections": [
-            {
-              "number": "1",
-              "instructor": "Staff",
-              "schedule": []
-            }
-          ]
-        },
-        {
           "code": "EEE 485",
           "name": "Statistical Learning and Data Analytics",
           "sections": [
@@ -1918,17 +1907,6 @@
             {
               "number": "1",
               "instructor": "Ergin Atalar",
-              "schedule": []
-            }
-          ]
-        },
-        {
-          "code": "EEE 581",
-          "name": "Biomedical Signals and Instrumentation",
-          "sections": [
-            {
-              "number": "1",
-              "instructor": "Staff",
               "schedule": []
             }
           ]
@@ -2250,7 +2228,7 @@
         },
         {
           "code": "IE 453",
-          "name": "Energy Systems Planning",
+          "name": "Energy Systems Optimization",
           "sections": [
             {
               "number": "1",
@@ -2449,6 +2427,485 @@
     }
   },
   {
+    "MATH": {
+      "courses": [
+        {
+          "code": "MATH 101",
+          "name": "Calculus I",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Konstantinos Maronikolakis",
+              "schedule": []
+            },
+            {
+              "number": "2",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "3",
+              "instructor": "Okan Tekman",
+              "schedule": []
+            },
+            {
+              "number": "4",
+              "instructor": "Okan Tekman",
+              "schedule": []
+            },
+            {
+              "number": "5",
+              "instructor": "Okan Tekman",
+              "schedule": []
+            },
+            {
+              "number": "6",
+              "instructor": "Hakkı Turgay Kaptanoğlu",
+              "schedule": []
+            },
+            {
+              "number": "7",
+              "instructor": "Hakkı Turgay Kaptanoğlu",
+              "schedule": []
+            },
+            {
+              "number": "8",
+              "instructor": "Ali Sinan Sertöz",
+              "schedule": []
+            },
+            {
+              "number": "9",
+              "instructor": "Ali Sinan Sertöz",
+              "schedule": []
+            },
+            {
+              "number": "10",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "11",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "12",
+              "instructor": "Deniz Yılmaz",
+              "schedule": []
+            },
+            {
+              "number": "13",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "14",
+              "instructor": "Staff",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "MATH 102",
+          "name": "Calculus II",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "2",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "3",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "4",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "5",
+              "instructor": "Staff",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "MATH 103",
+          "name": "Thinking Mathematically I",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "2",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "3",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "4",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "5",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "6",
+              "instructor": "Staff",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "MATH 104",
+          "name": "Thinking Mathematically II",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "2",
+              "instructor": "Staff",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "MATH 105",
+          "name": "Introduction to Calculus I",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "2",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "3",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "4",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "5",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "6",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "7",
+              "instructor": "Staff",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "MATH 106",
+          "name": "Introduction to Calculus II",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "2",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "3",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "4",
+              "instructor": "Staff",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "MATH 132",
+          "name": "Discrete and Combinatorial Mathematics",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "2",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "3",
+              "instructor": "Nil Şahin",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "MATH 220",
+          "name": "Linear Algebra",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "2",
+              "instructor": "Staff",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "MATH 225",
+          "name": "Linear Algebra and Differential Equations",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "2",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "3",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "4",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "5",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "6",
+              "instructor": "Staff",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "MATH 227",
+          "name": "Introduction to Linear Algebra",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "2",
+              "instructor": "Staff",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "MATH 230",
+          "name": "Probability and Statistics for Engineers",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "2",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "3",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "4",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "5",
+              "instructor": "Staff",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "MATH 240",
+          "name": "Differential Equations",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Staff",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "MATH 241",
+          "name": "Engineering Mathematics I",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Tolga Çukur",
+              "schedule": []
+            },
+            {
+              "number": "2",
+              "instructor": "Orhan Arıkan",
+              "schedule": []
+            },
+            {
+              "number": "3",
+              "instructor": "Orhan Arıkan",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "MATH 242",
+          "name": "Engineering Mathematics II",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "A. Bülent Özgüler",
+              "schedule": []
+            },
+            {
+              "number": "2",
+              "instructor": "Özlem Tuğfe Demir",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "MATH 250",
+          "name": "Introduction to Probability",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "2",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "3",
+              "instructor": "Staff",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "MATH 255",
+          "name": "Probability and Statistics",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Muhammed Ömer Sayın",
+              "schedule": []
+            },
+            {
+              "number": "2",
+              "instructor": "Muhammed Ömer Sayın",
+              "schedule": []
+            },
+            {
+              "number": "3",
+              "instructor": "Melih Baştopçu",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "MATH 260",
+          "name": "Introduction to Statistics",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "2",
+              "instructor": "Staff",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "MATH 264",
+          "name": "Statistics for Social Sciences",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "2",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "3",
+              "instructor": "Staff",
+              "schedule": []
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
     "MBG": {
       "courses": [
         {
@@ -2473,6 +2930,192 @@
             {
               "number": "4",
               "instructor": "Staff",
+              "schedule": []
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "POLS": {
+      "courses": [
+        {
+          "code": "POLS 101",
+          "name": "Politics I: What is it?",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Başak İnce",
+              "schedule": []
+            },
+            {
+              "number": "2",
+              "instructor": "Ioannis Grigoriadis",
+              "schedule": []
+            },
+            {
+              "number": "3",
+              "instructor": "James Alexander",
+              "schedule": []
+            },
+            {
+              "number": "4",
+              "instructor": "İlker Aytürk",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "POLS 104",
+          "name": "Politics II: How Does It Work?",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Başak İnce",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "POLS 201",
+          "name": "Fundamentals of Social Research",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Nedim Karakayalı",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "POLS 303",
+          "name": "Comparative Politics of Advanced Industrialized Countries",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Ioannis Grigoriadis",
+              "schedule": []
+            },
+            {
+              "number": "2",
+              "instructor": "Tolga Bölükbaşı",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "POLS 304",
+          "name": "Comparative Politics of Developing Countries",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Aida Just",
+              "schedule": []
+            },
+            {
+              "number": "2",
+              "instructor": "Aida Just",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "POLS 305",
+          "name": "Turkish Political Development",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Berrak Burçak Della Fave",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "POLS 306",
+          "name": "Contemporary Turkish Politics",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Kerem Yıldırım",
+              "schedule": []
+            },
+            {
+              "number": "2",
+              "instructor": "Kerem Yıldırım",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "POLS 465",
+          "name": "Governance and Public Policy ",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Staff",
+              "schedule": []
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "SOC": {
+      "courses": [
+        {
+          "code": "SOC 101",
+          "name": "Introduction to Sociology",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Daniel Just",
+              "schedule": []
+            },
+            {
+              "number": "2",
+              "instructor": "Caner Hazar",
+              "schedule": []
+            },
+            {
+              "number": "3",
+              "instructor": "Gökhan Şensönmez",
+              "schedule": []
+            },
+            {
+              "number": "4",
+              "instructor": "Gökhan Şensönmez",
+              "schedule": []
+            },
+            {
+              "number": "5",
+              "instructor": "Gökhan Şensönmez",
+              "schedule": []
+            },
+            {
+              "number": "6",
+              "instructor": "Daniel Just",
+              "schedule": []
+            },
+            {
+              "number": "7",
+              "instructor": "Caner Hazar",
+              "schedule": []
+            },
+            {
+              "number": "8",
+              "instructor": "Caner Hazar",
+              "schedule": []
+            },
+            {
+              "number": "9",
+              "instructor": "Caner Hazar",
+              "schedule": []
+            },
+            {
+              "number": "10",
+              "instructor": "Gökhan Şensönmez",
               "schedule": []
             }
           ]
@@ -2544,11 +3187,6 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
-              "schedule": []
-            },
-            {
-              "number": "2",
               "instructor": "Staff",
               "schedule": []
             },
@@ -2652,7 +3290,7 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Elif Denizci",
+              "instructor": "Ali Ünal",
               "schedule": []
             }
           ]
@@ -2985,8 +3623,8 @@
           ]
         },
         {
-          "code": "TRIN 227",
-          "name": "British and American Cultures and Civilisations",
+          "code": "TRIN 228",
+          "name": "French Culture and Civilisation",
           "sections": [
             {
               "number": "1",
@@ -3024,6 +3662,11 @@
               "number": "1",
               "instructor": "Staff",
               "schedule": []
+            },
+            {
+              "number": "2",
+              "instructor": "Staff",
+              "schedule": []
             }
           ]
         },
@@ -3035,6 +3678,11 @@
               "number": "1",
               "instructor": "Staff",
               "schedule": []
+            },
+            {
+              "number": "2",
+              "instructor": "Staff",
+              "schedule": []
             }
           ]
         },
@@ -3044,6 +3692,11 @@
           "sections": [
             {
               "number": "1",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "2",
               "instructor": "Staff",
               "schedule": []
             }

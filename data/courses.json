@@ -1612,7 +1612,24 @@
             {
               "number": "7",
               "instructor": "Staff",
-              "schedule": []
+              "schedule": [
+                {
+                  "slot": 18,
+                  "classroom": "(S)"
+                },
+                {
+                  "slot": 25,
+                  "classroom": ""
+                },
+                {
+                  "slot": 50,
+                  "classroom": ""
+                },
+                {
+                  "slot": 57,
+                  "classroom": ""
+                }
+              ]
             },
             {
               "number": "8",
@@ -3333,7 +3350,7 @@
             },
             {
               "number": "3",
-              "instructor": "Staff",
+              "instructor": "Erdinç Tatar",
               "schedule": [
                 {
                   "slot": 4,
@@ -6571,7 +6588,7 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "Naci Saldı",
               "schedule": [
                 {
                   "slot": 16,
@@ -6593,7 +6610,7 @@
             },
             {
               "number": "2",
-              "instructor": "Staff",
+              "instructor": "Naci Saldı",
               "schedule": [
                 {
                   "slot": 2,
@@ -7354,6 +7371,62 @@
           ]
         },
         {
+          "code": "POLS 204",
+          "name": "Political Sociology",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Şeref Anıl Kahvecioğlu",
+              "schedule": [
+                {
+                  "slot": 15,
+                  "classroom": "(S)"
+                },
+                {
+                  "slot": 22,
+                  "classroom": ""
+                },
+                {
+                  "slot": 52,
+                  "classroom": ""
+                },
+                {
+                  "slot": 59,
+                  "classroom": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "POLS 238",
+          "name": "Negotiation and Mediation in Politics",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Esra Çuhadar",
+              "schedule": [
+                {
+                  "slot": 14,
+                  "classroom": "(S)"
+                },
+                {
+                  "slot": 21,
+                  "classroom": ""
+                },
+                {
+                  "slot": 51,
+                  "classroom": ""
+                },
+                {
+                  "slot": 58,
+                  "classroom": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
           "code": "POLS 303",
           "name": "Comparative Politics of Advanced Industrialized Countries",
           "sections": [
@@ -7532,12 +7605,364 @@
           ]
         },
         {
+          "code": "POLS 344",
+          "name": "Turkish Nationalism :Politics and Ideology",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "İlker Aytürk",
+              "schedule": [
+                {
+                  "slot": 2,
+                  "classroom": "(S)"
+                },
+                {
+                  "slot": 9,
+                  "classroom": ""
+                },
+                {
+                  "slot": 39,
+                  "classroom": ""
+                },
+                {
+                  "slot": 46,
+                  "classroom": ""
+                }
+              ]
+            },
+            {
+              "number": "2",
+              "instructor": "İlker Aytürk",
+              "schedule": [
+                {
+                  "slot": 2,
+                  "classroom": "(S)"
+                },
+                {
+                  "slot": 9,
+                  "classroom": ""
+                },
+                {
+                  "slot": 39,
+                  "classroom": ""
+                },
+                {
+                  "slot": 46,
+                  "classroom": ""
+                }
+              ]
+            },
+            {
+              "number": "3",
+              "instructor": "İlker Aytürk",
+              "schedule": [
+                {
+                  "slot": 2,
+                  "classroom": "(S)"
+                },
+                {
+                  "slot": 9,
+                  "classroom": ""
+                },
+                {
+                  "slot": 39,
+                  "classroom": ""
+                },
+                {
+                  "slot": 46,
+                  "classroom": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "POLS 449",
+          "name": "Political Concepts ",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "James Alexander",
+              "schedule": [
+                {
+                  "slot": 0,
+                  "classroom": "(S)"
+                },
+                {
+                  "slot": 7,
+                  "classroom": ""
+                },
+                {
+                  "slot": 37,
+                  "classroom": ""
+                },
+                {
+                  "slot": 44,
+                  "classroom": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "POLS 452",
+          "name": "State Society and Citizenship in Turkey",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Başak İnce",
+              "schedule": [
+                {
+                  "slot": 3,
+                  "classroom": "(S)"
+                },
+                {
+                  "slot": 10,
+                  "classroom": ""
+                },
+                {
+                  "slot": 35,
+                  "classroom": ""
+                },
+                {
+                  "slot": 42,
+                  "classroom": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
           "code": "POLS 465",
           "name": "Governance and Public Policy ",
           "sections": [
             {
               "number": "1",
               "instructor": "Staff",
+              "schedule": [
+                {
+                  "slot": 2,
+                  "classroom": "(S)"
+                },
+                {
+                  "slot": 9,
+                  "classroom": ""
+                },
+                {
+                  "slot": 39,
+                  "classroom": ""
+                },
+                {
+                  "slot": 46,
+                  "classroom": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "POLS 469",
+          "name": "Regional Security in the Middle East",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Hatice Pınar Bilgin",
+              "schedule": [
+                {
+                  "slot": 0,
+                  "classroom": "(S)"
+                },
+                {
+                  "slot": 7,
+                  "classroom": ""
+                },
+                {
+                  "slot": 37,
+                  "classroom": ""
+                },
+                {
+                  "slot": 44,
+                  "classroom": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "POLS 490",
+          "name": "Democracy, Development and Human Rights",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Aida Just",
+              "schedule": [
+                {
+                  "slot": 2,
+                  "classroom": "(S)"
+                },
+                {
+                  "slot": 9,
+                  "classroom": ""
+                },
+                {
+                  "slot": 39,
+                  "classroom": ""
+                },
+                {
+                  "slot": 46,
+                  "classroom": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "POLS 569",
+          "name": "Regional Security in the Middle East",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Hatice Pınar Bilgin",
+              "schedule": [
+                {
+                  "slot": 0,
+                  "classroom": "(S)"
+                },
+                {
+                  "slot": 7,
+                  "classroom": ""
+                },
+                {
+                  "slot": 37,
+                  "classroom": ""
+                },
+                {
+                  "slot": 44,
+                  "classroom": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "POLS 602",
+          "name": "Seminar in Comparative Politics",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Meral Uğur Çınar",
+              "schedule": [
+                {
+                  "slot": 16,
+                  "classroom": "(S)"
+                },
+                {
+                  "slot": 23,
+                  "classroom": ""
+                },
+                {
+                  "slot": 53,
+                  "classroom": ""
+                },
+                {
+                  "slot": 60,
+                  "classroom": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "POLS 612",
+          "name": "Seminar in Social and Cultural Studies:",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Nedim Karakayalı",
+              "schedule": [
+                {
+                  "slot": 14,
+                  "classroom": "(S)"
+                },
+                {
+                  "slot": 21,
+                  "classroom": ""
+                },
+                {
+                  "slot": 51,
+                  "classroom": ""
+                },
+                {
+                  "slot": 58,
+                  "classroom": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "POLS 645",
+          "name": "Voting Behavior and Political Parties ",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Kerem Yıldırım",
+              "schedule": [
+                {
+                  "slot": 17,
+                  "classroom": "(S)"
+                },
+                {
+                  "slot": 24,
+                  "classroom": ""
+                },
+                {
+                  "slot": 49,
+                  "classroom": ""
+                },
+                {
+                  "slot": 56,
+                  "classroom": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "POLS 4645",
+          "name": "Voting Behavior and Political Parties",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Kerem Yıldırım",
+              "schedule": [
+                {
+                  "slot": 17,
+                  "classroom": "(S)"
+                },
+                {
+                  "slot": 24,
+                  "classroom": ""
+                },
+                {
+                  "slot": 49,
+                  "classroom": ""
+                },
+                {
+                  "slot": 56,
+                  "classroom": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "POLS 5490",
+          "name": "Democracy, Development, and Human Rights",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Aida Just",
               "schedule": [
                 {
                   "slot": 2,

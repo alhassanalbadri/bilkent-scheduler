@@ -1683,7 +1683,7 @@
             },
             {
               "number": "3",
-              "instructor": "Staff",
+              "instructor": "Erdinç Tatar",
               "schedule": []
             }
           ],
@@ -2926,12 +2926,12 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "Naci Saldı",
               "schedule": []
             },
             {
               "number": "2",
-              "instructor": "Staff",
+              "instructor": "Naci Saldı",
               "schedule": []
             },
             {
@@ -3177,6 +3177,29 @@
           "gpa": "2.49"
         },
         {
+          "code": "POLS 204",
+          "name": "Political Sociology",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Şeref Anıl Kahvecioğlu",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "POLS 238",
+          "name": "Negotiation and Mediation in Politics",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Esra Çuhadar",
+              "schedule": []
+            }
+          ],
+          "gpa": "3.10"
+        },
+        {
           "code": "POLS 303",
           "name": "Comparative Politics of Advanced Industrialized Countries",
           "sections": [
@@ -3240,6 +3263,52 @@
           "gpa": "2.57"
         },
         {
+          "code": "POLS 344",
+          "name": "Turkish Nationalism :Politics and Ideology",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "İlker Aytürk",
+              "schedule": []
+            },
+            {
+              "number": "2",
+              "instructor": "İlker Aytürk",
+              "schedule": []
+            },
+            {
+              "number": "3",
+              "instructor": "İlker Aytürk",
+              "schedule": []
+            }
+          ],
+          "gpa": "3.10"
+        },
+        {
+          "code": "POLS 449",
+          "name": "Political Concepts ",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "James Alexander",
+              "schedule": []
+            }
+          ],
+          "gpa": "2.80"
+        },
+        {
+          "code": "POLS 452",
+          "name": "State Society and Citizenship in Turkey",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Başak İnce",
+              "schedule": []
+            }
+          ],
+          "gpa": "2.80"
+        },
+        {
           "code": "POLS 465",
           "name": "Governance and Public Policy ",
           "sections": [
@@ -3250,6 +3319,102 @@
             }
           ],
           "gpa": "2.60"
+        },
+        {
+          "code": "POLS 469",
+          "name": "Regional Security in the Middle East",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Hatice Pınar Bilgin",
+              "schedule": []
+            }
+          ],
+          "gpa": "2.73"
+        },
+        {
+          "code": "POLS 490",
+          "name": "Democracy, Development and Human Rights",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Aida Just",
+              "schedule": []
+            }
+          ],
+          "gpa": "2.79"
+        },
+        {
+          "code": "POLS 569",
+          "name": "Regional Security in the Middle East",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Hatice Pınar Bilgin",
+              "schedule": []
+            }
+          ],
+          "gpa": "3.77"
+        },
+        {
+          "code": "POLS 602",
+          "name": "Seminar in Comparative Politics",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Meral Uğur Çınar",
+              "schedule": []
+            }
+          ],
+          "gpa": "3.78"
+        },
+        {
+          "code": "POLS 612",
+          "name": "Seminar in Social and Cultural Studies:",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Nedim Karakayalı",
+              "schedule": []
+            }
+          ],
+          "gpa": "3.84"
+        },
+        {
+          "code": "POLS 645",
+          "name": "Voting Behavior and Political Parties ",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Kerem Yıldırım",
+              "schedule": []
+            }
+          ],
+          "gpa": "3.56"
+        },
+        {
+          "code": "POLS 4645",
+          "name": "Voting Behavior and Political Parties",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Kerem Yıldırım",
+              "schedule": []
+            }
+          ],
+          "gpa": "3.21"
+        },
+        {
+          "code": "POLS 5490",
+          "name": "Democracy, Development, and Human Rights",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Aida Just",
+              "schedule": []
+            }
+          ],
+          "gpa": "3.63"
         }
       ]
     }

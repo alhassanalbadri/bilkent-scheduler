@@ -2388,17 +2388,17 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "Serkan Genç",
               "schedule": []
             },
             {
               "number": "2",
-              "instructor": "Staff",
+              "instructor": "Nimet Ceren Serim",
               "schedule": []
             },
             {
               "number": "3",
-              "instructor": "Staff",
+              "instructor": "Hamdi Murat Yıldırım",
               "schedule": []
             }
           ]
@@ -2491,6 +2491,17 @@
         {
           "code": "CTIS 471",
           "name": "Introduction to Applied Machine Learning",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Staff",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "CTIS 472",
+          "name": "Human Computer Interaction",
           "sections": [
             {
               "number": "1",
@@ -2775,7 +2786,7 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "Bilin Neyaptı",
               "schedule": []
             },
             {
@@ -2818,6 +2829,21 @@
           "sections": [
             {
               "number": "1",
+              "instructor": "Burçin Kısacıkoğlu",
+              "schedule": []
+            },
+            {
+              "number": "2",
+              "instructor": "Burçin Kısacıkoğlu",
+              "schedule": []
+            },
+            {
+              "number": "3",
+              "instructor": "Burçin Kısacıkoğlu",
+              "schedule": []
+            },
+            {
+              "number": "4",
               "instructor": "Burçin Kısacıkoğlu",
               "schedule": []
             }
@@ -2906,7 +2932,7 @@
             },
             {
               "number": "10",
-              "instructor": "Staff",
+              "instructor": "Mustafa Eray Yücel",
               "schedule": []
             }
           ]
@@ -2919,6 +2945,31 @@
               "number": "1",
               "instructor": "Mustafa Eray Yücel",
               "schedule": []
+            },
+            {
+              "number": "2",
+              "instructor": "Mustafa Eray Yücel",
+              "schedule": []
+            },
+            {
+              "number": "3",
+              "instructor": "Mustafa Eray Yücel",
+              "schedule": []
+            },
+            {
+              "number": "4",
+              "instructor": "Mustafa Eray Yücel",
+              "schedule": []
+            },
+            {
+              "number": "5",
+              "instructor": "Mustafa Eray Yücel",
+              "schedule": []
+            },
+            {
+              "number": "6",
+              "instructor": "Mustafa Eray Yücel",
+              "schedule": []
             }
           ]
         },
@@ -2927,13 +2978,19 @@
           "name": "Mathematics for Economists",
           "sections": [
             {
-              "number": "1",
-              "instructor": "Staff",
-              "schedule": []
-            },
-            {
               "number": "2",
-              "instructor": "Staff",
+              "instructor": "Serkan Karademir",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "ECON 280",
+          "name": "Principles of Political Economy",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Türkan Mine Kara",
               "schedule": []
             }
           ]
@@ -3131,6 +3188,17 @@
             {
               "number": "1",
               "instructor": "Tarık Kara",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "ECON 524",
+          "name": "Development Economics",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Shaheen Naseer",
               "schedule": []
             }
           ]
@@ -7359,11 +7427,6 @@
               "number": "2",
               "instructor": "Staff",
               "schedule": []
-            },
-            {
-              "number": "3",
-              "instructor": "Staff",
-              "schedule": []
             }
           ]
         },
@@ -10627,6 +10690,17 @@
           ]
         },
         {
+          "code": "MSC 326",
+          "name": "Conducting I",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Işın Metin",
+              "schedule": []
+            }
+          ]
+        },
+        {
           "code": "MSC 331",
           "name": "Instrument V",
           "sections": [
@@ -11253,17 +11327,6 @@
           ]
         },
         {
-          "code": "PHIL 417",
-          "name": "Philosophy of Artificial Intelligence",
-          "sections": [
-            {
-              "number": "1",
-              "instructor": "Staff",
-              "schedule": []
-            }
-          ]
-        },
-        {
           "code": "PHIL 426",
           "name": "Plato",
           "sections": [
@@ -11288,17 +11351,6 @@
         {
           "code": "PHIL 526",
           "name": "Plato",
-          "sections": [
-            {
-              "number": "1",
-              "instructor": "Staff",
-              "schedule": []
-            }
-          ]
-        },
-        {
-          "code": "PHIL 527",
-          "name": "Philosophy of Artificial Intelligence",
           "sections": [
             {
               "number": "1",
@@ -12771,6 +12823,23 @@
     }
   },
   {
+    "THEA": {
+      "courses": [
+        {
+          "code": "THEA 181",
+          "name": "Acting Techniques I-Singing",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Jason Edward Hale",
+              "schedule": []
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
     "THM": {
       "courses": [
         {
@@ -13096,6 +13165,21 @@
               "number": "5",
               "instructor": "Gizem Gürer",
               "schedule": []
+            },
+            {
+              "number": "6",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "7",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "8",
+              "instructor": "Staff",
+              "schedule": []
             }
           ]
         },
@@ -13160,7 +13244,7 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "Jason Edward Hale",
               "schedule": []
             }
           ]

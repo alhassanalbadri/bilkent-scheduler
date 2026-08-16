@@ -2766,16 +2766,11 @@
             },
             {
               "number": "3",
-              "instructor": "Taner Yiğit",
-              "schedule": []
-            },
-            {
-              "number": "4",
               "instructor": "Staff",
               "schedule": []
             },
             {
-              "number": "5",
+              "number": "4",
               "instructor": "Staff",
               "schedule": []
             },
@@ -3017,6 +3012,11 @@
             },
             {
               "number": "2",
+              "instructor": "Taner Yiğit",
+              "schedule": []
+            },
+            {
+              "number": "3",
               "instructor": "Staff",
               "schedule": []
             }
@@ -5411,6 +5411,11 @@
               "number": "1",
               "instructor": "Staff",
               "schedule": []
+            },
+            {
+              "number": "2",
+              "instructor": "Staff",
+              "schedule": []
             }
           ]
         },
@@ -5519,7 +5524,7 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "Mehmet Ali Çelik",
               "schedule": []
             }
           ]
@@ -5547,12 +5552,45 @@
           ]
         },
         {
+          "code": "HIST 595",
+          "name": "Seminar in American History I",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Kenneth Weisbrode",
+              "schedule": []
+            }
+          ]
+        },
+        {
           "code": "HIST 599",
           "name": "Master's Thesis",
           "sections": [
             {
               "number": "1",
               "instructor": "Staff",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "HIST 618",
+          "name": "Islamic Thought, Law and Society in the Modern Age",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Berke Torunoğlu",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "HIST 643",
+          "name": "Medieval Papacy and Churches of Europe from 1000 to 1500",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Filip Malesevic",
               "schedule": []
             }
           ]
@@ -5619,6 +5657,17 @@
             {
               "number": "1",
               "instructor": "Staff",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "HIST 5513",
+          "name": "Venice between the Byzantines and the Ottomans (ca. 300 - ca. 1700 CE)",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Luca Zavagno",
               "schedule": []
             }
           ]
@@ -7663,6 +7712,17 @@
           ]
         },
         {
+          "code": "LAW 400",
+          "name": "Legal Research Teams",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Staff",
+              "schedule": []
+            }
+          ]
+        },
+        {
           "code": "LAW 401",
           "name": "Law of Negotiable Instruments (in Turkish)",
           "sections": [
@@ -9151,7 +9211,7 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "Konstantinos Maronikolakis",
               "schedule": []
             }
           ]
@@ -9173,12 +9233,12 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "Enis Kaya",
               "schedule": []
             },
             {
               "number": "2",
-              "instructor": "Staff",
+              "instructor": "Enis Kaya",
               "schedule": []
             }
           ]
@@ -9421,7 +9481,7 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "Cihan Bahran",
               "schedule": []
             }
           ]
@@ -9454,7 +9514,7 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "Hamza Yeşilyurt",
               "schedule": []
             }
           ]
@@ -9465,7 +9525,7 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "Aleksander Degtyarev",
               "schedule": []
             }
           ]
@@ -9487,7 +9547,7 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "Syed Waqar Ali Shah",
               "schedule": []
             }
           ]
@@ -9498,7 +9558,7 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "Syed Waqar Ali Shah",
               "schedule": []
             }
           ]
@@ -9509,7 +9569,7 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "Syed Waqar Ali Shah",
               "schedule": []
             }
           ]
@@ -9542,7 +9602,7 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "Deniz Yılmaz",
               "schedule": []
             }
           ]
@@ -9553,7 +9613,7 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "Mehmet Fatihcan Atay",
               "schedule": []
             }
           ]
@@ -11302,6 +11362,100 @@
     }
   },
   {
+    "NSC": {
+      "courses": [
+        {
+          "code": "NSC 511",
+          "name": "Cellular, Molecular and Developmental Neuroscience ",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Turgay Dalkara",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "NSC 512",
+          "name": "Research Methods in Neuroscience",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Ronny Rosner",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "NSC 539",
+          "name": "Visual Neuroscience",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Ronny Rosner",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "NSC 546",
+          "name": "Computing for Neuroscience",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Grant Navid Doering",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "NSC 591",
+          "name": "Pro-thesis Seminar I",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Staff",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "NSC 599",
+          "name": "Neuroscience Master's Thesis",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Burcu Ayşen  Ürgen",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "NSC 691",
+          "name": "Pro-thesis Seminar II",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Staff",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "NSC 699",
+          "name": "Neuroscience Ph.D. Dissertation",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Burcu Ayşen  Ürgen",
+              "schedule": []
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
     "PHIL": {
       "courses": [
         {
@@ -11310,7 +11464,17 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "Alireza Fatollahi",
+              "schedule": []
+            },
+            {
+              "number": "2",
+              "instructor": "Alireza Fatollahi",
+              "schedule": []
+            },
+            {
+              "number": "3",
+              "instructor": "Nazım Keven",
               "schedule": []
             }
           ]
@@ -11321,7 +11485,7 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "Tufan Kıymaz",
               "schedule": []
             }
           ]
@@ -11332,7 +11496,7 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "Yehezkel Symonds",
               "schedule": []
             }
           ]
@@ -11343,7 +11507,7 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "Alireza Fatollahi",
               "schedule": []
             }
           ]
@@ -11354,7 +11518,82 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "Mary Katrina Krizan",
+              "schedule": []
+            },
+            {
+              "number": "2",
+              "instructor": "Yan Trefor Overfield Shaw & Arash Abazari",
+              "schedule": []
+            },
+            {
+              "number": "3",
+              "instructor": "Yan Trefor Overfield Shaw & Arash Abazari",
+              "schedule": []
+            },
+            {
+              "number": "4",
+              "instructor": "Daniel Mark Wolt & Sergio Baptista Teixeira",
+              "schedule": []
+            },
+            {
+              "number": "5",
+              "instructor": "Yan Trefor Overfield Shaw & James Kinkaid III",
+              "schedule": []
+            },
+            {
+              "number": "6",
+              "instructor": "Daniel Mark Wolt & Sergio Baptista Teixeira",
+              "schedule": []
+            },
+            {
+              "number": "7",
+              "instructor": "Mary Katrina Krizan",
+              "schedule": []
+            },
+            {
+              "number": "8",
+              "instructor": "Yan Trefor Overfield Shaw & James Kinkaid III",
+              "schedule": []
+            },
+            {
+              "number": "9",
+              "instructor": "Elif Hande Özer & Yehezkel Symonds",
+              "schedule": []
+            },
+            {
+              "number": "10",
+              "instructor": "Jennifer Lyn Schroeder & Daniel Everett Ferguson",
+              "schedule": []
+            },
+            {
+              "number": "11",
+              "instructor": "Yehezkel  Berkovski & Elif Hande Özer",
+              "schedule": []
+            },
+            {
+              "number": "12",
+              "instructor": "Elif Hande Özer & Yehezkel Symonds",
+              "schedule": []
+            },
+            {
+              "number": "13",
+              "instructor": "Yehezkel  Berkovski & Elif Hande Özer",
+              "schedule": []
+            },
+            {
+              "number": "14",
+              "instructor": "Laura Elizabeth Salgın & İrem Bengü Demirtaş",
+              "schedule": []
+            },
+            {
+              "number": "15",
+              "instructor": "Laura Elizabeth Salgın",
+              "schedule": []
+            },
+            {
+              "number": "16",
+              "instructor": "Jennifer Lyn Schroeder & Daniel Everett Ferguson",
               "schedule": []
             }
           ]
@@ -11365,7 +11604,27 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "Tufan Kıymaz",
+              "schedule": []
+            },
+            {
+              "number": "2",
+              "instructor": "Tufan Kıymaz",
+              "schedule": []
+            },
+            {
+              "number": "3",
+              "instructor": "Tufan Kıymaz",
+              "schedule": []
+            },
+            {
+              "number": "4",
+              "instructor": "Nazım Keven & Mark Daniel Biram",
+              "schedule": []
+            },
+            {
+              "number": "5",
+              "instructor": "Nazım Keven & Mark Daniel Biram",
               "schedule": []
             }
           ]
@@ -11376,7 +11635,7 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "Daniel Mark Wolt",
               "schedule": []
             }
           ]
@@ -11387,7 +11646,7 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "James Kinkaid III",
               "schedule": []
             }
           ]
@@ -11400,6 +11659,11 @@
               "number": "1",
               "instructor": "Staff",
               "schedule": []
+            },
+            {
+              "number": "2",
+              "instructor": "Staff",
+              "schedule": []
             }
           ]
         },
@@ -11409,7 +11673,7 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "Istvan Albert Aranyosi",
               "schedule": []
             }
           ]
@@ -11420,7 +11684,12 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "Istvan Albert Aranyosi",
+              "schedule": []
+            },
+            {
+              "number": "2",
+              "instructor": "Istvan Albert Aranyosi",
               "schedule": []
             }
           ]
@@ -11431,7 +11700,7 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "Daniel Mark Wolt",
               "schedule": []
             }
           ]
@@ -11442,7 +11711,7 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "Yehezkel  Berkovski",
               "schedule": []
             }
           ]
@@ -11453,7 +11722,7 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "Yehezkel  Berkovski",
               "schedule": []
             }
           ]
@@ -11464,7 +11733,7 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "Yehezkel  Berkovski",
               "schedule": []
             }
           ]
@@ -11475,7 +11744,7 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "Daniel Mark Wolt",
               "schedule": []
             }
           ]
@@ -11486,7 +11755,7 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "Mary Katrina Krizan",
               "schedule": []
             }
           ]
@@ -11497,7 +11766,7 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "Daniel Mark Wolt",
               "schedule": []
             }
           ]
@@ -11508,7 +11777,7 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "Yehezkel  Berkovski",
               "schedule": []
             }
           ]
@@ -11519,7 +11788,7 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "James Kinkaid III",
               "schedule": []
             }
           ]
@@ -11530,7 +11799,7 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "Istvan Albert Aranyosi",
               "schedule": []
             }
           ]
@@ -11541,7 +11810,7 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "Simon Drummond Wigley",
               "schedule": []
             }
           ]
@@ -11552,7 +11821,7 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "Simon Drummond Wigley",
               "schedule": []
             }
           ]
@@ -11563,7 +11832,7 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "Simon Drummond Wigley",
               "schedule": []
             }
           ]
@@ -11574,7 +11843,7 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "Simon Drummond Wigley",
               "schedule": []
             }
           ]
@@ -11591,72 +11860,72 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "Ekmel Özbay",
               "schedule": []
             },
             {
               "number": "2",
-              "instructor": "Staff",
+              "instructor": "Haldun Sevinçli",
               "schedule": []
             },
             {
               "number": "3",
-              "instructor": "Staff",
+              "instructor": "Manouchehr Takrimi",
               "schedule": []
             },
             {
               "number": "4",
-              "instructor": "Staff",
+              "instructor": "Bayram Tekin",
               "schedule": []
             },
             {
               "number": "5",
-              "instructor": "Staff",
+              "instructor": "Manouchehr Takrimi",
               "schedule": []
             },
             {
               "number": "6",
-              "instructor": "Staff",
+              "instructor": "Haldun Sevinçli",
               "schedule": []
             },
             {
               "number": "7",
-              "instructor": "Staff",
+              "instructor": "Bilal Tanatar",
               "schedule": []
             },
             {
               "number": "8",
-              "instructor": "Staff",
+              "instructor": "Emre Ozan Polat",
               "schedule": []
             },
             {
               "number": "9",
-              "instructor": "Staff",
+              "instructor": "Mehmet Özgür Oktel",
               "schedule": []
             },
             {
               "number": "10",
-              "instructor": "Staff",
+              "instructor": "Amirhoushang Bahrami",
               "schedule": []
             },
             {
               "number": "11",
-              "instructor": "Staff",
+              "instructor": "Sevilay Sevinçli",
               "schedule": []
             },
             {
               "number": "12",
-              "instructor": "Staff",
+              "instructor": "Amirhoushang Bahrami",
               "schedule": []
             },
             {
               "number": "13",
-              "instructor": "Staff",
+              "instructor": "Oğuz Gülseren",
               "schedule": []
             },
             {
               "number": "14",
-              "instructor": "Staff",
+              "instructor": "Emre Ozan Polat",
               "schedule": []
             }
           ]
@@ -11667,12 +11936,12 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "Aydın Cem Keser",
               "schedule": []
             },
             {
               "number": "2",
-              "instructor": "Staff",
+              "instructor": "Manouchehr Takrimi",
               "schedule": []
             },
             {
@@ -11682,12 +11951,12 @@
             },
             {
               "number": "4",
-              "instructor": "Staff",
+              "instructor": "Manouchehr Takrimi",
               "schedule": []
             },
             {
               "number": "5",
-              "instructor": "Staff",
+              "instructor": "Sevilay Sevinçli",
               "schedule": []
             }
           ]
@@ -11698,7 +11967,7 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "Cemal Yalabık",
               "schedule": []
             }
           ]
@@ -11714,11 +11983,16 @@
             },
             {
               "number": "2",
-              "instructor": "Staff",
+              "instructor": "Deniz Aybaş",
               "schedule": []
             },
             {
               "number": "3",
+              "instructor": "Ceyhun Bulutay",
+              "schedule": []
+            },
+            {
+              "number": "4",
               "instructor": "Staff",
               "schedule": []
             }
@@ -11730,7 +12004,7 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "Onur Tokel",
               "schedule": []
             }
           ]
@@ -11741,7 +12015,7 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "Onur Tokel",
               "schedule": []
             }
           ]
@@ -11752,7 +12026,7 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "Cemal Yalabık",
               "schedule": []
             }
           ]
@@ -11763,7 +12037,7 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "Cemal Yalabık",
               "schedule": []
             }
           ]
@@ -11774,7 +12048,7 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "Aydın Cem Keser",
               "schedule": []
             }
           ]
@@ -11785,7 +12059,7 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "Bayram Tekin",
               "schedule": []
             }
           ]
@@ -11796,7 +12070,7 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "Oğuz Gülseren",
               "schedule": []
             }
           ]
@@ -11807,7 +12081,7 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "Deniz Aybaş",
               "schedule": []
             }
           ]
@@ -11840,7 +12114,7 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "Oğuz Gülseren",
               "schedule": []
             }
           ]
@@ -11851,7 +12125,7 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "Deniz Aybaş",
               "schedule": []
             }
           ]
@@ -11862,7 +12136,7 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "Bilal Tanatar",
               "schedule": []
             }
           ]
@@ -11873,7 +12147,7 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "Mehmet Özgür Oktel",
               "schedule": []
             }
           ]
@@ -11884,7 +12158,7 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "Onur Tokel",
               "schedule": []
             }
           ]
@@ -11895,7 +12169,7 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "Deniz Aybaş",
               "schedule": []
             }
           ]
@@ -11906,7 +12180,7 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "Deniz Aybaş",
               "schedule": []
             }
           ]
@@ -11917,7 +12191,7 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "Ceyhun Bulutay",
               "schedule": []
             }
           ]
@@ -11928,7 +12202,7 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "Ceyhun Bulutay",
               "schedule": []
             }
           ]
@@ -12251,6 +12525,17 @@
             {
               "number": "1",
               "instructor": "Aida Just",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "POLS 5510",
+          "name": "Methods and Design of Political Analysis",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Efe  Tokdemir",
               "schedule": []
             }
           ]

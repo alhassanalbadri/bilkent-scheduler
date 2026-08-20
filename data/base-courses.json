@@ -919,7 +919,7 @@
         },
         {
           "code": "COMD 103",
-          "name": "Integrated Visual Communication",
+          "name": "Integrated Technologies and Artificial Intelligence",
           "sections": [
             {
               "number": "1",
@@ -1777,12 +1777,12 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Cem Tekin",
+              "instructor": "Ezhan Karaşan",
               "schedule": []
             },
             {
               "number": "2",
-              "instructor": "Ezhan Karaşan",
+              "instructor": "Cem Tekin",
               "schedule": []
             }
           ]
@@ -4222,6 +4222,134 @@
     }
   },
   {
+    "ENG": {
+      "courses": [
+        {
+          "code": "ENG 101",
+          "name": "English and Composition I",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "10",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "20",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "35",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "49",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "60",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "73",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "87",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "93",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "101",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "115",
+              "instructor": "Staff",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "ENG 102",
+          "name": "English and Composition II",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "8",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "15",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "22",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "30",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "36",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "43",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "50",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "57",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "64",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "72",
+              "instructor": "Staff",
+              "schedule": []
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
     "FA": {
       "courses": [
         {
@@ -4791,6 +4919,17 @@
               "schedule": []
             }
           ]
+        },
+        {
+          "code": "GE 511",
+          "name": "Philosophy of Social Inquiry",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Simon Drummond Wigley",
+              "schedule": []
+            }
+          ]
         }
       ]
     }
@@ -4913,7 +5052,7 @@
         },
         {
           "code": "GRA 225",
-          "name": "Introduction to Visual Techniques",
+          "name": "Introduction to Visual Techniques with Al Assistance",
           "sections": [
             {
               "number": "1",
@@ -5372,6 +5511,91 @@
               "number": "1",
               "instructor": "Staff",
               "schedule": []
+            },
+            {
+              "number": "2",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "3",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "4",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "5",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "6",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "7",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "8",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "9",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "10",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "11",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "12",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "13",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "14",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "15",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "16",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "17",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "18",
+              "instructor": "Staff",
+              "schedule": []
             }
           ]
         },
@@ -5381,6 +5605,26 @@
           "sections": [
             {
               "number": "1",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "2",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "3",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "4",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "5",
               "instructor": "Staff",
               "schedule": []
             }
@@ -5398,6 +5642,111 @@
           "sections": [
             {
               "number": "1",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "2",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "3",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "4",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "5",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "6",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "7",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "8",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "9",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "10",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "11",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "12",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "13",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "14",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "15",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "16",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "17",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "18",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "19",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "20",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "21",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "22",
               "instructor": "Staff",
               "schedule": []
             }
@@ -5425,6 +5774,11 @@
           "sections": [
             {
               "number": "1",
+              "instructor": "Staff",
+              "schedule": []
+            },
+            {
+              "number": "2",
               "instructor": "Staff",
               "schedule": []
             }
@@ -5574,17 +5928,6 @@
           ]
         },
         {
-          "code": "HIST 618",
-          "name": "Islamic Thought, Law and Society in the Modern Age",
-          "sections": [
-            {
-              "number": "1",
-              "instructor": "Berke Torunoğlu",
-              "schedule": []
-            }
-          ]
-        },
-        {
           "code": "HIST 643",
           "name": "Medieval Papacy and Churches of Europe from 1000 to 1500",
           "sections": [
@@ -5662,12 +6005,12 @@
           ]
         },
         {
-          "code": "HIST 5513",
-          "name": "Venice between the Byzantines and the Ottomans (ca. 300 - ca. 1700 CE)",
+          "code": "HIST 5517",
+          "name": "Transformation of Islam in the Early Modern Ottoman Empire",
           "sections": [
             {
               "number": "1",
-              "instructor": "Luca Zavagno",
+              "instructor": "Baki Tezcan",
               "schedule": []
             }
           ]
@@ -6066,7 +6409,7 @@
         },
         {
           "code": "IAED 211",
-          "name": "Media for Representation ",
+          "name": "Media and Artificial Intelligence for Representation",
           "sections": [
             {
               "number": "1",
@@ -6166,7 +6509,7 @@
         },
         {
           "code": "IAED 341",
-          "name": "Architectural Acoustics",
+          "name": "Architectural Acoustics and Building Safety",
           "sections": [
             {
               "number": "1",
@@ -6271,7 +6614,7 @@
         },
         {
           "code": "IAED 463",
-          "name": "History of Furniture",
+          "name": "History of Interior Design and Furniture",
           "sections": [
             {
               "number": "1",
@@ -7302,7 +7645,7 @@
         },
         {
           "code": "LAUD 221",
-          "name": "Introduction to Urban Concepts",
+          "name": "Introduction to Urban Design",
           "sections": [
             {
               "number": "1",
@@ -7335,7 +7678,7 @@
         },
         {
           "code": "LAUD 301",
-          "name": "Design Studio III: Small Town",
+          "name": "Design Studio III: Town Center",
           "sections": [
             {
               "number": "1",
@@ -7368,7 +7711,7 @@
         },
         {
           "code": "LAUD 401",
-          "name": "Senior Design Studio I: Open Space Network",
+          "name": "Senior Design Studio I: Urban Systems",
           "sections": [
             {
               "number": "1",
@@ -7390,7 +7733,7 @@
         },
         {
           "code": "LAUD 471",
-          "name": "Urban Sociology",
+          "name": "City, Culture and Society",
           "sections": [
             {
               "number": "1",
@@ -7401,7 +7744,7 @@
         },
         {
           "code": "LAUD 481",
-          "name": "Landscape Ecology Studio",
+          "name": "Climate Justice & Ecological Design",
           "sections": [
             {
               "number": "1",
@@ -7679,6 +8022,17 @@
           ]
         },
         {
+          "code": "LAW 325",
+          "name": "Legal History (in Turkish)",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Staff",
+              "schedule": []
+            }
+          ]
+        },
+        {
           "code": "LAW 365",
           "name": "Legal Philosophy(in Turkish)",
           "sections": [
@@ -7936,8 +8290,8 @@
           ]
         },
         {
-          "code": "LAW 637",
-          "name": "Corporate Finance Law (in Turkish)",
+          "code": "LAW 622",
+          "name": "Preservation of Assets in Corporations (in Turkish)",
           "sections": [
             {
               "number": "1",
@@ -13743,7 +14097,7 @@
             },
             {
               "number": "2",
-              "instructor": "Staff",
+              "instructor": "Büşra Kurt Uçar",
               "schedule": []
             }
           ]
@@ -13759,7 +14113,7 @@
             },
             {
               "number": "2",
-              "instructor": "Staff",
+              "instructor": "Esmaeil Kalantari",
               "schedule": []
             }
           ]

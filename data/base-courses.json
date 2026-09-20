@@ -349,8 +349,23 @@
           "name": "Architectural Design Studio I",
           "sections": [
             {
-              "number": "5",
-              "instructor": "Staff",
+              "number": "1",
+              "instructor": "Aslıhan Günhan Çalışkan",
+              "schedule": []
+            },
+            {
+              "number": "2",
+              "instructor": "Ayşe Henry",
+              "schedule": []
+            },
+            {
+              "number": "3",
+              "instructor": "Valentina Beatini",
+              "schedule": []
+            },
+            {
+              "number": "4",
+              "instructor": "Alp Giray Köse",
               "schedule": []
             }
           ]
@@ -403,8 +418,23 @@
           "name": "Architectural Design Studio III",
           "sections": [
             {
-              "number": "5",
-              "instructor": "Staff",
+              "number": "1",
+              "instructor": "Özge Selen Duran",
+              "schedule": []
+            },
+            {
+              "number": "2",
+              "instructor": "Giorgio Gasco",
+              "schedule": []
+            },
+            {
+              "number": "3",
+              "instructor": "Zeynep Ege Demirkol",
+              "schedule": []
+            },
+            {
+              "number": "4",
+              "instructor": "Bilkay Begüm Peker",
               "schedule": []
             }
           ]
@@ -452,8 +482,23 @@
           "name": "Architectural Design Studio V",
           "sections": [
             {
-              "number": "5",
-              "instructor": "Staff",
+              "number": "1",
+              "instructor": "Yiğit Acar",
+              "schedule": []
+            },
+            {
+              "number": "2",
+              "instructor": "Carolina Belen Espinoza Sanhueza",
+              "schedule": []
+            },
+            {
+              "number": "3",
+              "instructor": "Cevdet Ege Çakır",
+              "schedule": []
+            },
+            {
+              "number": "4",
+              "instructor": "Melis Sözen",
               "schedule": []
             }
           ]
@@ -1843,17 +1888,6 @@
           ]
         },
         {
-          "code": "CTIS 480",
-          "name": "iOS Application Development",
-          "sections": [
-            {
-              "number": "1",
-              "instructor": "Seyid Amjad Ali",
-              "schedule": []
-            }
-          ]
-        },
-        {
           "code": "CTIS 487",
           "name": "Mobile Application Development",
           "sections": [
@@ -2247,11 +2281,6 @@
               "schedule": []
             },
             {
-              "number": "10",
-              "instructor": "Mustafa Eray Yücel",
-              "schedule": []
-            },
-            {
               "number": "11",
               "instructor": "Mustafa Eray Yücel",
               "schedule": []
@@ -2381,7 +2410,7 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "Mustafa Eray Yücel",
               "schedule": []
             }
           ]
@@ -3143,7 +3172,7 @@
             },
             {
               "number": "2",
-              "instructor": "Staff",
+              "instructor": "Serra Çağatay",
               "schedule": []
             }
           ]
@@ -3227,6 +3256,11 @@
               "number": "10",
               "instructor": "Bilkay Begüm Peker",
               "schedule": []
+            },
+            {
+              "number": "11",
+              "instructor": "Efe Alpay",
+              "schedule": []
             }
           ]
         },
@@ -3306,6 +3340,11 @@
             },
             {
               "number": "2",
+              "instructor": "Ardan Özmenoğlu",
+              "schedule": []
+            },
+            {
+              "number": "3",
               "instructor": "Ardan Özmenoğlu",
               "schedule": []
             }
@@ -3398,17 +3437,6 @@
           ]
         },
         {
-          "code": "FA 331",
-          "name": "Creative Artificial Intelligence: Technology and Artistry",
-          "sections": [
-            {
-              "number": "1",
-              "instructor": "Serdar Bilici",
-              "schedule": []
-            }
-          ]
-        },
-        {
           "code": "FA 361",
           "name": "Philosophy of Art I",
           "sections": [
@@ -3462,17 +3490,6 @@
               "schedule": []
             }
           ]
-        },
-        {
-          "code": "FA 473",
-          "name": "Contemporary Turkish Art",
-          "sections": [
-            {
-              "number": "1",
-              "instructor": "Ardan Özmenoğlu",
-              "schedule": []
-            }
-          ]
         }
       ]
     }
@@ -3519,92 +3536,92 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "Emine Öncüler Yayalar",
               "schedule": []
             },
             {
               "number": "2",
-              "instructor": "Staff",
+              "instructor": "Emine Öncüler Yayalar",
               "schedule": []
             },
             {
               "number": "3",
-              "instructor": "Staff",
+              "instructor": "Barış Alpertan",
               "schedule": []
             },
             {
               "number": "4",
-              "instructor": "Staff",
+              "instructor": "Emine Öncüler Yayalar",
               "schedule": []
             },
             {
               "number": "5",
-              "instructor": "Staff",
+              "instructor": "Barış Alpertan",
               "schedule": []
             },
             {
               "number": "6",
-              "instructor": "Staff",
+              "instructor": "Barış Alpertan",
               "schedule": []
             },
             {
               "number": "7",
-              "instructor": "Staff",
+              "instructor": "Emine Öncüler Yayalar",
               "schedule": []
             },
             {
               "number": "8",
-              "instructor": "Staff",
+              "instructor": "Şeref Anıl Kahvecioğlu",
               "schedule": []
             },
             {
               "number": "9",
-              "instructor": "Staff",
+              "instructor": "Şeref Anıl Kahvecioğlu",
               "schedule": []
             },
             {
               "number": "10",
-              "instructor": "Staff",
+              "instructor": "Emine Öncüler Yayalar",
               "schedule": []
             },
             {
               "number": "11",
-              "instructor": "Staff",
+              "instructor": "Barış Alpertan",
               "schedule": []
             },
             {
               "number": "12",
-              "instructor": "Staff",
+              "instructor": "Barış Alpertan",
               "schedule": []
             },
             {
               "number": "13",
-              "instructor": "Staff",
+              "instructor": "Şeref Anıl Kahvecioğlu",
               "schedule": []
             },
             {
               "number": "14",
-              "instructor": "Staff",
+              "instructor": "Şeref Anıl Kahvecioğlu",
               "schedule": []
             },
             {
               "number": "15",
-              "instructor": "Staff",
+              "instructor": "Barış Alpertan",
               "schedule": []
             },
             {
               "number": "16",
-              "instructor": "Staff",
+              "instructor": "Şeref Anıl Kahvecioğlu",
               "schedule": []
             },
             {
               "number": "17",
-              "instructor": "Staff",
+              "instructor": "Şeref Anıl Kahvecioğlu",
               "schedule": []
             },
             {
               "number": "18",
-              "instructor": "Staff",
+              "instructor": "Emine Öncüler Yayalar",
               "schedule": []
             }
           ]
@@ -3648,6 +3665,17 @@
         {
           "code": "GE 401",
           "name": "Innovative Design and Entrepreneurship I",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Mehmet Alper Kutay",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "GE 402",
+          "name": "Innovative Design and Entrepreneurship II",
           "sections": [
             {
               "number": "1",
@@ -3885,28 +3913,6 @@
           ]
         },
         {
-          "code": "GRA 335",
-          "name": "Computational Design Methods",
-          "sections": [
-            {
-              "number": "1",
-              "instructor": "Efe Alpay",
-              "schedule": []
-            }
-          ]
-        },
-        {
-          "code": "GRA 337",
-          "name": "Visual Narrative",
-          "sections": [
-            {
-              "number": "1",
-              "instructor": "Çavlan Başarır",
-              "schedule": []
-            }
-          ]
-        },
-        {
           "code": "GRA 341",
           "name": "History of Graphic Art",
           "sections": [
@@ -3953,11 +3959,6 @@
           "code": "GRA 421",
           "name": "Illustration I",
           "sections": [
-            {
-              "number": "1",
-              "instructor": "Birsu Semra Çeltek",
-              "schedule": []
-            },
             {
               "number": "2",
               "instructor": "Marek Brzozowski",
@@ -4135,17 +4136,6 @@
             {
               "number": "1",
               "instructor": "Anais Lamesa",
-              "schedule": []
-            }
-          ]
-        },
-        {
-          "code": "HART 339",
-          "name": "Introduction to Bioarchhaeology",
-          "sections": [
-            {
-              "number": "1",
-              "instructor": "Benjamin Titus Irvine",
               "schedule": []
             }
           ]
@@ -4553,11 +4543,6 @@
             {
               "number": "15",
               "instructor": "İrfan Ertan",
-              "schedule": []
-            },
-            {
-              "number": "16",
-              "instructor": "Tugay Deniz Unutmaz",
               "schedule": []
             },
             {
@@ -5678,17 +5663,6 @@
           ]
         },
         {
-          "code": "LAUD 422",
-          "name": "Processing Urban Design Competitions",
-          "sections": [
-            {
-              "number": "1",
-              "instructor": "Oktan Nalbantoğlu",
-              "schedule": []
-            }
-          ]
-        },
-        {
           "code": "LAUD 471",
           "name": "City, Culture and Society",
           "sections": [
@@ -5716,17 +5690,6 @@
   {
     "LAW": {
       "courses": [
-        {
-          "code": "LAW 102",
-          "name": "Roman Law",
-          "sections": [
-            {
-              "number": "1",
-              "instructor": "Staff",
-              "schedule": []
-            }
-          ]
-        },
         {
           "code": "LAW 103",
           "name": "Constitutional Law (in Turkish)",
@@ -6181,34 +6144,12 @@
           ]
         },
         {
-          "code": "LAW 516",
-          "name": "International Tax Law and Global Tax Policy",
-          "sections": [
-            {
-              "number": "1",
-              "instructor": "Alara Efsun Yazıcıoğlu",
-              "schedule": []
-            }
-          ]
-        },
-        {
           "code": "LAW 517",
           "name": "Right to a Fair Trial (in Turkish)",
           "sections": [
             {
               "number": "1",
               "instructor": "Çağrı Mardin",
-              "schedule": []
-            }
-          ]
-        },
-        {
-          "code": "LAW 519",
-          "name": "Legal Theory and Social Policy",
-          "sections": [
-            {
-              "number": "1",
-              "instructor": "Çağrı Gürkanlı",
               "schedule": []
             }
           ]
@@ -6253,17 +6194,6 @@
             {
               "number": "1",
               "instructor": "Elif Gökşen Köstem",
-              "schedule": []
-            }
-          ]
-        },
-        {
-          "code": "LAW 622",
-          "name": "Preservation of Assets in Corporations (in Turkish)",
-          "sections": [
-            {
-              "number": "1",
-              "instructor": "Çağlar Manavgat",
               "schedule": []
             }
           ]
@@ -6391,17 +6321,6 @@
             },
             {
               "number": "3",
-              "instructor": "Betül Bostan",
-              "schedule": []
-            }
-          ]
-        },
-        {
-          "code": "LNG 122",
-          "name": "French II",
-          "sections": [
-            {
-              "number": "1",
               "instructor": "Betül Bostan",
               "schedule": []
             }
@@ -6654,30 +6573,8 @@
           ]
         },
         {
-          "code": "LNG 222",
-          "name": "Chinese II",
-          "sections": [
-            {
-              "number": "1",
-              "instructor": "Müberra İri",
-              "schedule": []
-            }
-          ]
-        },
-        {
           "code": "LNG 231",
           "name": "Korean I",
-          "sections": [
-            {
-              "number": "1",
-              "instructor": "Derya Çelik Işık",
-              "schedule": []
-            }
-          ]
-        },
-        {
-          "code": "LNG 232",
-          "name": "Korean II",
           "sections": [
             {
               "number": "1",
@@ -6840,7 +6737,7 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "Hacer Novinsalari Ahangari",
               "schedule": []
             },
             {
@@ -8938,7 +8835,7 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Belinda Xiya Chen",
+              "instructor": "Gamze Kırtıl",
               "schedule": []
             },
             {
@@ -8949,6 +8846,166 @@
             {
               "number": "3",
               "instructor": "Zeliha Meral Gökoğlu",
+              "schedule": []
+            },
+            {
+              "number": "4",
+              "instructor": "Azade Bağırov",
+              "schedule": []
+            },
+            {
+              "number": "5",
+              "instructor": "Hatıra Hasanova",
+              "schedule": []
+            },
+            {
+              "number": "6",
+              "instructor": "Azade Bağırov",
+              "schedule": []
+            },
+            {
+              "number": "7",
+              "instructor": "Azade Bağırov",
+              "schedule": []
+            },
+            {
+              "number": "8",
+              "instructor": "Hatıra Hasanova",
+              "schedule": []
+            },
+            {
+              "number": "9",
+              "instructor": "İlke Karagöz",
+              "schedule": []
+            },
+            {
+              "number": "10",
+              "instructor": "Azade Bağırov",
+              "schedule": []
+            },
+            {
+              "number": "11",
+              "instructor": "Hatıra Hasanova",
+              "schedule": []
+            },
+            {
+              "number": "12",
+              "instructor": "Azade Bağırov",
+              "schedule": []
+            },
+            {
+              "number": "13",
+              "instructor": "Azade Bağırov",
+              "schedule": []
+            },
+            {
+              "number": "14",
+              "instructor": "Melis Pınar Başsoy",
+              "schedule": []
+            },
+            {
+              "number": "15",
+              "instructor": "Azade Bağırov",
+              "schedule": []
+            },
+            {
+              "number": "16",
+              "instructor": "Azade Bağırov",
+              "schedule": []
+            },
+            {
+              "number": "17",
+              "instructor": "Azade Bağırov",
+              "schedule": []
+            },
+            {
+              "number": "18",
+              "instructor": "Azade Bağırov",
+              "schedule": []
+            },
+            {
+              "number": "19",
+              "instructor": "Gölge Şekeranber",
+              "schedule": []
+            },
+            {
+              "number": "20",
+              "instructor": "Gölge Şekeranber",
+              "schedule": []
+            },
+            {
+              "number": "21",
+              "instructor": "Ayhan Uştuk",
+              "schedule": []
+            },
+            {
+              "number": "22",
+              "instructor": "Ayhan Uştuk",
+              "schedule": []
+            },
+            {
+              "number": "23",
+              "instructor": "Gölge Şekeranber",
+              "schedule": []
+            },
+            {
+              "number": "24",
+              "instructor": "Zeliha Meral Gökoğlu",
+              "schedule": []
+            },
+            {
+              "number": "25",
+              "instructor": "Zeliha Meral Gökoğlu",
+              "schedule": []
+            },
+            {
+              "number": "26",
+              "instructor": "Ayhan Uştuk",
+              "schedule": []
+            },
+            {
+              "number": "27",
+              "instructor": "Zeliha Meral Gökoğlu",
+              "schedule": []
+            },
+            {
+              "number": "28",
+              "instructor": "Gölge Şekeranber",
+              "schedule": []
+            },
+            {
+              "number": "29",
+              "instructor": "Gölge Şekeranber",
+              "schedule": []
+            },
+            {
+              "number": "30",
+              "instructor": "Zeliha Meral Gökoğlu",
+              "schedule": []
+            },
+            {
+              "number": "31",
+              "instructor": "Ayhan Uştuk",
+              "schedule": []
+            },
+            {
+              "number": "32",
+              "instructor": "Ayhan Uştuk",
+              "schedule": []
+            },
+            {
+              "number": "33",
+              "instructor": "Zeliha Meral Gökoğlu",
+              "schedule": []
+            },
+            {
+              "number": "34",
+              "instructor": "Bahar Kutay",
+              "schedule": []
+            },
+            {
+              "number": "35",
+              "instructor": "Leonid Volkov",
               "schedule": []
             }
           ]
@@ -9410,6 +9467,11 @@
               "number": "15",
               "instructor": "Gölge Şekeranber",
               "schedule": []
+            },
+            {
+              "number": "16",
+              "instructor": "Ayhan Uştuk",
+              "schedule": []
             }
           ]
         },
@@ -9442,17 +9504,6 @@
             {
               "number": "1",
               "instructor": "Tahsin Tolga Yayalar",
-              "schedule": []
-            }
-          ]
-        },
-        {
-          "code": "MSC 213",
-          "name": "Orchestration",
-          "sections": [
-            {
-              "number": "1",
-              "instructor": "Onur Yıldırım",
               "schedule": []
             }
           ]
@@ -9620,17 +9671,6 @@
         {
           "code": "MSC 303",
           "name": "Symphony Orchestra V",
-          "sections": [
-            {
-              "number": "1",
-              "instructor": "Işın Metin",
-              "schedule": []
-            }
-          ]
-        },
-        {
-          "code": "MSC 304",
-          "name": "Symphony Orchestra VI",
           "sections": [
             {
               "number": "1",
@@ -9849,28 +9889,17 @@
           ]
         },
         {
-          "code": "MSC 404",
-          "name": "Symphony Orchestra VIII",
-          "sections": [
-            {
-              "number": "1",
-              "instructor": "Işın Metin",
-              "schedule": []
-            }
-          ]
-        },
-        {
           "code": "MSC 411",
           "name": "Composition VII",
           "sections": [
             {
               "number": "1",
-              "instructor": "Tahsin Tolga Yayalar",
+              "instructor": "Onur Türkmen",
               "schedule": []
             },
             {
               "number": "2",
-              "instructor": "Onur Türkmen",
+              "instructor": "Tahsin Tolga Yayalar",
               "schedule": []
             }
           ]
@@ -9967,6 +9996,17 @@
           ]
         },
         {
+          "code": "MSC 454",
+          "name": "Bilkent Chorale VIII",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Staff",
+              "schedule": []
+            }
+          ]
+        },
+        {
           "code": "MSC 500",
           "name": "Department Seminar",
           "sections": [
@@ -10042,7 +10082,7 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "Burak Onur Erdem",
               "schedule": []
             }
           ]
@@ -10097,6 +10137,17 @@
             {
               "number": "1",
               "instructor": "Zeliha Meral Gökoğlu",
+              "schedule": []
+            }
+          ]
+        },
+        {
+          "code": "MSC 941",
+          "name": "Individual Music Studies VII",
+          "sections": [
+            {
+              "number": "1",
+              "instructor": "Ayhan Uştuk",
               "schedule": []
             }
           ]
@@ -10174,34 +10225,12 @@
           ]
         },
         {
-          "code": "MSN 528",
-          "name": "Polymer Physics in Nanotechnology",
-          "sections": [
-            {
-              "number": "1",
-              "instructor": "Aykut Erbaş",
-              "schedule": []
-            }
-          ]
-        },
-        {
           "code": "MSN 531",
           "name": "Magnetic Materials",
           "sections": [
             {
               "number": "1",
               "instructor": "Cüneyt Şahin",
-              "schedule": []
-            }
-          ]
-        },
-        {
-          "code": "MSN 556",
-          "name": "Optical Fibers",
-          "sections": [
-            {
-              "number": "1",
-              "instructor": "Mustafa  Ordu",
               "schedule": []
             }
           ]
@@ -10306,7 +10335,7 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "Elif Oymagil Sezginer",
               "schedule": []
             }
           ]
@@ -10328,7 +10357,7 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "Elif Oymagil Sezginer",
               "schedule": []
             }
           ]
@@ -11256,7 +11285,7 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Staff",
+              "instructor": "İlker Aytürk",
               "schedule": []
             }
           ]
@@ -11411,552 +11440,6 @@
             {
               "number": "1",
               "instructor": "Aida Just",
-              "schedule": []
-            }
-          ]
-        }
-      ]
-    }
-  },
-  {
-    "PSYC": {
-      "courses": [
-        {
-          "code": "PSYC 100",
-          "name": "Introduction to Psychology",
-          "sections": [
-            {
-              "number": "1",
-              "instructor": "Kaan Kerman",
-              "schedule": []
-            },
-            {
-              "number": "2",
-              "instructor": "Kaan Kerman",
-              "schedule": []
-            },
-            {
-              "number": "3",
-              "instructor": "Eda Önoğlu Yıldırım",
-              "schedule": []
-            },
-            {
-              "number": "4",
-              "instructor": "Tan Arda Gedik",
-              "schedule": []
-            },
-            {
-              "number": "5",
-              "instructor": "Tan Arda Gedik",
-              "schedule": []
-            },
-            {
-              "number": "6",
-              "instructor": "Tan Arda Gedik",
-              "schedule": []
-            },
-            {
-              "number": "7",
-              "instructor": "Selin Salman Engin",
-              "schedule": []
-            },
-            {
-              "number": "8",
-              "instructor": "Selin Salman Engin",
-              "schedule": []
-            }
-          ]
-        },
-        {
-          "code": "PSYC 101",
-          "name": "Introduction to Psychology/Cognitive and Biological",
-          "sections": [
-            {
-              "number": "1",
-              "instructor": "Michelle Marie Adams",
-              "schedule": []
-            },
-            {
-              "number": "2",
-              "instructor": "Michelle Marie Adams",
-              "schedule": []
-            }
-          ]
-        },
-        {
-          "code": "PSYC 102",
-          "name": "Introduction to Social Psychology",
-          "sections": [
-            {
-              "number": "1",
-              "instructor": "Emine Ulaşan Özgüle",
-              "schedule": []
-            },
-            {
-              "number": "2",
-              "instructor": "Emine Ulaşan Özgüle",
-              "schedule": []
-            },
-            {
-              "number": "3",
-              "instructor": "Emine Ulaşan Özgüle",
-              "schedule": []
-            },
-            {
-              "number": "4",
-              "instructor": "Selin Ayas",
-              "schedule": []
-            },
-            {
-              "number": "5",
-              "instructor": "Öykü Çiftçi Kaya",
-              "schedule": []
-            },
-            {
-              "number": "6",
-              "instructor": "Öykü Çiftçi Kaya",
-              "schedule": []
-            }
-          ]
-        },
-        {
-          "code": "PSYC 103",
-          "name": "Introduction to Psychology/Social and Developmental",
-          "sections": [
-            {
-              "number": "1",
-              "instructor": "Selin Salman Engin",
-              "schedule": []
-            }
-          ]
-        },
-        {
-          "code": "PSYC 200",
-          "name": "Cognitive Psychology",
-          "sections": [
-            {
-              "number": "1",
-              "instructor": "Ausaf Ahmed Farooqui",
-              "schedule": []
-            },
-            {
-              "number": "2",
-              "instructor": "Ausaf Ahmed Farooqui",
-              "schedule": []
-            }
-          ]
-        },
-        {
-          "code": "PSYC 203",
-          "name": "Statistical Methods in Psychological Science I",
-          "sections": [
-            {
-              "number": "1",
-              "instructor": "Nilsu Atılgan",
-              "schedule": []
-            },
-            {
-              "number": "2",
-              "instructor": "Kaan Kerman",
-              "schedule": []
-            }
-          ]
-        },
-        {
-          "code": "PSYC 204",
-          "name": "Research Methods in Psychological Science I",
-          "sections": [
-            {
-              "number": "1",
-              "instructor": "Demet Özer",
-              "schedule": []
-            }
-          ]
-        },
-        {
-          "code": "PSYC 205",
-          "name": "Statistical Methods in Psychological Science II",
-          "sections": [
-            {
-              "number": "1",
-              "instructor": "Zahide Pamir Karatok",
-              "schedule": []
-            }
-          ]
-        },
-        {
-          "code": "PSYC 206",
-          "name": "Research Methods in Psychological Science II",
-          "sections": [
-            {
-              "number": "1",
-              "instructor": "Nilsu Atılgan",
-              "schedule": []
-            }
-          ]
-        },
-        {
-          "code": "PSYC 220",
-          "name": "Brain and Behavior",
-          "sections": [
-            {
-              "number": "1",
-              "instructor": "Kaan Kerman",
-              "schedule": []
-            }
-          ]
-        },
-        {
-          "code": "PSYC 230",
-          "name": "Social Psychology",
-          "sections": [
-            {
-              "number": "1",
-              "instructor": "Ezgi Sakman",
-              "schedule": []
-            },
-            {
-              "number": "2",
-              "instructor": "Ezgi Sakman",
-              "schedule": []
-            }
-          ]
-        },
-        {
-          "code": "PSYC 240",
-          "name": "Developmental Psychology",
-          "sections": [
-            {
-              "number": "1",
-              "instructor": "Selin Salman Engin",
-              "schedule": []
-            }
-          ]
-        },
-        {
-          "code": "PSYC 310",
-          "name": "Perception, Attention, and Action",
-          "sections": [
-            {
-              "number": "1",
-              "instructor": "Hüseyin Boyacı",
-              "schedule": []
-            },
-            {
-              "number": "2",
-              "instructor": "Zahide Pamir Karatok",
-              "schedule": []
-            }
-          ]
-        },
-        {
-          "code": "PSYC 340",
-          "name": "Learning and Memory",
-          "sections": [
-            {
-              "number": "1",
-              "instructor": "Tuğba Uzer Yıldız",
-              "schedule": []
-            },
-            {
-              "number": "2",
-              "instructor": "Tuğba Uzer Yıldız",
-              "schedule": []
-            }
-          ]
-        },
-        {
-          "code": "PSYC 350",
-          "name": "Advanced Cognitive and Social Development",
-          "sections": [
-            {
-              "number": "1",
-              "instructor": "Seçil Gönültaş Şahin",
-              "schedule": []
-            },
-            {
-              "number": "2",
-              "instructor": "Seçil Gönültaş Şahin",
-              "schedule": []
-            }
-          ]
-        },
-        {
-          "code": "PSYC 360",
-          "name": "Individual Differences and Personality",
-          "sections": [
-            {
-              "number": "1",
-              "instructor": "Ezgi Sakman",
-              "schedule": []
-            }
-          ]
-        },
-        {
-          "code": "PSYC 391",
-          "name": "Directed Research in Psychology",
-          "sections": [
-            {
-              "number": "1",
-              "instructor": "Zahide Pamir Karatok",
-              "schedule": []
-            }
-          ]
-        },
-        {
-          "code": "PSYC 399",
-          "name": "Summer Training",
-          "sections": [
-            {
-              "number": "1",
-              "instructor": "Emine Ulaşan Özgüle",
-              "schedule": []
-            }
-          ]
-        },
-        {
-          "code": "PSYC 406",
-          "name": "Introduction to Electroencephalography (EEG)",
-          "sections": [
-            {
-              "number": "1",
-              "instructor": "Burcu Ayşen  Ürgen",
-              "schedule": []
-            }
-          ]
-        },
-        {
-          "code": "PSYC 424",
-          "name": "Selected Topics in Cognitive Neuroscience",
-          "sections": [
-            {
-              "number": "1",
-              "instructor": "Grant Navid Doering",
-              "schedule": []
-            }
-          ]
-        },
-        {
-          "code": "PSYC 430",
-          "name": "Clinical Psychology",
-          "sections": [
-            {
-              "number": "1",
-              "instructor": "Ezgi Tunçel",
-              "schedule": []
-            }
-          ]
-        },
-        {
-          "code": "PSYC 431",
-          "name": "Psychological Testing and Measurement",
-          "sections": [
-            {
-              "number": "1",
-              "instructor": "Ezgi Tunçel",
-              "schedule": []
-            }
-          ]
-        },
-        {
-          "code": "PSYC 433",
-          "name": "Abnormal Psychology",
-          "sections": [
-            {
-              "number": "1",
-              "instructor": "Süeda Eker",
-              "schedule": []
-            },
-            {
-              "number": "2",
-              "instructor": "Süeda Eker",
-              "schedule": []
-            }
-          ]
-        },
-        {
-          "code": "PSYC 434",
-          "name": "Child and Adolescent Psychopathology",
-          "sections": [
-            {
-              "number": "1",
-              "instructor": "Nice Ergut",
-              "schedule": []
-            }
-          ]
-        },
-        {
-          "code": "PSYC 435",
-          "name": "Industrial and Organizational Psychology",
-          "sections": [
-            {
-              "number": "1",
-              "instructor": "Emine Ulaşan Özgüle",
-              "schedule": []
-            }
-          ]
-        },
-        {
-          "code": "PSYC 442",
-          "name": "Psychology of Language",
-          "sections": [
-            {
-              "number": "1",
-              "instructor": "Demet Özer",
-              "schedule": []
-            }
-          ]
-        },
-        {
-          "code": "PSYC 444",
-          "name": "Human Bonding",
-          "sections": [
-            {
-              "number": "1",
-              "instructor": "Ezgi Sakman",
-              "schedule": []
-            }
-          ]
-        },
-        {
-          "code": "PSYC 446",
-          "name": "Psychological Well-being at Work",
-          "sections": [
-            {
-              "number": "1",
-              "instructor": "Başak Gogen",
-              "schedule": []
-            }
-          ]
-        },
-        {
-          "code": "PSYC 449",
-          "name": "Clinical Interview Skills and Techniques",
-          "sections": [
-            {
-              "number": "1",
-              "instructor": "Süeda Eker",
-              "schedule": []
-            }
-          ]
-        },
-        {
-          "code": "PSYC 498",
-          "name": "Senior Project I",
-          "sections": [
-            {
-              "number": "1",
-              "instructor": "Kaan Kerman & Demet Özer & Nilsu Atılgan",
-              "schedule": []
-            }
-          ]
-        },
-        {
-          "code": "PSYC 499",
-          "name": "Senior Project II",
-          "sections": [
-            {
-              "number": "1",
-              "instructor": "Kaan Kerman & Demet Özer & Nilsu Atılgan",
-              "schedule": []
-            }
-          ]
-        },
-        {
-          "code": "PSYC 502",
-          "name": "Advanced Developmental Psychology",
-          "sections": [
-            {
-              "number": "1",
-              "instructor": "Hande Ilgaz",
-              "schedule": []
-            }
-          ]
-        },
-        {
-          "code": "PSYC 506",
-          "name": "Introduction to Electroencephalography (EEG)",
-          "sections": [
-            {
-              "number": "1",
-              "instructor": "Burcu Ayşen  Ürgen",
-              "schedule": []
-            }
-          ]
-        },
-        {
-          "code": "PSYC 510",
-          "name": "Advanced Social Psychology",
-          "sections": [
-            {
-              "number": "1",
-              "instructor": "Murat Kezer",
-              "schedule": []
-            }
-          ]
-        },
-        {
-          "code": "PSYC 520",
-          "name": "Selected Topics In Cognitive Neuroscience",
-          "sections": [
-            {
-              "number": "1",
-              "instructor": "Grant Navid Doering",
-              "schedule": []
-            }
-          ]
-        },
-        {
-          "code": "PSYC 575",
-          "name": "Advanced Training in Psychological Research I",
-          "sections": [
-            {
-              "number": "1",
-              "instructor": "Seçil Gönültaş Şahin",
-              "schedule": []
-            }
-          ]
-        },
-        {
-          "code": "PSYC 591",
-          "name": "Pro-Thesis Seminar I",
-          "sections": [
-            {
-              "number": "1",
-              "instructor": "Seçil Gönültaş Şahin",
-              "schedule": []
-            }
-          ]
-        },
-        {
-          "code": "PSYC 599",
-          "name": "Master's Thesis",
-          "sections": [
-            {
-              "number": "1",
-              "instructor": "Seçil Gönültaş Şahin",
-              "schedule": []
-            }
-          ]
-        },
-        {
-          "code": "PSYC 691",
-          "name": "Pro-Thesis Seminar II",
-          "sections": [
-            {
-              "number": "1",
-              "instructor": "Seçil Gönültaş Şahin",
-              "schedule": []
-            }
-          ]
-        },
-        {
-          "code": "PSYC 699",
-          "name": "Ph.D. Dissertation",
-          "sections": [
-            {
-              "number": "1",
-              "instructor": "Seçil Gönültaş Şahin",
               "schedule": []
             }
           ]
@@ -12124,23 +11607,6 @@
             {
               "number": "1",
               "instructor": "Ufuk Balaman",
-              "schedule": []
-            }
-          ]
-        }
-      ]
-    }
-  },
-  {
-    "THEA": {
-      "courses": [
-        {
-          "code": "THEA 181",
-          "name": "Acting Techniques I-Singing",
-          "sections": [
-            {
-              "number": "1",
-              "instructor": "Berkay Şekerci",
               "schedule": []
             }
           ]
@@ -12683,17 +12149,6 @@
           ]
         },
         {
-          "code": "TRIN 207",
-          "name": "Language of Journalism",
-          "sections": [
-            {
-              "number": "1",
-              "instructor": "Esmaeil Kalantari",
-              "schedule": []
-            }
-          ]
-        },
-        {
           "code": "TRIN 212",
           "name": "Technology for Translators",
           "sections": [
@@ -12806,12 +12261,12 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Fatma Aksoy",
+              "instructor": "Fatma Aksoy & Merve Tanrıverdi Kaya",
               "schedule": []
             },
             {
               "number": "2",
-              "instructor": "Fatma Aksoy",
+              "instructor": "Fatma Aksoy & Merve Tanrıverdi Kaya",
               "schedule": []
             }
           ]

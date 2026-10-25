@@ -1015,7 +1015,7 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Alipaşa Ayas",
+              "instructor": "Staff",
               "schedule": []
             }
           ],
@@ -1051,7 +1051,7 @@
           "sections": [
             {
               "number": "1",
-              "instructor": "Alipaşa Ayas",
+              "instructor": "Staff",
               "schedule": []
             }
           ],
@@ -13905,8 +13905,7 @@
               "instructor": "Duygu Duman",
               "schedule": []
             }
-          ],
-          "gpa": "3.05"
+          ]
         },
         {
           "code": "TRIN 470",
